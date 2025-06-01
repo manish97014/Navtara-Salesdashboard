@@ -2,31 +2,69 @@ import streamlit as st
 import importlib
 
 # Must be the first Streamlit command
-st.set_page_config(page_title="Sales Performance Analysis", layout="wide")
+st.set_page_config(page_title="Navtara Performance Dashboard", layout="wide")
 
-st.title("📊 Sales Performance Analysis")
+st.title("📈 Navtara Performance Dashboard")
 
-st.sidebar.title("Menu")
-option = st.sidebar.radio(
-    "Select a Report",
-    ["Sales Growth", "Reconciliations", "Cash Variance"]
+# Main section selection
+main_section = st.sidebar.radio(
+    "Select Section",
+    ["Sales Performance Analysis", "Food Cost Analysis", "Financial Reporting"]
 )
 
-if option == "Sales Growth":
-    try:
-        module = importlib.import_module("web_sales")  # no .py extension
-        module.main()  # call main function of the module
-    except ModuleNotFoundError:
-        st.error("Error: 'Web sales' module not found.")
-    except AttributeError:
-        st.error("Error: 'main' function not found in 'Web sales' module.")
-    except Exception as e:
-        st.error(f"An unexpected error occurred: {e}")
+# === SALES PERFORMANCE ANALYSIS ===
+if main_section == "Sales Performance Analysis":
+    st.header("📊 Sales Performance Analysis")
 
-elif option == "Reconciliations":
-    st.subheader("🔄 Reconciliations")
-    st.info("Reconciliation report will be added here.")
+    sub_option = st.sidebar.radio(
+        "Select a Report",
+        ["Sales Growth", "Reconciliations", "Cash Variance"]
+    )
 
-elif option == "Cash Variance":
-    st.subheader("💰 Cash Variance")
-    st.info("Cash Variance report will be added here.")
+    if sub_option == "Sales Growth":
+        try:
+            module = importlib.import_module("web_sales")  # No .py extension
+            module.main()
+        except ModuleNotFoundError:
+            st.error("❌ 'Web sales' module not found.")
+        except AttributeError:
+            st.error("❌ 'main' function not found in 'Web sales' module.")
+        except Exception as e:
+            st.error(f"❌ Unexpected error: {e}")
+
+    elif sub_option == "Reconciliations":
+        st.subheader("🔄 Reconciliations")
+        st.info("Reconciliation report will be added here.")
+
+    elif sub_option == "Cash Variance":
+        st.subheader("💰 Cash Variance")
+        st.info("Cash Variance report will be added here.")
+
+# === FOOD COST ANALYSIS ===
+elif main_section == "Food Cost Analysis":
+    st.header("🍽️ Food Cost Analysis")
+
+    food_option = st.sidebar.radio(
+        "Select a Report",
+        [
+            "Ideal Vs Actual Food Cost",
+            "Inventory Consumption Report",
+            "Inventory Loss Report",
+            "Dish Level Costing Report"
+        ]
+    )
+
+    st.subheader(food_option)
+    st.info(f"{food_option} – Coming Soon!")
+
+# === FINANCIAL REPORTING ===
+elif main_section == "Financial Reporting":
+    st.header("📑 Financial Reporting")
+
+    finance_option = st.sidebar.radio(
+        "Select a Report",
+        ["P&L Report", "Cash Flow Statement"]
+    )
+
+    st.subheader(finance_option)
+    st.info(f"{finance_option} – Coming Soon!")
