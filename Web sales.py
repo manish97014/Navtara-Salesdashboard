@@ -21,7 +21,7 @@ def load_sales_data(folder_path):
         try:
             df = pd.read_csv(file, encoding='utf-8')
             df_list.append(df)
-        except Exception as e:
+        except Exception:
             continue
 
     if not df_list:
@@ -74,12 +74,10 @@ def get_current_period(df, selected_years, selected_months, selected_weeks, sele
         return None, None
     return df_temp['Date'].min(), df_temp['Date'].max()
 
-# --- Main function (no page_config here) ---
 def main():
-    st.set_page_config(page_title="Sales Trends Dashboard", layout="wide")
     st.title("📈 Sales Trends")
 
-    folder_path = "Input files"
+    folder_path = "Input files"  # Change this path as needed
 
     with st.spinner("Loading data..."):
         df = load_sales_data(folder_path)
@@ -194,6 +192,3 @@ def main():
     outlet_sales = df_current.groupby('Outlet Name')['Sales Value'].sum().reset_index()
     fig_outlets = px.bar(outlet_sales, x='Outlet Name', y='Sales Value', title="Sales by Outlet", labels={'Outlet Name': 'Outlet'})
     st.plotly_chart(fig_outlets, use_container_width=True)
-
-if __name__ == "__main__":
-    main()
