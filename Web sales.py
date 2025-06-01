@@ -77,7 +77,7 @@ def get_current_period(df, selected_years, selected_months, selected_weeks, sele
 def main():
     st.title("📈 Sales Trends")
 
-    folder_path = "C:\\Users\\Navtara- Surya\\OneDrive - Meal Metrix\\Navtara\\Python- Sales Performance analysis\\Input files"
+    folder_path = "Input files"
 
     with st.spinner("Loading data..."):
         df = load_sales_data(folder_path)
