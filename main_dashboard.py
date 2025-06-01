@@ -14,7 +14,7 @@ option = st.sidebar.radio(
 
 if option == "Sales Growth":
     try:
-        module = importlib.import_module("Web sales")  # no .py extension
+        module = importlib.import_module("web_sales")  # no .py extension
         module.main()  # call main function of the module
     except ModuleNotFoundError:
         st.error("Error: 'Web sales' module not found.")
