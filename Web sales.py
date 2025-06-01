@@ -6,6 +6,7 @@ from datetime import datetime, timedelta
 import plotly.express as px
 
 # --- Load CSV files from a given folder ---
+@st.cache_data(show_spinner=False)
 def load_sales_data(folder_path):
     all_files = []
     for root, dirs, files in os.walk(folder_path):
@@ -13,7 +14,6 @@ def load_sales_data(folder_path):
             if file.endswith('.csv'):
                 all_files.append(os.path.join(root, file))
     if not all_files:
-        st.error("No CSV files found in folder or subfolders.")
         return pd.DataFrame()
 
     df_list = []
@@ -22,19 +22,20 @@ def load_sales_data(folder_path):
             df = pd.read_csv(file, encoding='utf-8')
             df_list.append(df)
         except Exception as e:
-            st.warning(f"Skipping file {file} due to error: {e}")
+            continue
+
     if not df_list:
-        st.error("No valid CSV data loaded.")
         return pd.DataFrame()
+
     data = pd.concat(df_list, ignore_index=True)
     return data
 
 # --- Preprocess the sales data ---
+@st.cache_data(show_spinner=False)
 def preprocess_data(df):
     required_cols = ['Date', 'Tabs', 'Sale', 'Discount', 'Net Sale', 'Charges', 'Total Tax', 'Gross Amount', 'Outlet Name']
     missing_cols = [c for c in required_cols if c not in df.columns]
     if missing_cols:
-        st.error(f"Missing columns in data: {missing_cols}")
         return pd.DataFrame()
 
     df['Date'] = pd.to_datetime(df['Date'], errors='coerce')
@@ -75,6 +76,7 @@ def get_current_period(df, selected_years, selected_months, selected_weeks, sele
 
 # --- Main function (no page_config here) ---
 def main():
+    st.set_page_config(page_title="Sales Trends Dashboard", layout="wide")
     st.title("📈 Sales Trends")
 
     folder_path = "Input files"
@@ -82,11 +84,13 @@ def main():
     with st.spinner("Loading data..."):
         df = load_sales_data(folder_path)
     if df.empty:
+        st.error("No CSV files found or data could not be loaded.")
         return
 
     with st.spinner("Processing data..."):
         df = preprocess_data(df)
     if df.empty:
+        st.error("Required columns missing in CSV files.")
         return
 
     # --- Sidebar Filters ---
@@ -110,7 +114,6 @@ def main():
         default=sorted(df['Outlet Name'].unique())
     )
 
-    # Filter df for week/day filters
     df_month_filtered = df.copy()
     if selected_years:
         df_month_filtered = df_month_filtered[df_month_filtered['Year'].isin(selected_years)]
@@ -120,19 +123,9 @@ def main():
     week_options = sorted(df_month_filtered['Week'].unique())
     day_options = sorted(df_month_filtered['Day'].unique())
 
-    # Session state for week/day
-    if 'selected_weeks' not in st.session_state:
-        st.session_state.selected_weeks = []
-    if 'selected_days' not in st.session_state:
-        st.session_state.selected_days = []
+    selected_weeks = st.sidebar.multiselect("Select Week(s):", week_options)
+    selected_days = st.sidebar.multiselect("Select Date(s):", day_options)
 
-    selected_weeks = st.sidebar.multiselect("Select Week(s):", week_options, default=st.session_state.selected_weeks)
-    selected_days = st.sidebar.multiselect("Select Date(s):", day_options, default=st.session_state.selected_days)
-
-    st.session_state.selected_weeks = selected_weeks
-    st.session_state.selected_days = selected_days
-
-    # Filter current period
     start_date, end_date = get_current_period(df, selected_years, selected_months, selected_weeks, selected_days)
     if start_date is None or end_date is None:
         st.warning("No data found for current filter selection.")
@@ -142,7 +135,6 @@ def main():
     if selected_outlets:
         df_current = df_current[df_current['Outlet Name'].isin(selected_outlets)]
 
-    # Previous period
     delta_days = (end_date - start_date).days + 1
     if selected_days:
         prev_start = start_date - timedelta(days=delta_days)
@@ -191,7 +183,7 @@ def main():
         st.markdown(growth_html, unsafe_allow_html=True)
 
     with col2:
-        st.markdown("### 🔵 Previous Period Sales")
+        st.markdown("### 🔹 Previous Period Sales")
         st.markdown(f"<h1 style='color:#0000CD;'>₹ {prev_sales:,.0f}</h1>", unsafe_allow_html=True)
 
     # --- Charts ---
