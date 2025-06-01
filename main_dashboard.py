@@ -1,7 +1,7 @@
 import streamlit as st
 import importlib
 
-# This line must be first before anything else
+# Must be the first Streamlit command
 st.set_page_config(page_title="Sales Performance Analysis", layout="wide")
 
 st.title("📊 Sales Performance Analysis")
@@ -13,8 +13,15 @@ option = st.sidebar.radio(
 )
 
 if option == "Sales Growth":
-    module = importlib.import_module("Web sales")  # Do not add .py extension
-    module.main()  # Call your function
+    try:
+        module = importlib.import_module("Web sales")  # no .py extension
+        module.main()  # call main function of the module
+    except ModuleNotFoundError:
+        st.error("Error: 'Web sales' module not found.")
+    except AttributeError:
+        st.error("Error: 'main' function not found in 'Web sales' module.")
+    except Exception as e:
+        st.error(f"An unexpected error occurred: {e}")
 
 elif option == "Reconciliations":
     st.subheader("🔄 Reconciliations")
