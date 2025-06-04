@@ -1,0 +1,3361 @@
+Year,Month,Location,Category,Ideal Cost,Actual Cost,Variance
+2020,January,Panaji,Bakery,1.18,1.13,-0.05
+2020,January,Panaji,Beverages,1.98,1.94,-0.04
+2020,January,Panaji,Fruits,1.81,1.94,0.13
+2020,January,Panaji,Groceries,11.41,10.66,-0.75
+2020,January,Panaji,Milk Products,2.93,2.63,-0.3
+2020,January,Panaji,Ready to eat,1.97,1.73,-0.24
+2020,January,Panaji,Spices,5.6,5.92,0.32
+2020,January,Panaji,Vegetables,2.94,2.95,0.01
+2020,January,Khorlim,Bakery,1.13,1.13,0
+2020,January,Khorlim,Beverages,1.82,1.84,0.02
+2020,January,Khorlim,Fruits,1.83,1.95,0.12
+2020,January,Khorlim,Groceries,11.65,11.03,-0.62
+2020,January,Khorlim,Milk Products,2.79,2.7,-0.09
+2020,January,Khorlim,Ready to eat,1.76,1.9,0.14
+2020,January,Khorlim,Spices,5.87,5.88,0.01
+2020,January,Khorlim,Vegetables,2.9,2.75,-0.15
+2020,January,KTC,Bakery,1.15,1.1,-0.05
+2020,January,KTC,Beverages,1.97,1.9,-0.07
+2020,January,KTC,Fruits,1.97,1.78,-0.19
+2020,January,KTC,Groceries,11.14,10.83,-0.31
+2020,January,KTC,Milk Products,3,2.64,-0.36
+2020,January,KTC,Ready to eat,1.77,1.93,0.16
+2020,January,KTC,Spices,5.34,5.39,0.05
+2020,January,KTC,Vegetables,2.62,2.87,0.25
+2020,January,Margao,Bakery,1.11,1.1,-0.01
+2020,January,Margao,Beverages,1.82,1.77,-0.05
+2020,January,Margao,Fruits,1.92,1.94,0.02
+2020,January,Margao,Groceries,10.86,11.55,0.69
+2020,January,Margao,Milk Products,2.75,2.79,0.04
+2020,January,Margao,Ready to eat,1.94,1.99,0.05
+2020,January,Margao,Spices,5.57,5.73,0.16
+2020,January,Margao,Vegetables,2.8,2.83,0.03
+2020,January,Siolim,Bakery,1.11,1.16,0.05
+2020,January,Siolim,Beverages,1.89,1.83,-0.06
+2020,January,Siolim,Fruits,1.77,1.82,0.05
+2020,January,Siolim,Groceries,12,10.52,-1.48
+2020,January,Siolim,Milk Products,2.64,2.95,0.31
+2020,January,Siolim,Ready to eat,1.86,1.85,-0.01
+2020,January,Siolim,Spices,5.94,5.84,-0.1
+2020,January,Siolim,Vegetables,2.9,2.69,-0.21
+2020,January,Baga,Bakery,1.12,1.17,0.05
+2020,January,Baga,Beverages,1.94,1.91,-0.03
+2020,January,Baga,Fruits,1.74,1.97,0.23
+2020,January,Baga,Groceries,11.18,10.43,-0.75
+2020,January,Baga,Milk Products,2.84,2.65,-0.19
+2020,January,Baga,Ready to eat,1.92,1.84,-0.08
+2020,January,Baga,Spices,5.94,5.87,-0.07
+2020,January,Baga,Vegetables,2.99,2.92,-0.07
+2020,January,Porvorim,Bakery,1.15,1.19,0.04
+2020,January,Porvorim,Beverages,1.86,1.91,0.05
+2020,January,Porvorim,Fruits,1.75,1.76,0.01
+2020,January,Porvorim,Groceries,11.37,10.66,-0.71
+2020,January,Porvorim,Milk Products,2.66,2.78,0.12
+2020,January,Porvorim,Ready to eat,1.77,1.82,0.05
+2020,January,Porvorim,Spices,5.74,5.8,0.06
+2020,January,Porvorim,Vegetables,2.9,2.74,-0.16
+2020,February,Panaji,Bakery,1.15,1.09,-0.06
+2020,February,Panaji,Beverages,1.77,1.88,0.11
+2020,February,Panaji,Fruits,1.73,1.98,0.25
+2020,February,Panaji,Groceries,10.83,10.39,-0.44
+2020,February,Panaji,Milk Products,2.93,2.65,-0.28
+2020,February,Panaji,Ready to eat,1.77,1.96,0.19
+2020,February,Panaji,Spices,5.81,5.59,-0.22
+2020,February,Panaji,Vegetables,2.89,2.94,0.05
+2020,February,Khorlim,Bakery,1.13,1.11,-0.02
+2020,February,Khorlim,Beverages,1.84,1.99,0.15
+2020,February,Khorlim,Fruits,1.79,1.77,-0.02
+2020,February,Khorlim,Groceries,10.6,10.87,0.27
+2020,February,Khorlim,Milk Products,2.83,2.79,-0.04
+2020,February,Khorlim,Ready to eat,1.96,1.81,-0.15
+2020,February,Khorlim,Spices,5.4,5.92,0.52
+2020,February,Khorlim,Vegetables,2.65,3,0.35
+2020,February,KTC,Bakery,1.19,1.08,-0.11
+2020,February,KTC,Beverages,1.75,1.89,0.14
+2020,February,KTC,Fruits,1.85,1.92,0.07
+2020,February,KTC,Groceries,10.76,10.42,-0.34
+2020,February,KTC,Milk Products,2.89,2.62,-0.27
+2020,February,KTC,Ready to eat,1.8,1.79,-0.01
+2020,February,KTC,Spices,5.44,5.82,0.38
+2020,February,KTC,Vegetables,2.98,2.75,-0.23
+2020,February,Margao,Bakery,1.12,1.12,0
+2020,February,Margao,Beverages,1.75,1.87,0.12
+2020,February,Margao,Fruits,1.98,1.81,-0.17
+2020,February,Margao,Groceries,11.53,11.7,0.17
+2020,February,Margao,Milk Products,2.98,2.74,-0.24
+2020,February,Margao,Ready to eat,1.81,1.83,0.02
+2020,February,Margao,Spices,5.23,5.82,0.59
+2020,February,Margao,Vegetables,2.79,2.79,0
+2020,February,Siolim,Bakery,1.16,1.06,-0.1
+2020,February,Siolim,Beverages,1.93,1.76,-0.17
+2020,February,Siolim,Fruits,1.86,1.88,0.02
+2020,February,Siolim,Groceries,10.74,10.49,-0.25
+2020,February,Siolim,Milk Products,2.69,2.62,-0.07
+2020,February,Siolim,Ready to eat,1.73,1.85,0.12
+2020,February,Siolim,Spices,5.32,5.73,0.41
+2020,February,Siolim,Vegetables,2.76,2.87,0.11
+2020,February,Baga,Bakery,1.13,1.14,0.01
+2020,February,Baga,Beverages,1.99,1.81,-0.18
+2020,February,Baga,Fruits,1.81,1.97,0.16
+2020,February,Baga,Groceries,11.88,11.46,-0.42
+2020,February,Baga,Milk Products,2.68,2.8,0.12
+2020,February,Baga,Ready to eat,1.87,1.76,-0.11
+2020,February,Baga,Spices,5.94,5.45,-0.49
+2020,February,Baga,Vegetables,2.9,2.76,-0.14
+2020,February,Porvorim,Bakery,1.1,1.14,0.04
+2020,February,Porvorim,Beverages,1.78,1.81,0.03
+2020,February,Porvorim,Fruits,1.9,1.84,-0.06
+2020,February,Porvorim,Groceries,11.51,11.76,0.25
+2020,February,Porvorim,Milk Products,2.85,2.65,-0.2
+2020,February,Porvorim,Ready to eat,1.77,1.75,-0.02
+2020,February,Porvorim,Spices,5.81,5.19,-0.62
+2020,February,Porvorim,Vegetables,2.85,2.79,-0.06
+2020,March,Panaji,Bakery,1.15,1.19,0.04
+2020,March,Panaji,Beverages,1.91,1.83,-0.08
+2020,March,Panaji,Fruits,1.85,1.81,-0.04
+2020,March,Panaji,Groceries,12,11.9,-0.1
+2020,March,Panaji,Milk Products,2.66,2.85,0.19
+2020,March,Panaji,Ready to eat,1.84,1.99,0.15
+2020,March,Panaji,Spices,5.77,5.21,-0.56
+2020,March,Panaji,Vegetables,2.83,2.76,-0.07
+2020,March,Khorlim,Bakery,1.11,1.12,0.01
+2020,March,Khorlim,Beverages,1.98,1.81,-0.17
+2020,March,Khorlim,Fruits,1.81,1.77,-0.04
+2020,March,Khorlim,Groceries,11.13,11.89,0.76
+2020,March,Khorlim,Milk Products,2.79,2.83,0.04
+2020,March,Khorlim,Ready to eat,1.86,1.77,-0.09
+2020,March,Khorlim,Spices,5.37,5.73,0.36
+2020,March,Khorlim,Vegetables,2.97,2.87,-0.1
+2020,March,KTC,Bakery,1.11,1.12,0.01
+2020,March,KTC,Beverages,1.86,1.75,-0.11
+2020,March,KTC,Fruits,1.92,1.74,-0.18
+2020,March,KTC,Groceries,11.15,11.07,-0.08
+2020,March,KTC,Milk Products,2.7,2.78,0.08
+2020,March,KTC,Ready to eat,1.77,1.96,0.19
+2020,March,KTC,Spices,5.99,5.25,-0.74
+2020,March,KTC,Vegetables,2.82,2.66,-0.16
+2020,March,Margao,Bakery,1.11,1.13,0.02
+2020,March,Margao,Beverages,1.76,1.91,0.15
+2020,March,Margao,Fruits,1.75,1.89,0.14
+2020,March,Margao,Groceries,11.02,11.3,0.28
+2020,March,Margao,Milk Products,2.67,2.64,-0.03
+2020,March,Margao,Ready to eat,1.88,1.75,-0.13
+2020,March,Margao,Spices,5.87,5.92,0.05
+2020,March,Margao,Vegetables,2.92,2.88,-0.04
+2020,March,Siolim,Bakery,1.09,1.07,-0.02
+2020,March,Siolim,Beverages,1.97,1.79,-0.18
+2020,March,Siolim,Fruits,1.77,1.75,-0.02
+2020,March,Siolim,Groceries,10.65,11.19,0.54
+2020,March,Siolim,Milk Products,2.61,2.92,0.31
+2020,March,Siolim,Ready to eat,1.78,1.98,0.2
+2020,March,Siolim,Spices,5.55,5.72,0.17
+2020,March,Siolim,Vegetables,2.93,2.62,-0.31
+2020,March,Baga,Bakery,1.06,1.12,0.06
+2020,March,Baga,Beverages,1.79,1.77,-0.02
+2020,March,Baga,Fruits,1.97,1.79,-0.18
+2020,March,Baga,Groceries,10.85,10.62,-0.23
+2020,March,Baga,Milk Products,2.92,2.71,-0.21
+2020,March,Baga,Ready to eat,1.83,1.88,0.05
+2020,March,Baga,Spices,5.39,5.41,0.02
+2020,March,Baga,Vegetables,2.99,2.86,-0.13
+2020,March,Porvorim,Bakery,1.15,1.08,-0.07
+2020,March,Porvorim,Beverages,1.98,1.96,-0.02
+2020,March,Porvorim,Fruits,1.97,1.83,-0.14
+2020,March,Porvorim,Groceries,10.85,11.39,0.54
+2020,March,Porvorim,Milk Products,2.74,2.71,-0.03
+2020,March,Porvorim,Ready to eat,1.75,1.74,-0.01
+2020,March,Porvorim,Spices,5.59,5.42,-0.17
+2020,March,Porvorim,Vegetables,2.95,2.83,-0.12
+2020,April,Panaji,Bakery,1.13,1.08,-0.05
+2020,April,Panaji,Beverages,1.99,1.89,-0.1
+2020,April,Panaji,Fruits,1.75,1.79,0.04
+2020,April,Panaji,Groceries,10.69,11.67,0.98
+2020,April,Panaji,Milk Products,2.98,2.89,-0.09
+2020,April,Panaji,Ready to eat,1.83,1.8,-0.03
+2020,April,Panaji,Spices,5.75,5.33,-0.42
+2020,April,Panaji,Vegetables,2.82,2.91,0.09
+2020,April,Khorlim,Bakery,1.13,1.1,-0.03
+2020,April,Khorlim,Beverages,1.98,1.77,-0.21
+2020,April,Khorlim,Fruits,1.86,1.83,-0.03
+2020,April,Khorlim,Groceries,11.85,11.57,-0.28
+2020,April,Khorlim,Milk Products,2.98,2.7,-0.28
+2020,April,Khorlim,Ready to eat,1.88,1.96,0.08
+2020,April,Khorlim,Spices,5.68,5.44,-0.24
+2020,April,Khorlim,Vegetables,2.73,2.81,0.08
+2020,April,KTC,Bakery,1.05,1.06,0.01
+2020,April,KTC,Beverages,1.87,1.75,-0.12
+2020,April,KTC,Fruits,1.99,1.88,-0.11
+2020,April,KTC,Groceries,10.6,11.8,1.2
+2020,April,KTC,Milk Products,2.73,2.91,0.18
+2020,April,KTC,Ready to eat,1.96,1.83,-0.13
+2020,April,KTC,Spices,5.2,5.55,0.35
+2020,April,KTC,Vegetables,2.67,2.91,0.24
+2020,April,Margao,Bakery,1.13,1.04,-0.09
+2020,April,Margao,Beverages,1.99,1.91,-0.08
+2020,April,Margao,Fruits,1.89,1.79,-0.1
+2020,April,Margao,Groceries,11.75,11.53,-0.22
+2020,April,Margao,Milk Products,2.77,2.87,0.1
+2020,April,Margao,Ready to eat,1.98,1.77,-0.21
+2020,April,Margao,Spices,5.62,5.74,0.12
+2020,April,Margao,Vegetables,2.93,2.82,-0.11
+2020,April,Siolim,Bakery,1.12,1.05,-0.07
+2020,April,Siolim,Beverages,1.8,1.87,0.07
+2020,April,Siolim,Fruits,1.8,1.97,0.17
+2020,April,Siolim,Groceries,11.94,11.51,-0.43
+2020,April,Siolim,Milk Products,2.97,2.6,-0.37
+2020,April,Siolim,Ready to eat,1.76,1.93,0.17
+2020,April,Siolim,Spices,5.57,5.41,-0.16
+2020,April,Siolim,Vegetables,2.83,3,0.17
+2020,April,Baga,Bakery,1.08,1.1,0.02
+2020,April,Baga,Beverages,1.75,1.78,0.03
+2020,April,Baga,Fruits,1.8,1.98,0.18
+2020,April,Baga,Groceries,11.27,10.65,-0.62
+2020,April,Baga,Milk Products,2.82,2.83,0.01
+2020,April,Baga,Ready to eat,1.94,1.88,-0.06
+2020,April,Baga,Spices,5.5,5.39,-0.11
+2020,April,Baga,Vegetables,2.66,2.98,0.32
+2020,April,Porvorim,Bakery,1.14,1.14,0
+2020,April,Porvorim,Beverages,1.9,2,0.1
+2020,April,Porvorim,Fruits,1.91,1.89,-0.02
+2020,April,Porvorim,Groceries,11.82,11.41,-0.41
+2020,April,Porvorim,Milk Products,2.8,2.93,0.13
+2020,April,Porvorim,Ready to eat,1.85,1.9,0.05
+2020,April,Porvorim,Spices,5.81,5.34,-0.47
+2020,April,Porvorim,Vegetables,2.7,2.74,0.04
+2020,May,Panaji,Bakery,1.2,1.1,-0.1
+2020,May,Panaji,Beverages,1.77,1.91,0.14
+2020,May,Panaji,Fruits,1.79,1.93,0.14
+2020,May,Panaji,Groceries,11.46,10.61,-0.85
+2020,May,Panaji,Milk Products,2.72,2.87,0.15
+2020,May,Panaji,Ready to eat,1.84,1.84,0
+2020,May,Panaji,Spices,5.32,5.9,0.58
+2020,May,Panaji,Vegetables,2.93,2.75,-0.18
+2020,May,Khorlim,Bakery,1.16,1.18,0.02
+2020,May,Khorlim,Beverages,1.76,1.74,-0.02
+2020,May,Khorlim,Fruits,1.92,1.89,-0.03
+2020,May,Khorlim,Groceries,10.99,10.39,-0.6
+2020,May,Khorlim,Milk Products,2.69,2.87,0.18
+2020,May,Khorlim,Ready to eat,1.94,1.78,-0.16
+2020,May,Khorlim,Spices,5.69,5.76,0.07
+2020,May,Khorlim,Vegetables,2.92,2.96,0.04
+2020,May,KTC,Bakery,1.05,1.17,0.12
+2020,May,KTC,Beverages,1.81,1.99,0.18
+2020,May,KTC,Fruits,1.89,1.98,0.09
+2020,May,KTC,Groceries,11.48,11.72,0.24
+2020,May,KTC,Milk Products,2.76,2.69,-0.07
+2020,May,KTC,Ready to eat,1.77,1.89,0.12
+2020,May,KTC,Spices,5.37,5.82,0.45
+2020,May,KTC,Vegetables,2.96,2.77,-0.19
+2020,May,Margao,Bakery,1.06,1.14,0.08
+2020,May,Margao,Beverages,1.95,1.9,-0.05
+2020,May,Margao,Fruits,1.8,1.95,0.15
+2020,May,Margao,Groceries,11.33,11.77,0.44
+2020,May,Margao,Milk Products,2.87,2.81,-0.06
+2020,May,Margao,Ready to eat,1.96,1.79,-0.17
+2020,May,Margao,Spices,5.87,5.64,-0.23
+2020,May,Margao,Vegetables,2.68,2.72,0.04
+2020,May,Siolim,Bakery,1.07,1.17,0.1
+2020,May,Siolim,Beverages,1.9,1.89,-0.01
+2020,May,Siolim,Fruits,1.99,1.85,-0.14
+2020,May,Siolim,Groceries,10.5,11.81,1.31
+2020,May,Siolim,Milk Products,2.79,2.78,-0.01
+2020,May,Siolim,Ready to eat,1.78,1.9,0.12
+2020,May,Siolim,Spices,5.72,5.21,-0.51
+2020,May,Siolim,Vegetables,2.97,2.89,-0.08
+2020,May,Baga,Bakery,1.16,1.14,-0.02
+2020,May,Baga,Beverages,1.75,1.86,0.11
+2020,May,Baga,Fruits,1.86,1.93,0.07
+2020,May,Baga,Groceries,10.56,11.33,0.77
+2020,May,Baga,Milk Products,2.76,2.67,-0.09
+2020,May,Baga,Ready to eat,1.95,1.91,-0.04
+2020,May,Baga,Spices,5.69,5.57,-0.12
+2020,May,Baga,Vegetables,2.65,2.79,0.14
+2020,May,Porvorim,Bakery,1.2,1.1,-0.1
+2020,May,Porvorim,Beverages,1.78,1.74,-0.04
+2020,May,Porvorim,Fruits,1.99,1.81,-0.18
+2020,May,Porvorim,Groceries,11.17,10.85,-0.32
+2020,May,Porvorim,Milk Products,2.92,2.97,0.05
+2020,May,Porvorim,Ready to eat,1.92,1.96,0.04
+2020,May,Porvorim,Spices,5.42,5.2,-0.22
+2020,May,Porvorim,Vegetables,2.83,2.64,-0.19
+2020,June,Panaji,Bakery,1.08,1.16,0.08
+2020,June,Panaji,Beverages,1.81,1.92,0.11
+2020,June,Panaji,Fruits,1.73,1.79,0.06
+2020,June,Panaji,Groceries,10.61,11.05,0.44
+2020,June,Panaji,Milk Products,2.8,2.88,0.08
+2020,June,Panaji,Ready to eat,1.75,1.92,0.17
+2020,June,Panaji,Spices,5.19,5.23,0.04
+2020,June,Panaji,Vegetables,2.95,2.87,-0.08
+2020,June,Khorlim,Bakery,1.09,1.16,0.07
+2020,June,Khorlim,Beverages,1.85,1.81,-0.04
+2020,June,Khorlim,Fruits,1.87,1.79,-0.08
+2020,June,Khorlim,Groceries,10.85,11.95,1.1
+2020,June,Khorlim,Milk Products,2.75,2.72,-0.03
+2020,June,Khorlim,Ready to eat,2,1.96,-0.04
+2020,June,Khorlim,Spices,5.67,5.26,-0.41
+2020,June,Khorlim,Vegetables,2.68,2.7,0.02
+2020,June,KTC,Bakery,1.09,1.15,0.06
+2020,June,KTC,Beverages,1.78,1.77,-0.01
+2020,June,KTC,Fruits,1.89,1.75,-0.14
+2020,June,KTC,Groceries,11.35,10.47,-0.88
+2020,June,KTC,Milk Products,2.69,2.85,0.16
+2020,June,KTC,Ready to eat,1.78,1.75,-0.03
+2020,June,KTC,Spices,5.92,5.41,-0.51
+2020,June,KTC,Vegetables,2.74,2.78,0.04
+2020,June,Margao,Bakery,1.07,1.05,-0.02
+2020,June,Margao,Beverages,1.96,1.84,-0.12
+2020,June,Margao,Fruits,1.89,1.96,0.07
+2020,June,Margao,Groceries,10.68,11.29,0.61
+2020,June,Margao,Milk Products,2.99,2.82,-0.17
+2020,June,Margao,Ready to eat,1.84,1.73,-0.11
+2020,June,Margao,Spices,5.9,5.7,-0.2
+2020,June,Margao,Vegetables,2.8,2.96,0.16
+2020,June,Siolim,Bakery,1.13,1.1,-0.03
+2020,June,Siolim,Beverages,1.79,1.9,0.11
+2020,June,Siolim,Fruits,1.99,1.96,-0.03
+2020,June,Siolim,Groceries,10.7,11.13,0.43
+2020,June,Siolim,Milk Products,2.76,2.99,0.23
+2020,June,Siolim,Ready to eat,1.8,1.75,-0.05
+2020,June,Siolim,Spices,5.72,5.54,-0.18
+2020,June,Siolim,Vegetables,2.94,2.89,-0.05
+2020,June,Baga,Bakery,1.15,1.06,-0.09
+2020,June,Baga,Beverages,1.81,1.89,0.08
+2020,June,Baga,Fruits,1.95,1.9,-0.05
+2020,June,Baga,Groceries,11.33,10.97,-0.36
+2020,June,Baga,Milk Products,2.69,2.84,0.15
+2020,June,Baga,Ready to eat,2,1.8,-0.2
+2020,June,Baga,Spices,5.61,5.69,0.08
+2020,June,Baga,Vegetables,2.6,2.74,0.14
+2020,June,Porvorim,Bakery,1.09,1.12,0.03
+2020,June,Porvorim,Beverages,1.87,2,0.13
+2020,June,Porvorim,Fruits,1.81,1.82,0.01
+2020,June,Porvorim,Groceries,10.91,11.26,0.35
+2020,June,Porvorim,Milk Products,2.97,2.75,-0.22
+2020,June,Porvorim,Ready to eat,1.89,1.95,0.06
+2020,June,Porvorim,Spices,5.41,5.81,0.4
+2020,June,Porvorim,Vegetables,2.94,2.75,-0.19
+2020,July,Panaji,Bakery,1.05,1.09,0.04
+2020,July,Panaji,Beverages,1.76,1.75,-0.01
+2020,July,Panaji,Fruits,1.96,1.83,-0.13
+2020,July,Panaji,Groceries,11.84,10.55,-1.29
+2020,July,Panaji,Milk Products,2.7,2.97,0.27
+2020,July,Panaji,Ready to eat,1.78,1.96,0.18
+2020,July,Panaji,Spices,5.39,5.19,-0.2
+2020,July,Panaji,Vegetables,2.96,2.97,0.01
+2020,July,Khorlim,Bakery,1.09,1.1,0.01
+2020,July,Khorlim,Beverages,1.91,1.94,0.03
+2020,July,Khorlim,Fruits,1.84,1.74,-0.1
+2020,July,Khorlim,Groceries,10.76,10.85,0.09
+2020,July,Khorlim,Milk Products,2.76,2.73,-0.03
+2020,July,Khorlim,Ready to eat,1.96,1.91,-0.05
+2020,July,Khorlim,Spices,5.99,5.86,-0.13
+2020,July,Khorlim,Vegetables,2.71,2.76,0.05
+2020,July,KTC,Bakery,1.05,1.05,0
+2020,July,KTC,Beverages,1.98,1.76,-0.22
+2020,July,KTC,Fruits,1.89,1.8,-0.09
+2020,July,KTC,Groceries,10.69,11.16,0.47
+2020,July,KTC,Milk Products,2.82,2.8,-0.02
+2020,July,KTC,Ready to eat,1.87,1.85,-0.02
+2020,July,KTC,Spices,5.28,5.3,0.02
+2020,July,KTC,Vegetables,2.71,2.97,0.26
+2020,July,Margao,Bakery,1.12,1.08,-0.04
+2020,July,Margao,Beverages,1.89,1.76,-0.13
+2020,July,Margao,Fruits,1.77,1.76,-0.01
+2020,July,Margao,Groceries,11.86,11.92,0.06
+2020,July,Margao,Milk Products,2.76,2.62,-0.14
+2020,July,Margao,Ready to eat,1.79,1.95,0.16
+2020,July,Margao,Spices,5.69,5.32,-0.37
+2020,July,Margao,Vegetables,2.65,3,0.35
+2020,July,Siolim,Bakery,1.12,1.11,-0.01
+2020,July,Siolim,Beverages,1.94,1.84,-0.1
+2020,July,Siolim,Fruits,1.89,1.95,0.06
+2020,July,Siolim,Groceries,10.67,10.9,0.23
+2020,July,Siolim,Milk Products,2.98,2.78,-0.2
+2020,July,Siolim,Ready to eat,1.87,2,0.13
+2020,July,Siolim,Spices,5.62,5.2,-0.42
+2020,July,Siolim,Vegetables,2.74,2.68,-0.06
+2020,July,Baga,Bakery,1.14,1.14,0
+2020,July,Baga,Beverages,1.98,1.82,-0.16
+2020,July,Baga,Fruits,1.88,1.96,0.08
+2020,July,Baga,Groceries,10.67,11.15,0.48
+2020,July,Baga,Milk Products,2.84,2.92,0.08
+2020,July,Baga,Ready to eat,1.86,1.94,0.08
+2020,July,Baga,Spices,5.66,5.2,-0.46
+2020,July,Baga,Vegetables,2.92,2.71,-0.21
+2020,July,Porvorim,Bakery,1.17,1.05,-0.12
+2020,July,Porvorim,Beverages,1.78,1.97,0.19
+2020,July,Porvorim,Fruits,1.77,1.98,0.21
+2020,July,Porvorim,Groceries,10.63,11.48,0.85
+2020,July,Porvorim,Milk Products,2.76,2.92,0.16
+2020,July,Porvorim,Ready to eat,1.91,1.85,-0.06
+2020,July,Porvorim,Spices,5.78,5.76,-0.02
+2020,July,Porvorim,Vegetables,2.74,2.82,0.08
+2020,August,Panaji,Bakery,1.08,1.1,0.02
+2020,August,Panaji,Beverages,1.95,1.77,-0.18
+2020,August,Panaji,Fruits,1.8,1.89,0.09
+2020,August,Panaji,Groceries,11.63,11.15,-0.48
+2020,August,Panaji,Milk Products,2.87,2.81,-0.06
+2020,August,Panaji,Ready to eat,1.85,1.89,0.04
+2020,August,Panaji,Spices,5.83,5.58,-0.25
+2020,August,Panaji,Vegetables,2.85,2.86,0.01
+2020,August,Khorlim,Bakery,1.18,1.07,-0.11
+2020,August,Khorlim,Beverages,1.8,1.79,-0.01
+2020,August,Khorlim,Fruits,1.8,1.82,0.02
+2020,August,Khorlim,Groceries,10.64,11.18,0.54
+2020,August,Khorlim,Milk Products,2.7,2.77,0.07
+2020,August,Khorlim,Ready to eat,1.82,1.9,0.08
+2020,August,Khorlim,Spices,5.92,5.27,-0.65
+2020,August,Khorlim,Vegetables,2.81,2.76,-0.05
+2020,August,KTC,Bakery,1.18,1.06,-0.12
+2020,August,KTC,Beverages,2,1.84,-0.16
+2020,August,KTC,Fruits,1.77,1.8,0.03
+2020,August,KTC,Groceries,11.06,11.56,0.5
+2020,August,KTC,Milk Products,2.99,2.93,-0.06
+2020,August,KTC,Ready to eat,1.87,1.97,0.1
+2020,August,KTC,Spices,5.22,5.88,0.66
+2020,August,KTC,Vegetables,2.87,2.68,-0.19
+2020,August,Margao,Bakery,1.06,1.17,0.11
+2020,August,Margao,Beverages,1.82,1.93,0.11
+2020,August,Margao,Fruits,1.86,1.92,0.06
+2020,August,Margao,Groceries,10.55,11.97,1.42
+2020,August,Margao,Milk Products,2.72,2.67,-0.05
+2020,August,Margao,Ready to eat,1.87,1.81,-0.06
+2020,August,Margao,Spices,5.79,5.3,-0.49
+2020,August,Margao,Vegetables,2.82,2.8,-0.02
+2020,August,Siolim,Bakery,1.14,1.17,0.03
+2020,August,Siolim,Beverages,1.88,1.73,-0.15
+2020,August,Siolim,Fruits,1.8,1.83,0.03
+2020,August,Siolim,Groceries,10.81,11.98,1.17
+2020,August,Siolim,Milk Products,2.84,2.81,-0.03
+2020,August,Siolim,Ready to eat,1.92,1.84,-0.08
+2020,August,Siolim,Spices,5.33,5.49,0.16
+2020,August,Siolim,Vegetables,2.84,2.68,-0.16
+2020,August,Baga,Bakery,1.16,1.04,-0.12
+2020,August,Baga,Beverages,1.88,1.81,-0.07
+2020,August,Baga,Fruits,1.78,1.98,0.2
+2020,August,Baga,Groceries,11.79,11.84,0.05
+2020,August,Baga,Milk Products,2.72,2.72,0
+2020,August,Baga,Ready to eat,1.88,1.76,-0.12
+2020,August,Baga,Spices,5.39,5.67,0.28
+2020,August,Baga,Vegetables,2.97,2.73,-0.24
+2020,August,Porvorim,Bakery,1.12,1.05,-0.07
+2020,August,Porvorim,Beverages,1.82,1.8,-0.02
+2020,August,Porvorim,Fruits,1.81,1.98,0.17
+2020,August,Porvorim,Groceries,10.83,11.38,0.55
+2020,August,Porvorim,Milk Products,2.78,2.84,0.06
+2020,August,Porvorim,Ready to eat,1.97,1.76,-0.21
+2020,August,Porvorim,Spices,5.62,5.98,0.36
+2020,August,Porvorim,Vegetables,2.96,2.95,-0.01
+2020,September,Panaji,Bakery,1.11,1.18,0.07
+2020,September,Panaji,Beverages,1.91,1.94,0.03
+2020,September,Panaji,Fruits,1.85,1.97,0.12
+2020,September,Panaji,Groceries,10.7,10.56,-0.14
+2020,September,Panaji,Milk Products,2.83,2.88,0.05
+2020,September,Panaji,Ready to eat,1.9,1.86,-0.04
+2020,September,Panaji,Spices,5.71,5.27,-0.44
+2020,September,Panaji,Vegetables,2.82,2.83,0.01
+2020,September,Khorlim,Bakery,1.13,1.15,0.02
+2020,September,Khorlim,Beverages,1.96,1.87,-0.09
+2020,September,Khorlim,Fruits,1.93,1.97,0.04
+2020,September,Khorlim,Groceries,10.92,10.47,-0.45
+2020,September,Khorlim,Milk Products,2.82,2.82,0
+2020,September,Khorlim,Ready to eat,1.96,1.86,-0.1
+2020,September,Khorlim,Spices,5.33,5.68,0.35
+2020,September,Khorlim,Vegetables,2.79,2.6,-0.19
+2020,September,KTC,Bakery,1.05,1.09,0.04
+2020,September,KTC,Beverages,1.97,1.9,-0.07
+2020,September,KTC,Fruits,1.82,1.74,-0.08
+2020,September,KTC,Groceries,11.16,11.79,0.63
+2020,September,KTC,Milk Products,2.89,2.86,-0.03
+2020,September,KTC,Ready to eat,1.75,1.98,0.23
+2020,September,KTC,Spices,5.73,5.47,-0.26
+2020,September,KTC,Vegetables,2.73,2.76,0.03
+2020,September,Margao,Bakery,1.08,1.09,0.01
+2020,September,Margao,Beverages,1.89,1.96,0.07
+2020,September,Margao,Fruits,1.74,1.83,0.09
+2020,September,Margao,Groceries,10.55,11.71,1.16
+2020,September,Margao,Milk Products,2.81,2.97,0.16
+2020,September,Margao,Ready to eat,1.92,1.76,-0.16
+2020,September,Margao,Spices,5.9,5.54,-0.36
+2020,September,Margao,Vegetables,2.76,2.96,0.2
+2020,September,Siolim,Bakery,1.13,1.14,0.01
+2020,September,Siolim,Beverages,1.94,1.93,-0.01
+2020,September,Siolim,Fruits,1.84,1.78,-0.06
+2020,September,Siolim,Groceries,11.16,11.16,0
+2020,September,Siolim,Milk Products,2.88,2.81,-0.07
+2020,September,Siolim,Ready to eat,2,1.83,-0.17
+2020,September,Siolim,Spices,5.86,5.81,-0.05
+2020,September,Siolim,Vegetables,2.97,2.98,0.01
+2020,September,Baga,Bakery,1.2,1.09,-0.11
+2020,September,Baga,Beverages,1.86,1.94,0.08
+2020,September,Baga,Fruits,1.76,1.94,0.18
+2020,September,Baga,Groceries,10.46,11.3,0.84
+2020,September,Baga,Milk Products,2.84,2.89,0.05
+2020,September,Baga,Ready to eat,1.96,1.82,-0.14
+2020,September,Baga,Spices,5.74,5.56,-0.18
+2020,September,Baga,Vegetables,2.77,2.91,0.14
+2020,September,Porvorim,Bakery,1.18,1.07,-0.11
+2020,September,Porvorim,Beverages,1.89,1.94,0.05
+2020,September,Porvorim,Fruits,1.92,1.83,-0.09
+2020,September,Porvorim,Groceries,11.69,10.41,-1.28
+2020,September,Porvorim,Milk Products,2.71,2.61,-0.1
+2020,September,Porvorim,Ready to eat,1.93,1.81,-0.12
+2020,September,Porvorim,Spices,5.32,5.61,0.29
+2020,September,Porvorim,Vegetables,2.63,2.68,0.05
+2020,October,Panaji,Bakery,1.07,1.1,0.03
+2020,October,Panaji,Beverages,1.86,1.88,0.02
+2020,October,Panaji,Fruits,1.98,1.97,-0.01
+2020,October,Panaji,Groceries,10.66,11.96,1.3
+2020,October,Panaji,Milk Products,2.85,2.84,-0.01
+2020,October,Panaji,Ready to eat,1.8,1.87,0.07
+2020,October,Panaji,Spices,5.22,5.62,0.4
+2020,October,Panaji,Vegetables,2.6,2.7,0.1
+2020,October,Khorlim,Bakery,1.17,1.05,-0.12
+2020,October,Khorlim,Beverages,1.75,1.92,0.17
+2020,October,Khorlim,Fruits,1.76,1.74,-0.02
+2020,October,Khorlim,Groceries,11.71,10.43,-1.28
+2020,October,Khorlim,Milk Products,2.8,2.84,0.04
+2020,October,Khorlim,Ready to eat,1.96,1.77,-0.19
+2020,October,Khorlim,Spices,5.67,5.71,0.04
+2020,October,Khorlim,Vegetables,2.78,2.83,0.05
+2020,October,KTC,Bakery,1.14,1.14,0
+2020,October,KTC,Beverages,1.76,1.8,0.04
+2020,October,KTC,Fruits,1.75,1.78,0.03
+2020,October,KTC,Groceries,11.28,10.55,-0.73
+2020,October,KTC,Milk Products,2.71,2.62,-0.09
+2020,October,KTC,Ready to eat,1.85,1.95,0.1
+2020,October,KTC,Spices,5.96,5.68,-0.28
+2020,October,KTC,Vegetables,2.97,2.64,-0.33
+2020,October,Margao,Bakery,1.1,1.04,-0.06
+2020,October,Margao,Beverages,1.99,1.88,-0.11
+2020,October,Margao,Fruits,1.86,1.95,0.09
+2020,October,Margao,Groceries,10.62,10.5,-0.12
+2020,October,Margao,Milk Products,2.62,2.73,0.11
+2020,October,Margao,Ready to eat,1.84,1.82,-0.02
+2020,October,Margao,Spices,5.61,5.94,0.33
+2020,October,Margao,Vegetables,2.88,2.91,0.03
+2020,October,Siolim,Bakery,1.13,1.07,-0.06
+2020,October,Siolim,Beverages,1.97,1.78,-0.19
+2020,October,Siolim,Fruits,1.79,1.9,0.11
+2020,October,Siolim,Groceries,10.85,10.62,-0.23
+2020,October,Siolim,Milk Products,2.83,2.65,-0.18
+2020,October,Siolim,Ready to eat,1.97,1.79,-0.18
+2020,October,Siolim,Spices,5.36,5.82,0.46
+2020,October,Siolim,Vegetables,2.99,2.63,-0.36
+2020,October,Baga,Bakery,1.17,1.04,-0.13
+2020,October,Baga,Beverages,1.93,1.88,-0.05
+2020,October,Baga,Fruits,1.95,1.91,-0.04
+2020,October,Baga,Groceries,11.27,11.17,-0.1
+2020,October,Baga,Milk Products,2.86,2.66,-0.2
+2020,October,Baga,Ready to eat,1.99,1.88,-0.11
+2020,October,Baga,Spices,5.48,5.2,-0.28
+2020,October,Baga,Vegetables,2.93,2.63,-0.3
+2020,October,Porvorim,Bakery,1.09,1.06,-0.03
+2020,October,Porvorim,Beverages,1.84,1.86,0.02
+2020,October,Porvorim,Fruits,1.97,1.78,-0.19
+2020,October,Porvorim,Groceries,11.45,11.61,0.16
+2020,October,Porvorim,Milk Products,2.72,2.66,-0.06
+2020,October,Porvorim,Ready to eat,1.74,1.92,0.18
+2020,October,Porvorim,Spices,5.92,5.33,-0.59
+2020,October,Porvorim,Vegetables,2.95,2.75,-0.2
+2020,November,Panaji,Bakery,1.19,1.15,-0.04
+2020,November,Panaji,Beverages,1.93,1.9,-0.03
+2020,November,Panaji,Fruits,1.92,1.84,-0.08
+2020,November,Panaji,Groceries,11.16,10.8,-0.36
+2020,November,Panaji,Milk Products,2.73,2.68,-0.05
+2020,November,Panaji,Ready to eat,1.75,1.77,0.02
+2020,November,Panaji,Spices,5.96,5.65,-0.31
+2020,November,Panaji,Vegetables,2.77,2.7,-0.07
+2020,November,Khorlim,Bakery,1.13,1.15,0.02
+2020,November,Khorlim,Beverages,1.8,1.77,-0.03
+2020,November,Khorlim,Fruits,1.84,1.78,-0.06
+2020,November,Khorlim,Groceries,11.76,11.26,-0.5
+2020,November,Khorlim,Milk Products,2.76,2.62,-0.14
+2020,November,Khorlim,Ready to eat,1.93,1.87,-0.06
+2020,November,Khorlim,Spices,5.23,5.48,0.25
+2020,November,Khorlim,Vegetables,2.79,2.82,0.03
+2020,November,KTC,Bakery,1.12,1.18,0.06
+2020,November,KTC,Beverages,1.78,1.86,0.08
+2020,November,KTC,Fruits,1.75,1.79,0.04
+2020,November,KTC,Groceries,11.11,11.07,-0.04
+2020,November,KTC,Milk Products,2.62,3,0.38
+2020,November,KTC,Ready to eat,2,1.73,-0.27
+2020,November,KTC,Spices,5.82,5.24,-0.58
+2020,November,KTC,Vegetables,2.7,2.96,0.26
+2020,November,Margao,Bakery,1.04,1.14,0.1
+2020,November,Margao,Beverages,1.83,1.91,0.08
+2020,November,Margao,Fruits,1.83,1.87,0.04
+2020,November,Margao,Groceries,10.42,11.65,1.23
+2020,November,Margao,Milk Products,2.87,2.92,0.05
+2020,November,Margao,Ready to eat,1.94,1.75,-0.19
+2020,November,Margao,Spices,5.74,5.44,-0.3
+2020,November,Margao,Vegetables,2.87,2.62,-0.25
+2020,November,Siolim,Bakery,1.18,1.19,0.01
+2020,November,Siolim,Beverages,1.97,1.98,0.01
+2020,November,Siolim,Fruits,1.91,1.9,-0.01
+2020,November,Siolim,Groceries,11.08,11.51,0.43
+2020,November,Siolim,Milk Products,2.67,2.98,0.31
+2020,November,Siolim,Ready to eat,1.75,1.77,0.02
+2020,November,Siolim,Spices,5.89,5.62,-0.27
+2020,November,Siolim,Vegetables,2.83,2.96,0.13
+2020,November,Baga,Bakery,1.04,1.18,0.14
+2020,November,Baga,Beverages,1.96,1.83,-0.13
+2020,November,Baga,Fruits,1.82,1.91,0.09
+2020,November,Baga,Groceries,11.2,11.39,0.19
+2020,November,Baga,Milk Products,2.94,2.96,0.02
+2020,November,Baga,Ready to eat,1.87,1.79,-0.08
+2020,November,Baga,Spices,5.88,5.57,-0.31
+2020,November,Baga,Vegetables,2.72,2.61,-0.11
+2020,November,Porvorim,Bakery,1.2,1.19,-0.01
+2020,November,Porvorim,Beverages,1.9,1.75,-0.15
+2020,November,Porvorim,Fruits,1.91,1.89,-0.02
+2020,November,Porvorim,Groceries,10.39,11.68,1.29
+2020,November,Porvorim,Milk Products,2.84,2.62,-0.22
+2020,November,Porvorim,Ready to eat,1.79,1.87,0.08
+2020,November,Porvorim,Spices,5.37,5.29,-0.08
+2020,November,Porvorim,Vegetables,2.72,2.62,-0.1
+2020,December,Panaji,Bakery,1.19,1.13,-0.06
+2020,December,Panaji,Beverages,1.86,1.76,-0.1
+2020,December,Panaji,Fruits,1.76,1.84,0.08
+2020,December,Panaji,Groceries,11.49,11.71,0.22
+2020,December,Panaji,Milk Products,2.98,2.99,0.01
+2020,December,Panaji,Ready to eat,1.94,1.77,-0.17
+2020,December,Panaji,Spices,5.32,5.79,0.47
+2020,December,Panaji,Vegetables,2.63,2.77,0.14
+2020,December,Khorlim,Bakery,1.1,1.12,0.02
+2020,December,Khorlim,Beverages,1.93,1.89,-0.04
+2020,December,Khorlim,Fruits,1.84,1.87,0.03
+2020,December,Khorlim,Groceries,11.48,10.46,-1.02
+2020,December,Khorlim,Milk Products,2.79,2.71,-0.08
+2020,December,Khorlim,Ready to eat,1.75,1.78,0.03
+2020,December,Khorlim,Spices,5.3,5.34,0.04
+2020,December,Khorlim,Vegetables,2.85,2.97,0.12
+2020,December,KTC,Bakery,1.12,1.12,0
+2020,December,KTC,Beverages,1.75,1.85,0.1
+2020,December,KTC,Fruits,1.79,1.93,0.14
+2020,December,KTC,Groceries,10.95,11.03,0.08
+2020,December,KTC,Milk Products,2.8,2.61,-0.19
+2020,December,KTC,Ready to eat,1.85,1.8,-0.05
+2020,December,KTC,Spices,5.54,5.84,0.3
+2020,December,KTC,Vegetables,2.98,2.64,-0.34
+2020,December,Margao,Bakery,1.18,1.06,-0.12
+2020,December,Margao,Beverages,1.99,1.88,-0.11
+2020,December,Margao,Fruits,1.98,1.86,-0.12
+2020,December,Margao,Groceries,11.78,12,0.22
+2020,December,Margao,Milk Products,2.79,2.7,-0.09
+2020,December,Margao,Ready to eat,1.98,1.74,-0.24
+2020,December,Margao,Spices,5.62,5.33,-0.29
+2020,December,Margao,Vegetables,2.65,2.97,0.32
+2020,December,Siolim,Bakery,1.13,1.16,0.03
+2020,December,Siolim,Beverages,1.73,1.99,0.26
+2020,December,Siolim,Fruits,1.8,2,0.2
+2020,December,Siolim,Groceries,10.9,10.4,-0.5
+2020,December,Siolim,Milk Products,2.7,2.95,0.25
+2020,December,Siolim,Ready to eat,1.78,1.88,0.1
+2020,December,Siolim,Spices,5.64,5.7,0.06
+2020,December,Siolim,Vegetables,2.88,2.79,-0.09
+2020,December,Baga,Bakery,1.09,1.05,-0.04
+2020,December,Baga,Beverages,1.88,1.81,-0.07
+2020,December,Baga,Fruits,1.74,1.9,0.16
+2020,December,Baga,Groceries,10.71,10.47,-0.24
+2020,December,Baga,Milk Products,2.96,2.93,-0.03
+2020,December,Baga,Ready to eat,1.75,1.82,0.07
+2020,December,Baga,Spices,5.39,5.49,0.1
+2020,December,Baga,Vegetables,2.86,2.81,-0.05
+2020,December,Porvorim,Bakery,1.12,1.2,0.08
+2020,December,Porvorim,Beverages,1.8,1.96,0.16
+2020,December,Porvorim,Fruits,1.76,1.76,0
+2020,December,Porvorim,Groceries,10.71,11.43,0.72
+2020,December,Porvorim,Milk Products,2.98,2.88,-0.1
+2020,December,Porvorim,Ready to eat,1.98,1.83,-0.15
+2020,December,Porvorim,Spices,5.55,5.25,-0.3
+2020,December,Porvorim,Vegetables,2.96,2.91,-0.05
+2021,January,Panaji,Bakery,1.15,1.15,0
+2021,January,Panaji,Beverages,1.99,1.91,-0.08
+2021,January,Panaji,Fruits,1.81,1.91,0.1
+2021,January,Panaji,Groceries,11.31,11.5,0.19
+2021,January,Panaji,Milk Products,2.66,2.8,0.14
+2021,January,Panaji,Ready to eat,1.87,1.98,0.11
+2021,January,Panaji,Spices,5.2,5.55,0.35
+2021,January,Panaji,Vegetables,2.71,2.64,-0.07
+2021,January,Khorlim,Bakery,1.09,1.04,-0.05
+2021,January,Khorlim,Beverages,1.9,1.92,0.02
+2021,January,Khorlim,Fruits,1.86,1.93,0.07
+2021,January,Khorlim,Groceries,11.98,11.95,-0.03
+2021,January,Khorlim,Milk Products,2.89,2.73,-0.16
+2021,January,Khorlim,Ready to eat,1.88,1.91,0.03
+2021,January,Khorlim,Spices,5.22,5.38,0.16
+2021,January,Khorlim,Vegetables,2.7,2.82,0.12
+2021,January,KTC,Bakery,1.07,1.11,0.04
+2021,January,KTC,Beverages,1.97,1.9,-0.07
+2021,January,KTC,Fruits,1.85,1.93,0.08
+2021,January,KTC,Groceries,11.36,11.2,-0.16
+2021,January,KTC,Milk Products,2.77,2.96,0.19
+2021,January,KTC,Ready to eat,1.85,1.81,-0.04
+2021,January,KTC,Spices,5.71,5.67,-0.04
+2021,January,KTC,Vegetables,2.96,2.75,-0.21
+2021,January,Margao,Bakery,1.14,1.1,-0.04
+2021,January,Margao,Beverages,1.94,1.85,-0.09
+2021,January,Margao,Fruits,1.93,1.94,0.01
+2021,January,Margao,Groceries,10.52,10.7,0.18
+2021,January,Margao,Milk Products,2.84,2.67,-0.17
+2021,January,Margao,Ready to eat,1.78,1.78,0
+2021,January,Margao,Spices,5.3,5.87,0.57
+2021,January,Margao,Vegetables,2.68,2.62,-0.06
+2021,January,Siolim,Bakery,1.15,1.18,0.03
+2021,January,Siolim,Beverages,2,1.97,-0.03
+2021,January,Siolim,Fruits,1.99,1.92,-0.07
+2021,January,Siolim,Groceries,11.59,11.8,0.21
+2021,January,Siolim,Milk Products,2.76,2.79,0.03
+2021,January,Siolim,Ready to eat,1.85,1.89,0.04
+2021,January,Siolim,Spices,5.89,5.33,-0.56
+2021,January,Siolim,Vegetables,2.72,2.92,0.2
+2021,January,Baga,Bakery,1.11,1.2,0.09
+2021,January,Baga,Beverages,1.84,1.99,0.15
+2021,January,Baga,Fruits,1.89,1.89,0
+2021,January,Baga,Groceries,10.39,10.8,0.41
+2021,January,Baga,Milk Products,2.63,2.66,0.03
+2021,January,Baga,Ready to eat,1.83,1.97,0.14
+2021,January,Baga,Spices,5.25,5.25,0
+2021,January,Baga,Vegetables,2.86,2.74,-0.12
+2021,January,Porvorim,Bakery,1.19,1.06,-0.13
+2021,January,Porvorim,Beverages,1.73,1.87,0.14
+2021,January,Porvorim,Fruits,1.97,1.74,-0.23
+2021,January,Porvorim,Groceries,10.4,10.52,0.12
+2021,January,Porvorim,Milk Products,2.86,2.6,-0.26
+2021,January,Porvorim,Ready to eat,1.96,1.92,-0.04
+2021,January,Porvorim,Spices,5.58,5.22,-0.36
+2021,January,Porvorim,Vegetables,2.99,2.83,-0.16
+2021,February,Panaji,Bakery,1.18,1.06,-0.12
+2021,February,Panaji,Beverages,1.87,1.97,0.1
+2021,February,Panaji,Fruits,1.84,1.76,-0.08
+2021,February,Panaji,Groceries,10.55,10.87,0.32
+2021,February,Panaji,Milk Products,2.72,2.73,0.01
+2021,February,Panaji,Ready to eat,1.88,1.83,-0.05
+2021,February,Panaji,Spices,5.62,5.73,0.11
+2021,February,Panaji,Vegetables,2.78,2.92,0.14
+2021,February,Khorlim,Bakery,1.11,1.07,-0.04
+2021,February,Khorlim,Beverages,1.76,1.97,0.21
+2021,February,Khorlim,Fruits,2,1.91,-0.09
+2021,February,Khorlim,Groceries,11.45,11.87,0.42
+2021,February,Khorlim,Milk Products,2.88,2.79,-0.09
+2021,February,Khorlim,Ready to eat,1.82,1.95,0.13
+2021,February,Khorlim,Spices,5.53,5.91,0.38
+2021,February,Khorlim,Vegetables,2.88,2.92,0.04
+2021,February,KTC,Bakery,1.1,1.12,0.02
+2021,February,KTC,Beverages,1.88,1.88,0
+2021,February,KTC,Fruits,1.89,1.86,-0.03
+2021,February,KTC,Groceries,10.43,11.56,1.13
+2021,February,KTC,Milk Products,3,2.89,-0.11
+2021,February,KTC,Ready to eat,1.79,1.85,0.06
+2021,February,KTC,Spices,5.62,5.97,0.35
+2021,February,KTC,Vegetables,2.87,2.68,-0.19
+2021,February,Margao,Bakery,1.12,1.17,0.05
+2021,February,Margao,Beverages,1.93,1.78,-0.15
+2021,February,Margao,Fruits,1.9,1.8,-0.1
+2021,February,Margao,Groceries,10.6,11.05,0.45
+2021,February,Margao,Milk Products,2.82,2.97,0.15
+2021,February,Margao,Ready to eat,1.78,1.74,-0.04
+2021,February,Margao,Spices,5.87,5.92,0.05
+2021,February,Margao,Vegetables,2.83,2.78,-0.05
+2021,February,Siolim,Bakery,1.19,1.16,-0.03
+2021,February,Siolim,Beverages,1.85,1.89,0.04
+2021,February,Siolim,Fruits,1.9,1.74,-0.16
+2021,February,Siolim,Groceries,10.59,11.47,0.88
+2021,February,Siolim,Milk Products,2.76,2.84,0.08
+2021,February,Siolim,Ready to eat,1.77,1.75,-0.02
+2021,February,Siolim,Spices,6,5.38,-0.62
+2021,February,Siolim,Vegetables,2.73,2.85,0.12
+2021,February,Baga,Bakery,1.14,1.15,0.01
+2021,February,Baga,Beverages,1.79,1.97,0.18
+2021,February,Baga,Fruits,1.9,1.92,0.02
+2021,February,Baga,Groceries,10.77,11.25,0.48
+2021,February,Baga,Milk Products,2.65,2.82,0.17
+2021,February,Baga,Ready to eat,1.99,1.96,-0.03
+2021,February,Baga,Spices,5.54,5.29,-0.25
+2021,February,Baga,Vegetables,2.91,2.76,-0.15
+2021,February,Porvorim,Bakery,1.08,1.06,-0.02
+2021,February,Porvorim,Beverages,1.87,1.96,0.09
+2021,February,Porvorim,Fruits,1.75,1.92,0.17
+2021,February,Porvorim,Groceries,11.81,11.08,-0.73
+2021,February,Porvorim,Milk Products,2.81,2.85,0.04
+2021,February,Porvorim,Ready to eat,1.77,1.79,0.02
+2021,February,Porvorim,Spices,5.22,5.31,0.09
+2021,February,Porvorim,Vegetables,2.65,2.62,-0.03
+2021,March,Panaji,Bakery,1.19,1.2,0.01
+2021,March,Panaji,Beverages,1.94,1.95,0.01
+2021,March,Panaji,Fruits,1.76,1.78,0.02
+2021,March,Panaji,Groceries,10.42,10.73,0.31
+2021,March,Panaji,Milk Products,2.95,2.78,-0.17
+2021,March,Panaji,Ready to eat,1.88,1.88,0
+2021,March,Panaji,Spices,5.24,5.72,0.48
+2021,March,Panaji,Vegetables,2.78,2.68,-0.1
+2021,March,Khorlim,Bakery,1.16,1.08,-0.08
+2021,March,Khorlim,Beverages,1.75,1.91,0.16
+2021,March,Khorlim,Fruits,1.81,1.8,-0.01
+2021,March,Khorlim,Groceries,11.66,11.98,0.32
+2021,March,Khorlim,Milk Products,2.97,2.66,-0.31
+2021,March,Khorlim,Ready to eat,1.87,1.88,0.01
+2021,March,Khorlim,Spices,5.28,5.95,0.67
+2021,March,Khorlim,Vegetables,2.85,2.95,0.1
+2021,March,KTC,Bakery,1.15,1.13,-0.02
+2021,March,KTC,Beverages,1.95,1.9,-0.05
+2021,March,KTC,Fruits,1.85,1.96,0.11
+2021,March,KTC,Groceries,10.92,10.95,0.03
+2021,March,KTC,Milk Products,2.6,2.79,0.19
+2021,March,KTC,Ready to eat,1.79,1.95,0.16
+2021,March,KTC,Spices,5.78,5.99,0.21
+2021,March,KTC,Vegetables,2.66,2.96,0.3
+2021,March,Margao,Bakery,1.18,1.11,-0.07
+2021,March,Margao,Beverages,1.75,1.78,0.03
+2021,March,Margao,Fruits,1.77,1.96,0.19
+2021,March,Margao,Groceries,11.28,11.33,0.05
+2021,March,Margao,Milk Products,2.69,2.79,0.1
+2021,March,Margao,Ready to eat,1.84,1.92,0.08
+2021,March,Margao,Spices,5.94,5.33,-0.61
+2021,March,Margao,Vegetables,2.97,2.81,-0.16
+2021,March,Siolim,Bakery,1.18,1.2,0.02
+2021,March,Siolim,Beverages,1.93,1.76,-0.17
+2021,March,Siolim,Fruits,1.95,1.84,-0.11
+2021,March,Siolim,Groceries,10.92,11.47,0.55
+2021,March,Siolim,Milk Products,2.86,2.76,-0.1
+2021,March,Siolim,Ready to eat,1.98,1.81,-0.17
+2021,March,Siolim,Spices,5.35,5.8,0.45
+2021,March,Siolim,Vegetables,2.84,2.91,0.07
+2021,March,Baga,Bakery,1.07,1.05,-0.02
+2021,March,Baga,Beverages,1.93,1.91,-0.02
+2021,March,Baga,Fruits,1.89,1.94,0.05
+2021,March,Baga,Groceries,11.44,10.94,-0.5
+2021,March,Baga,Milk Products,2.64,2.88,0.24
+2021,March,Baga,Ready to eat,1.73,1.85,0.12
+2021,March,Baga,Spices,5.99,5.79,-0.2
+2021,March,Baga,Vegetables,2.86,2.87,0.01
+2021,March,Porvorim,Bakery,1.13,1.19,0.06
+2021,March,Porvorim,Beverages,1.77,1.77,0
+2021,March,Porvorim,Fruits,1.86,1.79,-0.07
+2021,March,Porvorim,Groceries,11,11.68,0.68
+2021,March,Porvorim,Milk Products,2.86,2.88,0.02
+2021,March,Porvorim,Ready to eat,1.74,1.97,0.23
+2021,March,Porvorim,Spices,5.92,5.54,-0.38
+2021,March,Porvorim,Vegetables,2.68,2.65,-0.03
+2021,April,Panaji,Bakery,1.13,1.06,-0.07
+2021,April,Panaji,Beverages,1.9,1.76,-0.14
+2021,April,Panaji,Fruits,1.84,1.92,0.08
+2021,April,Panaji,Groceries,10.78,10.64,-0.14
+2021,April,Panaji,Milk Products,2.85,2.96,0.11
+2021,April,Panaji,Ready to eat,1.82,1.76,-0.06
+2021,April,Panaji,Spices,5.77,5.9,0.13
+2021,April,Panaji,Vegetables,2.61,2.98,0.37
+2021,April,Khorlim,Bakery,1.15,1.1,-0.05
+2021,April,Khorlim,Beverages,1.98,1.81,-0.17
+2021,April,Khorlim,Fruits,1.96,1.91,-0.05
+2021,April,Khorlim,Groceries,10.7,10.62,-0.08
+2021,April,Khorlim,Milk Products,2.7,2.6,-0.1
+2021,April,Khorlim,Ready to eat,1.83,1.88,0.05
+2021,April,Khorlim,Spices,5.97,5.5,-0.47
+2021,April,Khorlim,Vegetables,2.88,2.89,0.01
+2021,April,KTC,Bakery,1.2,1.14,-0.06
+2021,April,KTC,Beverages,1.85,1.74,-0.11
+2021,April,KTC,Fruits,1.84,1.84,0
+2021,April,KTC,Groceries,10.39,11.57,1.18
+2021,April,KTC,Milk Products,2.67,2.89,0.22
+2021,April,KTC,Ready to eat,1.88,1.82,-0.06
+2021,April,KTC,Spices,5.77,5.59,-0.18
+2021,April,KTC,Vegetables,2.97,2.97,0
+2021,April,Margao,Bakery,1.12,1.06,-0.06
+2021,April,Margao,Beverages,1.95,1.87,-0.08
+2021,April,Margao,Fruits,1.84,1.95,0.11
+2021,April,Margao,Groceries,11.81,10.38,-1.43
+2021,April,Margao,Milk Products,2.79,2.96,0.17
+2021,April,Margao,Ready to eat,1.76,1.93,0.17
+2021,April,Margao,Spices,5.45,5.39,-0.06
+2021,April,Margao,Vegetables,2.71,2.7,-0.01
+2021,April,Siolim,Bakery,1.19,1.04,-0.15
+2021,April,Siolim,Beverages,1.97,1.86,-0.11
+2021,April,Siolim,Fruits,1.84,1.91,0.07
+2021,April,Siolim,Groceries,10.66,10.43,-0.23
+2021,April,Siolim,Milk Products,2.76,2.67,-0.09
+2021,April,Siolim,Ready to eat,1.98,1.75,-0.23
+2021,April,Siolim,Spices,5.96,5.82,-0.14
+2021,April,Siolim,Vegetables,2.73,2.74,0.01
+2021,April,Baga,Bakery,1.11,1.07,-0.04
+2021,April,Baga,Beverages,1.78,1.8,0.02
+2021,April,Baga,Fruits,1.97,1.9,-0.07
+2021,April,Baga,Groceries,11.83,10.94,-0.89
+2021,April,Baga,Milk Products,2.94,2.85,-0.09
+2021,April,Baga,Ready to eat,1.91,1.88,-0.03
+2021,April,Baga,Spices,5.24,5.27,0.03
+2021,April,Baga,Vegetables,2.71,2.81,0.1
+2021,April,Porvorim,Bakery,1.13,1.06,-0.07
+2021,April,Porvorim,Beverages,1.83,1.97,0.14
+2021,April,Porvorim,Fruits,1.94,1.88,-0.06
+2021,April,Porvorim,Groceries,10.5,10.92,0.42
+2021,April,Porvorim,Milk Products,2.68,2.89,0.21
+2021,April,Porvorim,Ready to eat,1.99,1.86,-0.13
+2021,April,Porvorim,Spices,5.92,5.87,-0.05
+2021,April,Porvorim,Vegetables,2.71,2.62,-0.09
+2021,May,Panaji,Bakery,1.1,1.18,0.08
+2021,May,Panaji,Beverages,1.88,1.77,-0.11
+2021,May,Panaji,Fruits,1.98,1.91,-0.07
+2021,May,Panaji,Groceries,11.02,10.54,-0.48
+2021,May,Panaji,Milk Products,3,2.81,-0.19
+2021,May,Panaji,Ready to eat,1.81,1.91,0.1
+2021,May,Panaji,Spices,5.88,5.55,-0.33
+2021,May,Panaji,Vegetables,2.94,2.84,-0.1
+2021,May,Khorlim,Bakery,1.19,1.05,-0.14
+2021,May,Khorlim,Beverages,1.97,1.86,-0.11
+2021,May,Khorlim,Fruits,1.87,1.94,0.07
+2021,May,Khorlim,Groceries,11.87,11.55,-0.32
+2021,May,Khorlim,Milk Products,2.7,2.79,0.09
+2021,May,Khorlim,Ready to eat,1.83,1.99,0.16
+2021,May,Khorlim,Spices,5.64,5.19,-0.45
+2021,May,Khorlim,Vegetables,2.74,2.69,-0.05
+2021,May,KTC,Bakery,1.19,1.16,-0.03
+2021,May,KTC,Beverages,1.95,1.99,0.04
+2021,May,KTC,Fruits,1.91,1.75,-0.16
+2021,May,KTC,Groceries,10.77,10.98,0.21
+2021,May,KTC,Milk Products,2.85,2.97,0.12
+2021,May,KTC,Ready to eat,1.79,1.74,-0.05
+2021,May,KTC,Spices,5.32,5.65,0.33
+2021,May,KTC,Vegetables,2.8,2.8,0
+2021,May,Margao,Bakery,1.08,1.17,0.09
+2021,May,Margao,Beverages,1.87,1.81,-0.06
+2021,May,Margao,Fruits,1.79,1.98,0.19
+2021,May,Margao,Groceries,10.73,11.42,0.69
+2021,May,Margao,Milk Products,2.83,2.68,-0.15
+2021,May,Margao,Ready to eat,1.98,1.92,-0.06
+2021,May,Margao,Spices,5.35,5.69,0.34
+2021,May,Margao,Vegetables,2.86,2.97,0.11
+2021,May,Siolim,Bakery,1.2,1.11,-0.09
+2021,May,Siolim,Beverages,1.83,1.79,-0.04
+2021,May,Siolim,Fruits,1.98,1.96,-0.02
+2021,May,Siolim,Groceries,11.89,11.92,0.03
+2021,May,Siolim,Milk Products,2.64,2.71,0.07
+2021,May,Siolim,Ready to eat,1.99,2,0.01
+2021,May,Siolim,Spices,5.25,5.4,0.15
+2021,May,Siolim,Vegetables,2.76,2.73,-0.03
+2021,May,Baga,Bakery,1.18,1.05,-0.13
+2021,May,Baga,Beverages,1.85,1.98,0.13
+2021,May,Baga,Fruits,1.99,1.91,-0.08
+2021,May,Baga,Groceries,11.45,10.97,-0.48
+2021,May,Baga,Milk Products,2.96,2.81,-0.15
+2021,May,Baga,Ready to eat,2,1.74,-0.26
+2021,May,Baga,Spices,5.87,5.98,0.11
+2021,May,Baga,Vegetables,2.85,2.73,-0.12
+2021,May,Porvorim,Bakery,1.07,1.18,0.11
+2021,May,Porvorim,Beverages,1.9,1.82,-0.08
+2021,May,Porvorim,Fruits,1.93,1.87,-0.06
+2021,May,Porvorim,Groceries,11.43,10.49,-0.94
+2021,May,Porvorim,Milk Products,2.89,2.73,-0.16
+2021,May,Porvorim,Ready to eat,1.81,1.96,0.15
+2021,May,Porvorim,Spices,5.64,5.68,0.04
+2021,May,Porvorim,Vegetables,2.71,2.97,0.26
+2021,June,Panaji,Bakery,1.1,1.16,0.06
+2021,June,Panaji,Beverages,1.84,1.86,0.02
+2021,June,Panaji,Fruits,1.78,1.77,-0.01
+2021,June,Panaji,Groceries,11.63,11.68,0.05
+2021,June,Panaji,Milk Products,2.91,2.76,-0.15
+2021,June,Panaji,Ready to eat,1.97,1.78,-0.19
+2021,June,Panaji,Spices,5.76,5.85,0.09
+2021,June,Panaji,Vegetables,2.84,2.94,0.1
+2021,June,Khorlim,Bakery,1.11,1.14,0.03
+2021,June,Khorlim,Beverages,1.99,1.91,-0.08
+2021,June,Khorlim,Fruits,1.87,1.75,-0.12
+2021,June,Khorlim,Groceries,10.88,11.98,1.1
+2021,June,Khorlim,Milk Products,2.62,2.86,0.24
+2021,June,Khorlim,Ready to eat,1.81,1.94,0.13
+2021,June,Khorlim,Spices,5.86,5.32,-0.54
+2021,June,Khorlim,Vegetables,2.66,2.97,0.31
+2021,June,KTC,Bakery,1.13,1.13,0
+2021,June,KTC,Beverages,1.81,1.85,0.04
+2021,June,KTC,Fruits,1.85,1.91,0.06
+2021,June,KTC,Groceries,10.96,11.47,0.51
+2021,June,KTC,Milk Products,2.82,2.95,0.13
+2021,June,KTC,Ready to eat,1.82,1.73,-0.09
+2021,June,KTC,Spices,5.98,5.25,-0.73
+2021,June,KTC,Vegetables,2.92,2.64,-0.28
+2021,June,Margao,Bakery,1.05,1.15,0.1
+2021,June,Margao,Beverages,1.88,1.92,0.04
+2021,June,Margao,Fruits,1.83,1.83,0
+2021,June,Margao,Groceries,10.69,10.55,-0.14
+2021,June,Margao,Milk Products,2.62,2.98,0.36
+2021,June,Margao,Ready to eat,1.74,1.96,0.22
+2021,June,Margao,Spices,5.4,5.96,0.56
+2021,June,Margao,Vegetables,2.81,2.9,0.09
+2021,June,Siolim,Bakery,1.04,1.19,0.15
+2021,June,Siolim,Beverages,1.82,1.96,0.14
+2021,June,Siolim,Fruits,1.95,1.76,-0.19
+2021,June,Siolim,Groceries,11.88,11.36,-0.52
+2021,June,Siolim,Milk Products,2.9,2.73,-0.17
+2021,June,Siolim,Ready to eat,1.73,1.92,0.19
+2021,June,Siolim,Spices,5.31,5.51,0.2
+2021,June,Siolim,Vegetables,2.77,2.81,0.04
+2021,June,Baga,Bakery,1.1,1.1,0
+2021,June,Baga,Beverages,1.89,1.99,0.1
+2021,June,Baga,Fruits,1.78,1.82,0.04
+2021,June,Baga,Groceries,11.26,10.4,-0.86
+2021,June,Baga,Milk Products,2.67,2.72,0.05
+2021,June,Baga,Ready to eat,1.95,1.95,0
+2021,June,Baga,Spices,5.38,5.94,0.56
+2021,June,Baga,Vegetables,2.82,2.89,0.07
+2021,June,Porvorim,Bakery,1.11,1.06,-0.05
+2021,June,Porvorim,Beverages,1.87,1.83,-0.04
+2021,June,Porvorim,Fruits,1.74,1.9,0.16
+2021,June,Porvorim,Groceries,10.45,11.64,1.19
+2021,June,Porvorim,Milk Products,2.89,2.82,-0.07
+2021,June,Porvorim,Ready to eat,1.77,1.86,0.09
+2021,June,Porvorim,Spices,5.63,5.82,0.19
+2021,June,Porvorim,Vegetables,2.73,2.71,-0.02
+2021,July,Panaji,Bakery,1.04,1.19,0.15
+2021,July,Panaji,Beverages,1.96,1.86,-0.1
+2021,July,Panaji,Fruits,1.9,1.78,-0.12
+2021,July,Panaji,Groceries,11.29,11.96,0.67
+2021,July,Panaji,Milk Products,2.72,2.69,-0.03
+2021,July,Panaji,Ready to eat,1.81,1.98,0.17
+2021,July,Panaji,Spices,5.84,5.9,0.06
+2021,July,Panaji,Vegetables,3,2.65,-0.35
+2021,July,Khorlim,Bakery,1.1,1.1,0
+2021,July,Khorlim,Beverages,1.86,1.87,0.01
+2021,July,Khorlim,Fruits,1.76,1.87,0.11
+2021,July,Khorlim,Groceries,10.64,11.04,0.4
+2021,July,Khorlim,Milk Products,2.81,2.81,0
+2021,July,Khorlim,Ready to eat,1.84,1.86,0.02
+2021,July,Khorlim,Spices,5.72,5.47,-0.25
+2021,July,Khorlim,Vegetables,2.6,2.63,0.03
+2021,July,KTC,Bakery,1.1,1.14,0.04
+2021,July,KTC,Beverages,1.97,1.95,-0.02
+2021,July,KTC,Fruits,1.9,2,0.1
+2021,July,KTC,Groceries,11.87,11.69,-0.18
+2021,July,KTC,Milk Products,2.84,2.73,-0.11
+2021,July,KTC,Ready to eat,1.88,1.87,-0.01
+2021,July,KTC,Spices,5.21,5.39,0.18
+2021,July,KTC,Vegetables,2.88,2.69,-0.19
+2021,July,Margao,Bakery,1.06,1.19,0.13
+2021,July,Margao,Beverages,1.8,1.85,0.05
+2021,July,Margao,Fruits,1.78,1.83,0.05
+2021,July,Margao,Groceries,11.97,11.67,-0.3
+2021,July,Margao,Milk Products,2.82,2.76,-0.06
+2021,July,Margao,Ready to eat,1.91,1.98,0.07
+2021,July,Margao,Spices,5.95,5.8,-0.15
+2021,July,Margao,Vegetables,2.76,2.98,0.22
+2021,July,Siolim,Bakery,1.19,1.17,-0.02
+2021,July,Siolim,Beverages,1.93,1.73,-0.2
+2021,July,Siolim,Fruits,1.85,1.93,0.08
+2021,July,Siolim,Groceries,10.75,10.51,-0.24
+2021,July,Siolim,Milk Products,2.78,2.72,-0.06
+2021,July,Siolim,Ready to eat,1.74,1.82,0.08
+2021,July,Siolim,Spices,5.45,5.65,0.2
+2021,July,Siolim,Vegetables,2.8,2.85,0.05
+2021,July,Baga,Bakery,1.14,1.18,0.04
+2021,July,Baga,Beverages,1.93,1.81,-0.12
+2021,July,Baga,Fruits,1.87,1.96,0.09
+2021,July,Baga,Groceries,11.67,10.87,-0.8
+2021,July,Baga,Milk Products,2.73,2.98,0.25
+2021,July,Baga,Ready to eat,1.74,1.91,0.17
+2021,July,Baga,Spices,5.82,5.42,-0.4
+2021,July,Baga,Vegetables,2.71,2.77,0.06
+2021,July,Porvorim,Bakery,1.17,1.16,-0.01
+2021,July,Porvorim,Beverages,1.85,1.74,-0.11
+2021,July,Porvorim,Fruits,1.75,1.96,0.21
+2021,July,Porvorim,Groceries,10.44,11.07,0.63
+2021,July,Porvorim,Milk Products,2.79,2.89,0.1
+2021,July,Porvorim,Ready to eat,1.74,1.88,0.14
+2021,July,Porvorim,Spices,5.26,5.71,0.45
+2021,July,Porvorim,Vegetables,2.67,2.97,0.3
+2021,August,Panaji,Bakery,1.07,1.18,0.11
+2021,August,Panaji,Beverages,1.86,1.86,0
+2021,August,Panaji,Fruits,1.84,1.77,-0.07
+2021,August,Panaji,Groceries,10.87,10.59,-0.28
+2021,August,Panaji,Milk Products,2.9,2.98,0.08
+2021,August,Panaji,Ready to eat,1.85,1.82,-0.03
+2021,August,Panaji,Spices,5.64,5.51,-0.13
+2021,August,Panaji,Vegetables,2.64,2.62,-0.02
+2021,August,Khorlim,Bakery,1.09,1.2,0.11
+2021,August,Khorlim,Beverages,1.83,1.86,0.03
+2021,August,Khorlim,Fruits,1.96,1.94,-0.02
+2021,August,Khorlim,Groceries,11.66,11.9,0.24
+2021,August,Khorlim,Milk Products,3,2.94,-0.06
+2021,August,Khorlim,Ready to eat,1.79,1.86,0.07
+2021,August,Khorlim,Spices,5.9,5.48,-0.42
+2021,August,Khorlim,Vegetables,2.99,3,0.01
+2021,August,KTC,Bakery,1.05,1.17,0.12
+2021,August,KTC,Beverages,1.78,1.84,0.06
+2021,August,KTC,Fruits,1.73,1.95,0.22
+2021,August,KTC,Groceries,11.13,10.52,-0.61
+2021,August,KTC,Milk Products,2.78,2.99,0.21
+2021,August,KTC,Ready to eat,1.92,1.77,-0.15
+2021,August,KTC,Spices,5.84,5.33,-0.51
+2021,August,KTC,Vegetables,2.63,2.89,0.26
+2021,August,Margao,Bakery,1.14,1.15,0.01
+2021,August,Margao,Beverages,1.94,1.86,-0.08
+2021,August,Margao,Fruits,1.92,1.86,-0.06
+2021,August,Margao,Groceries,11.33,11.53,0.2
+2021,August,Margao,Milk Products,2.77,2.99,0.22
+2021,August,Margao,Ready to eat,1.76,1.99,0.23
+2021,August,Margao,Spices,5.55,5.72,0.17
+2021,August,Margao,Vegetables,2.63,2.92,0.29
+2021,August,Siolim,Bakery,1.19,1.15,-0.04
+2021,August,Siolim,Beverages,1.96,1.92,-0.04
+2021,August,Siolim,Fruits,1.8,1.87,0.07
+2021,August,Siolim,Groceries,10.68,11.96,1.28
+2021,August,Siolim,Milk Products,2.69,2.92,0.23
+2021,August,Siolim,Ready to eat,1.79,1.77,-0.02
+2021,August,Siolim,Spices,5.24,5.94,0.7
+2021,August,Siolim,Vegetables,2.97,2.88,-0.09
+2021,August,Baga,Bakery,1.08,1.14,0.06
+2021,August,Baga,Beverages,1.84,1.87,0.03
+2021,August,Baga,Fruits,1.84,1.84,0
+2021,August,Baga,Groceries,10.95,10.62,-0.33
+2021,August,Baga,Milk Products,2.9,2.94,0.04
+2021,August,Baga,Ready to eat,1.79,1.94,0.15
+2021,August,Baga,Spices,5.98,5.59,-0.39
+2021,August,Baga,Vegetables,2.7,2.72,0.02
+2021,August,Porvorim,Bakery,1.14,1.15,0.01
+2021,August,Porvorim,Beverages,1.9,1.87,-0.03
+2021,August,Porvorim,Fruits,1.95,1.95,0
+2021,August,Porvorim,Groceries,10.92,11.68,0.76
+2021,August,Porvorim,Milk Products,2.83,2.98,0.15
+2021,August,Porvorim,Ready to eat,1.77,1.75,-0.02
+2021,August,Porvorim,Spices,5.99,5.75,-0.24
+2021,August,Porvorim,Vegetables,2.68,2.77,0.09
+2021,September,Panaji,Bakery,1.1,1.08,-0.02
+2021,September,Panaji,Beverages,1.83,1.93,0.1
+2021,September,Panaji,Fruits,1.96,1.94,-0.02
+2021,September,Panaji,Groceries,11.46,11.3,-0.16
+2021,September,Panaji,Milk Products,2.94,2.76,-0.18
+2021,September,Panaji,Ready to eat,1.73,1.82,0.09
+2021,September,Panaji,Spices,5.99,5.56,-0.43
+2021,September,Panaji,Vegetables,2.9,2.88,-0.02
+2021,September,Khorlim,Bakery,1.1,1.11,0.01
+2021,September,Khorlim,Beverages,1.8,1.83,0.03
+2021,September,Khorlim,Fruits,1.97,1.76,-0.21
+2021,September,Khorlim,Groceries,11.27,11.27,0
+2021,September,Khorlim,Milk Products,2.98,2.89,-0.09
+2021,September,Khorlim,Ready to eat,1.97,1.82,-0.15
+2021,September,Khorlim,Spices,5.46,5.72,0.26
+2021,September,Khorlim,Vegetables,2.96,2.91,-0.05
+2021,September,KTC,Bakery,1.07,1.14,0.07
+2021,September,KTC,Beverages,1.99,1.92,-0.07
+2021,September,KTC,Fruits,1.87,1.98,0.11
+2021,September,KTC,Groceries,11.53,11.75,0.22
+2021,September,KTC,Milk Products,2.98,2.98,0
+2021,September,KTC,Ready to eat,1.95,1.98,0.03
+2021,September,KTC,Spices,5.9,5.74,-0.16
+2021,September,KTC,Vegetables,2.85,2.95,0.1
+2021,September,Margao,Bakery,1.05,1.16,0.11
+2021,September,Margao,Beverages,1.85,1.94,0.09
+2021,September,Margao,Fruits,1.93,1.9,-0.03
+2021,September,Margao,Groceries,11.34,10.59,-0.75
+2021,September,Margao,Milk Products,2.69,2.91,0.22
+2021,September,Margao,Ready to eat,1.88,1.76,-0.12
+2021,September,Margao,Spices,5.96,5.44,-0.52
+2021,September,Margao,Vegetables,2.71,2.92,0.21
+2021,September,Siolim,Bakery,1.06,1.12,0.06
+2021,September,Siolim,Beverages,1.95,1.92,-0.03
+2021,September,Siolim,Fruits,1.85,1.96,0.11
+2021,September,Siolim,Groceries,10.41,11.23,0.82
+2021,September,Siolim,Milk Products,2.74,2.71,-0.03
+2021,September,Siolim,Ready to eat,1.79,1.85,0.06
+2021,September,Siolim,Spices,5.25,5.27,0.02
+2021,September,Siolim,Vegetables,2.93,2.87,-0.06
+2021,September,Baga,Bakery,1.04,1.05,0.01
+2021,September,Baga,Beverages,1.92,1.92,0
+2021,September,Baga,Fruits,1.73,1.92,0.19
+2021,September,Baga,Groceries,10.97,11.48,0.51
+2021,September,Baga,Milk Products,2.98,2.86,-0.12
+2021,September,Baga,Ready to eat,1.99,1.92,-0.07
+2021,September,Baga,Spices,5.44,5.59,0.15
+2021,September,Baga,Vegetables,2.62,2.88,0.26
+2021,September,Porvorim,Bakery,1.07,1.14,0.07
+2021,September,Porvorim,Beverages,1.92,1.89,-0.03
+2021,September,Porvorim,Fruits,1.88,1.76,-0.12
+2021,September,Porvorim,Groceries,11.42,11.32,-0.1
+2021,September,Porvorim,Milk Products,2.82,2.91,0.09
+2021,September,Porvorim,Ready to eat,1.99,1.95,-0.04
+2021,September,Porvorim,Spices,5.97,5.34,-0.63
+2021,September,Porvorim,Vegetables,2.97,2.64,-0.33
+2021,October,Panaji,Bakery,1.09,1.17,0.08
+2021,October,Panaji,Beverages,1.89,1.83,-0.06
+2021,October,Panaji,Fruits,1.79,1.96,0.17
+2021,October,Panaji,Groceries,11.16,11.72,0.56
+2021,October,Panaji,Milk Products,2.87,2.62,-0.25
+2021,October,Panaji,Ready to eat,1.86,1.89,0.03
+2021,October,Panaji,Spices,5.82,5.39,-0.43
+2021,October,Panaji,Vegetables,2.89,2.82,-0.07
+2021,October,Khorlim,Bakery,1.1,1.08,-0.02
+2021,October,Khorlim,Beverages,1.95,1.95,0
+2021,October,Khorlim,Fruits,1.82,1.75,-0.07
+2021,October,Khorlim,Groceries,11.79,11.48,-0.31
+2021,October,Khorlim,Milk Products,2.87,2.77,-0.1
+2021,October,Khorlim,Ready to eat,1.97,1.97,0
+2021,October,Khorlim,Spices,5.83,5.64,-0.19
+2021,October,Khorlim,Vegetables,2.76,2.9,0.14
+2021,October,KTC,Bakery,1.13,1.06,-0.07
+2021,October,KTC,Beverages,1.83,1.94,0.11
+2021,October,KTC,Fruits,1.92,1.84,-0.08
+2021,October,KTC,Groceries,11.03,11.54,0.51
+2021,October,KTC,Milk Products,2.85,2.67,-0.18
+2021,October,KTC,Ready to eat,1.92,1.91,-0.01
+2021,October,KTC,Spices,5.6,5.86,0.26
+2021,October,KTC,Vegetables,2.74,2.76,0.02
+2021,October,Margao,Bakery,1.06,1.18,0.12
+2021,October,Margao,Beverages,1.83,1.81,-0.02
+2021,October,Margao,Fruits,1.91,1.85,-0.06
+2021,October,Margao,Groceries,11.15,11.93,0.78
+2021,October,Margao,Milk Products,2.68,2.8,0.12
+2021,October,Margao,Ready to eat,1.79,1.92,0.13
+2021,October,Margao,Spices,5.23,5.81,0.58
+2021,October,Margao,Vegetables,2.89,2.7,-0.19
+2021,October,Siolim,Bakery,1.18,1.08,-0.1
+2021,October,Siolim,Beverages,1.83,1.99,0.16
+2021,October,Siolim,Fruits,1.96,1.79,-0.17
+2021,October,Siolim,Groceries,10.42,10.74,0.32
+2021,October,Siolim,Milk Products,2.7,2.84,0.14
+2021,October,Siolim,Ready to eat,1.87,1.76,-0.11
+2021,October,Siolim,Spices,5.28,5.68,0.4
+2021,October,Siolim,Vegetables,2.6,2.72,0.12
+2021,October,Baga,Bakery,1.14,1.06,-0.08
+2021,October,Baga,Beverages,1.93,1.84,-0.09
+2021,October,Baga,Fruits,1.86,1.83,-0.03
+2021,October,Baga,Groceries,10.77,10.85,0.08
+2021,October,Baga,Milk Products,2.91,2.96,0.05
+2021,October,Baga,Ready to eat,1.87,1.76,-0.11
+2021,October,Baga,Spices,5.21,5.78,0.57
+2021,October,Baga,Vegetables,2.68,2.98,0.3
+2021,October,Porvorim,Bakery,1.18,1.12,-0.06
+2021,October,Porvorim,Beverages,1.99,1.8,-0.19
+2021,October,Porvorim,Fruits,1.93,1.91,-0.02
+2021,October,Porvorim,Groceries,10.4,11.74,1.34
+2021,October,Porvorim,Milk Products,2.82,2.89,0.07
+2021,October,Porvorim,Ready to eat,1.89,1.75,-0.14
+2021,October,Porvorim,Spices,5.52,5.86,0.34
+2021,October,Porvorim,Vegetables,2.87,2.71,-0.16
+2021,November,Panaji,Bakery,1.05,1.18,0.13
+2021,November,Panaji,Beverages,1.95,1.92,-0.03
+2021,November,Panaji,Fruits,1.81,1.86,0.05
+2021,November,Panaji,Groceries,11.91,10.78,-1.13
+2021,November,Panaji,Milk Products,2.82,2.75,-0.07
+2021,November,Panaji,Ready to eat,1.82,1.79,-0.03
+2021,November,Panaji,Spices,5.48,5.52,0.04
+2021,November,Panaji,Vegetables,2.81,2.86,0.05
+2021,November,Khorlim,Bakery,1.11,1.07,-0.04
+2021,November,Khorlim,Beverages,1.74,1.78,0.04
+2021,November,Khorlim,Fruits,1.93,1.83,-0.1
+2021,November,Khorlim,Groceries,11.09,10.39,-0.7
+2021,November,Khorlim,Milk Products,2.62,2.7,0.08
+2021,November,Khorlim,Ready to eat,1.84,1.78,-0.06
+2021,November,Khorlim,Spices,5.61,5.97,0.36
+2021,November,Khorlim,Vegetables,2.8,2.93,0.13
+2021,November,KTC,Bakery,1.04,1.13,0.09
+2021,November,KTC,Beverages,1.75,1.76,0.01
+2021,November,KTC,Fruits,1.84,1.8,-0.04
+2021,November,KTC,Groceries,11.17,11.97,0.8
+2021,November,KTC,Milk Products,2.93,2.7,-0.23
+2021,November,KTC,Ready to eat,1.95,1.94,-0.01
+2021,November,KTC,Spices,5.64,5.62,-0.02
+2021,November,KTC,Vegetables,2.97,2.76,-0.21
+2021,November,Margao,Bakery,1.17,1.2,0.03
+2021,November,Margao,Beverages,1.83,1.73,-0.1
+2021,November,Margao,Fruits,1.8,1.94,0.14
+2021,November,Margao,Groceries,10.8,10.71,-0.09
+2021,November,Margao,Milk Products,2.79,2.72,-0.07
+2021,November,Margao,Ready to eat,1.92,1.77,-0.15
+2021,November,Margao,Spices,5.24,5.36,0.12
+2021,November,Margao,Vegetables,2.8,2.88,0.08
+2021,November,Siolim,Bakery,1.06,1.15,0.09
+2021,November,Siolim,Beverages,1.84,1.75,-0.09
+2021,November,Siolim,Fruits,1.87,2,0.13
+2021,November,Siolim,Groceries,11.3,11.58,0.28
+2021,November,Siolim,Milk Products,2.83,2.82,-0.01
+2021,November,Siolim,Ready to eat,1.78,1.79,0.01
+2021,November,Siolim,Spices,5.87,5.21,-0.66
+2021,November,Siolim,Vegetables,2.66,2.76,0.1
+2021,November,Baga,Bakery,1.2,1.13,-0.07
+2021,November,Baga,Beverages,1.95,1.79,-0.16
+2021,November,Baga,Fruits,1.8,1.77,-0.03
+2021,November,Baga,Groceries,11.91,11.35,-0.56
+2021,November,Baga,Milk Products,2.61,2.68,0.07
+2021,November,Baga,Ready to eat,1.82,1.75,-0.07
+2021,November,Baga,Spices,5.79,5.95,0.16
+2021,November,Baga,Vegetables,2.78,2.79,0.01
+2021,November,Porvorim,Bakery,1.18,1.12,-0.06
+2021,November,Porvorim,Beverages,1.76,1.94,0.18
+2021,November,Porvorim,Fruits,1.85,1.78,-0.07
+2021,November,Porvorim,Groceries,11.96,11.55,-0.41
+2021,November,Porvorim,Milk Products,2.6,2.91,0.31
+2021,November,Porvorim,Ready to eat,1.96,1.76,-0.2
+2021,November,Porvorim,Spices,5.97,5.19,-0.78
+2021,November,Porvorim,Vegetables,2.69,2.74,0.05
+2021,December,Panaji,Bakery,1.12,1.04,-0.08
+2021,December,Panaji,Beverages,1.86,1.78,-0.08
+2021,December,Panaji,Fruits,1.83,1.91,0.08
+2021,December,Panaji,Groceries,11.99,10.95,-1.04
+2021,December,Panaji,Milk Products,2.69,2.98,0.29
+2021,December,Panaji,Ready to eat,1.83,1.76,-0.07
+2021,December,Panaji,Spices,5.9,5.49,-0.41
+2021,December,Panaji,Vegetables,2.66,2.78,0.12
+2021,December,Khorlim,Bakery,1.17,1.17,0
+2021,December,Khorlim,Beverages,1.82,1.9,0.08
+2021,December,Khorlim,Fruits,1.85,1.97,0.12
+2021,December,Khorlim,Groceries,11.26,11.24,-0.02
+2021,December,Khorlim,Milk Products,2.82,2.98,0.16
+2021,December,Khorlim,Ready to eat,1.76,1.89,0.13
+2021,December,Khorlim,Spices,5.41,5.2,-0.21
+2021,December,Khorlim,Vegetables,2.85,2.62,-0.23
+2021,December,KTC,Bakery,1.12,1.2,0.08
+2021,December,KTC,Beverages,1.94,1.92,-0.02
+2021,December,KTC,Fruits,1.86,1.73,-0.13
+2021,December,KTC,Groceries,11.34,10.89,-0.45
+2021,December,KTC,Milk Products,2.75,2.97,0.22
+2021,December,KTC,Ready to eat,1.88,1.86,-0.02
+2021,December,KTC,Spices,5.79,5.44,-0.35
+2021,December,KTC,Vegetables,2.64,2.78,0.14
+2021,December,Margao,Bakery,1.11,1.19,0.08
+2021,December,Margao,Beverages,2,1.92,-0.08
+2021,December,Margao,Fruits,1.82,1.85,0.03
+2021,December,Margao,Groceries,11.32,11.89,0.57
+2021,December,Margao,Milk Products,2.64,2.92,0.28
+2021,December,Margao,Ready to eat,1.92,1.82,-0.1
+2021,December,Margao,Spices,5.51,5.96,0.45
+2021,December,Margao,Vegetables,2.83,2.91,0.08
+2021,December,Siolim,Bakery,1.16,1.1,-0.06
+2021,December,Siolim,Beverages,1.87,1.9,0.03
+2021,December,Siolim,Fruits,1.83,1.85,0.02
+2021,December,Siolim,Groceries,11.99,10.68,-1.31
+2021,December,Siolim,Milk Products,2.94,2.72,-0.22
+2021,December,Siolim,Ready to eat,1.89,1.94,0.05
+2021,December,Siolim,Spices,5.66,5.27,-0.39
+2021,December,Siolim,Vegetables,2.74,2.94,0.2
+2021,December,Baga,Bakery,1.12,1.08,-0.04
+2021,December,Baga,Beverages,1.96,1.82,-0.14
+2021,December,Baga,Fruits,1.74,1.99,0.25
+2021,December,Baga,Groceries,10.86,10.86,0
+2021,December,Baga,Milk Products,2.64,2.89,0.25
+2021,December,Baga,Ready to eat,1.78,1.95,0.17
+2021,December,Baga,Spices,5.76,5.42,-0.34
+2021,December,Baga,Vegetables,2.9,2.73,-0.17
+2021,December,Porvorim,Bakery,1.17,1.1,-0.07
+2021,December,Porvorim,Beverages,1.85,1.88,0.03
+2021,December,Porvorim,Fruits,1.97,1.79,-0.18
+2021,December,Porvorim,Groceries,11.04,10.66,-0.38
+2021,December,Porvorim,Milk Products,2.81,2.67,-0.14
+2021,December,Porvorim,Ready to eat,1.91,1.95,0.04
+2021,December,Porvorim,Spices,5.9,5.82,-0.08
+2021,December,Porvorim,Vegetables,2.74,2.81,0.07
+2022,January,Panaji,Bakery,1.12,1.14,0.02
+2022,January,Panaji,Beverages,1.81,1.91,0.1
+2022,January,Panaji,Fruits,1.83,1.78,-0.05
+2022,January,Panaji,Groceries,11.89,11.17,-0.72
+2022,January,Panaji,Milk Products,2.89,2.68,-0.21
+2022,January,Panaji,Ready to eat,1.74,1.75,0.01
+2022,January,Panaji,Spices,5.68,5.31,-0.37
+2022,January,Panaji,Vegetables,2.62,2.99,0.37
+2022,January,Khorlim,Bakery,1.14,1.15,0.01
+2022,January,Khorlim,Beverages,1.87,1.83,-0.04
+2022,January,Khorlim,Fruits,1.93,1.82,-0.11
+2022,January,Khorlim,Groceries,10.66,11.72,1.06
+2022,January,Khorlim,Milk Products,2.7,2.77,0.07
+2022,January,Khorlim,Ready to eat,1.95,1.79,-0.16
+2022,January,Khorlim,Spices,5.55,5.52,-0.03
+2022,January,Khorlim,Vegetables,2.9,2.85,-0.05
+2022,January,KTC,Bakery,1.12,1.11,-0.01
+2022,January,KTC,Beverages,1.74,1.87,0.13
+2022,January,KTC,Fruits,1.74,1.95,0.21
+2022,January,KTC,Groceries,11.19,10.4,-0.79
+2022,January,KTC,Milk Products,2.6,2.72,0.12
+2022,January,KTC,Ready to eat,1.97,1.94,-0.03
+2022,January,KTC,Spices,5.6,5.32,-0.28
+2022,January,KTC,Vegetables,2.62,2.68,0.06
+2022,January,Margao,Bakery,1.13,1.09,-0.04
+2022,January,Margao,Beverages,1.8,1.9,0.1
+2022,January,Margao,Fruits,1.9,1.81,-0.09
+2022,January,Margao,Groceries,10.49,11.37,0.88
+2022,January,Margao,Milk Products,2.96,2.79,-0.17
+2022,January,Margao,Ready to eat,1.88,1.91,0.03
+2022,January,Margao,Spices,5.25,5.37,0.12
+2022,January,Margao,Vegetables,2.93,2.87,-0.06
+2022,January,Siolim,Bakery,1.13,1.08,-0.05
+2022,January,Siolim,Beverages,1.97,1.94,-0.03
+2022,January,Siolim,Fruits,1.88,1.82,-0.06
+2022,January,Siolim,Groceries,11.28,10.49,-0.79
+2022,January,Siolim,Milk Products,2.94,2.95,0.01
+2022,January,Siolim,Ready to eat,1.97,1.95,-0.02
+2022,January,Siolim,Spices,5.65,5.82,0.17
+2022,January,Siolim,Vegetables,2.86,2.73,-0.13
+2022,January,Baga,Bakery,1.18,1.08,-0.1
+2022,January,Baga,Beverages,1.89,1.86,-0.03
+2022,January,Baga,Fruits,1.88,1.9,0.02
+2022,January,Baga,Groceries,11.02,11.4,0.38
+2022,January,Baga,Milk Products,2.9,2.68,-0.22
+2022,January,Baga,Ready to eat,1.86,1.85,-0.01
+2022,January,Baga,Spices,5.76,5.65,-0.11
+2022,January,Baga,Vegetables,2.77,2.8,0.03
+2022,January,Porvorim,Bakery,1.11,1.06,-0.05
+2022,January,Porvorim,Beverages,1.96,1.94,-0.02
+2022,January,Porvorim,Fruits,1.84,1.99,0.15
+2022,January,Porvorim,Groceries,11.41,11.38,-0.03
+2022,January,Porvorim,Milk Products,2.8,2.94,0.14
+2022,January,Porvorim,Ready to eat,1.89,1.83,-0.06
+2022,January,Porvorim,Spices,5.96,5.32,-0.64
+2022,January,Porvorim,Vegetables,2.63,2.85,0.22
+2022,February,Panaji,Bakery,1.09,1.18,0.09
+2022,February,Panaji,Beverages,1.88,1.97,0.09
+2022,February,Panaji,Fruits,1.76,1.8,0.04
+2022,February,Panaji,Groceries,11.36,11.92,0.56
+2022,February,Panaji,Milk Products,2.79,2.81,0.02
+2022,February,Panaji,Ready to eat,1.92,1.85,-0.07
+2022,February,Panaji,Spices,5.68,5.78,0.1
+2022,February,Panaji,Vegetables,2.91,2.8,-0.11
+2022,February,Khorlim,Bakery,1.05,1.19,0.14
+2022,February,Khorlim,Beverages,1.78,1.79,0.01
+2022,February,Khorlim,Fruits,1.87,1.92,0.05
+2022,February,Khorlim,Groceries,11.17,10.45,-0.72
+2022,February,Khorlim,Milk Products,2.61,2.89,0.28
+2022,February,Khorlim,Ready to eat,1.8,1.99,0.19
+2022,February,Khorlim,Spices,5.49,5.53,0.04
+2022,February,Khorlim,Vegetables,2.68,2.93,0.25
+2022,February,KTC,Bakery,1.16,1.09,-0.07
+2022,February,KTC,Beverages,1.99,1.96,-0.03
+2022,February,KTC,Fruits,1.98,1.89,-0.09
+2022,February,KTC,Groceries,11.77,10.87,-0.9
+2022,February,KTC,Milk Products,2.71,2.77,0.06
+2022,February,KTC,Ready to eat,1.96,1.89,-0.07
+2022,February,KTC,Spices,5.36,5.74,0.38
+2022,February,KTC,Vegetables,2.61,2.71,0.1
+2022,February,Margao,Bakery,1.13,1.08,-0.05
+2022,February,Margao,Beverages,1.94,1.77,-0.17
+2022,February,Margao,Fruits,1.91,1.96,0.05
+2022,February,Margao,Groceries,10.63,10.85,0.22
+2022,February,Margao,Milk Products,2.79,2.78,-0.01
+2022,February,Margao,Ready to eat,1.95,1.73,-0.22
+2022,February,Margao,Spices,5.65,5.57,-0.08
+2022,February,Margao,Vegetables,2.89,2.89,0
+2022,February,Siolim,Bakery,1.1,1.11,0.01
+2022,February,Siolim,Beverages,1.82,1.98,0.16
+2022,February,Siolim,Fruits,1.85,1.75,-0.1
+2022,February,Siolim,Groceries,11.93,11.87,-0.06
+2022,February,Siolim,Milk Products,2.62,2.76,0.14
+2022,February,Siolim,Ready to eat,1.93,1.75,-0.18
+2022,February,Siolim,Spices,5.72,5.46,-0.26
+2022,February,Siolim,Vegetables,2.92,2.72,-0.2
+2022,February,Baga,Bakery,1.14,1.08,-0.06
+2022,February,Baga,Beverages,1.89,1.79,-0.1
+2022,February,Baga,Fruits,1.76,1.79,0.03
+2022,February,Baga,Groceries,10.6,10.9,0.3
+2022,February,Baga,Milk Products,2.74,2.97,0.23
+2022,February,Baga,Ready to eat,1.73,1.97,0.24
+2022,February,Baga,Spices,5.85,5.77,-0.08
+2022,February,Baga,Vegetables,2.85,2.92,0.07
+2022,February,Porvorim,Bakery,1.16,1.13,-0.03
+2022,February,Porvorim,Beverages,1.97,1.94,-0.03
+2022,February,Porvorim,Fruits,1.75,1.81,0.06
+2022,February,Porvorim,Groceries,10.44,11.83,1.39
+2022,February,Porvorim,Milk Products,2.77,2.97,0.2
+2022,February,Porvorim,Ready to eat,1.74,1.91,0.17
+2022,February,Porvorim,Spices,5.63,5.85,0.22
+2022,February,Porvorim,Vegetables,2.83,2.71,-0.12
+2022,March,Panaji,Bakery,1.1,1.16,0.06
+2022,March,Panaji,Beverages,1.82,1.94,0.12
+2022,March,Panaji,Fruits,1.89,1.83,-0.06
+2022,March,Panaji,Groceries,11.35,10.78,-0.57
+2022,March,Panaji,Milk Products,2.69,2.69,0
+2022,March,Panaji,Ready to eat,1.84,1.9,0.06
+2022,March,Panaji,Spices,5.94,5.78,-0.16
+2022,March,Panaji,Vegetables,2.88,2.99,0.11
+2022,March,Khorlim,Bakery,1.14,1.19,0.05
+2022,March,Khorlim,Beverages,1.76,1.84,0.08
+2022,March,Khorlim,Fruits,1.95,1.85,-0.1
+2022,March,Khorlim,Groceries,11.1,11.88,0.78
+2022,March,Khorlim,Milk Products,2.72,2.74,0.02
+2022,March,Khorlim,Ready to eat,1.95,1.98,0.03
+2022,March,Khorlim,Spices,5.97,5.98,0.01
+2022,March,Khorlim,Vegetables,2.85,2.8,-0.05
+2022,March,KTC,Bakery,1.19,1.11,-0.08
+2022,March,KTC,Beverages,1.91,1.84,-0.07
+2022,March,KTC,Fruits,2,1.97,-0.03
+2022,March,KTC,Groceries,10.89,11.12,0.23
+2022,March,KTC,Milk Products,2.71,2.72,0.01
+2022,March,KTC,Ready to eat,1.78,1.99,0.21
+2022,March,KTC,Spices,5.28,5.41,0.13
+2022,March,KTC,Vegetables,2.65,2.67,0.02
+2022,March,Margao,Bakery,1.05,1.1,0.05
+2022,March,Margao,Beverages,1.91,1.98,0.07
+2022,March,Margao,Fruits,1.84,1.94,0.1
+2022,March,Margao,Groceries,10.85,11.6,0.75
+2022,March,Margao,Milk Products,2.99,2.85,-0.14
+2022,March,Margao,Ready to eat,1.73,1.92,0.19
+2022,March,Margao,Spices,5.42,5.86,0.44
+2022,March,Margao,Vegetables,2.69,2.72,0.03
+2022,March,Siolim,Bakery,1.2,1.09,-0.11
+2022,March,Siolim,Beverages,1.8,1.98,0.18
+2022,March,Siolim,Fruits,1.98,1.94,-0.04
+2022,March,Siolim,Groceries,11.89,11.35,-0.54
+2022,March,Siolim,Milk Products,2.96,2.7,-0.26
+2022,March,Siolim,Ready to eat,1.85,1.74,-0.11
+2022,March,Siolim,Spices,5.51,5.86,0.35
+2022,March,Siolim,Vegetables,2.8,2.64,-0.16
+2022,March,Baga,Bakery,1.11,1.12,0.01
+2022,March,Baga,Beverages,1.92,1.91,-0.01
+2022,March,Baga,Fruits,1.96,1.97,0.01
+2022,March,Baga,Groceries,10.41,10.88,0.47
+2022,March,Baga,Milk Products,2.64,2.94,0.3
+2022,March,Baga,Ready to eat,1.79,1.79,0
+2022,March,Baga,Spices,5.82,5.9,0.08
+2022,March,Baga,Vegetables,2.87,2.95,0.08
+2022,March,Porvorim,Bakery,1.11,1.09,-0.02
+2022,March,Porvorim,Beverages,1.89,1.96,0.07
+2022,March,Porvorim,Fruits,1.78,1.78,0
+2022,March,Porvorim,Groceries,10.58,11.93,1.35
+2022,March,Porvorim,Milk Products,2.76,2.64,-0.12
+2022,March,Porvorim,Ready to eat,1.83,1.98,0.15
+2022,March,Porvorim,Spices,5.63,5.83,0.2
+2022,March,Porvorim,Vegetables,2.7,2.73,0.03
+2022,April,Panaji,Bakery,1.07,1.15,0.08
+2022,April,Panaji,Beverages,1.84,1.94,0.1
+2022,April,Panaji,Fruits,1.98,1.85,-0.13
+2022,April,Panaji,Groceries,10.84,10.39,-0.45
+2022,April,Panaji,Milk Products,2.8,2.62,-0.18
+2022,April,Panaji,Ready to eat,1.84,1.82,-0.02
+2022,April,Panaji,Spices,5.46,5.76,0.3
+2022,April,Panaji,Vegetables,2.63,2.78,0.15
+2022,April,Khorlim,Bakery,1.06,1.08,0.02
+2022,April,Khorlim,Beverages,1.84,1.93,0.09
+2022,April,Khorlim,Fruits,1.9,1.82,-0.08
+2022,April,Khorlim,Groceries,11.48,11.71,0.23
+2022,April,Khorlim,Milk Products,2.76,2.96,0.2
+2022,April,Khorlim,Ready to eat,1.81,1.73,-0.08
+2022,April,Khorlim,Spices,5.24,5.41,0.17
+2022,April,Khorlim,Vegetables,2.78,2.74,-0.04
+2022,April,KTC,Bakery,1.11,1.11,0
+2022,April,KTC,Beverages,1.75,2,0.25
+2022,April,KTC,Fruits,1.93,1.84,-0.09
+2022,April,KTC,Groceries,11.81,10.6,-1.21
+2022,April,KTC,Milk Products,2.77,2.7,-0.07
+2022,April,KTC,Ready to eat,1.8,1.94,0.14
+2022,April,KTC,Spices,5.48,5.73,0.25
+2022,April,KTC,Vegetables,2.97,2.97,0
+2022,April,Margao,Bakery,1.13,1.15,0.02
+2022,April,Margao,Beverages,1.82,1.96,0.14
+2022,April,Margao,Fruits,1.75,1.89,0.14
+2022,April,Margao,Groceries,10.69,10.84,0.15
+2022,April,Margao,Milk Products,2.99,2.62,-0.37
+2022,April,Margao,Ready to eat,1.81,1.79,-0.02
+2022,April,Margao,Spices,5.9,5.83,-0.07
+2022,April,Margao,Vegetables,2.7,2.88,0.18
+2022,April,Siolim,Bakery,1.08,1.18,0.1
+2022,April,Siolim,Beverages,1.85,1.83,-0.02
+2022,April,Siolim,Fruits,1.86,1.88,0.02
+2022,April,Siolim,Groceries,11.8,10.74,-1.06
+2022,April,Siolim,Milk Products,2.69,2.83,0.14
+2022,April,Siolim,Ready to eat,1.85,1.82,-0.03
+2022,April,Siolim,Spices,5.28,5.81,0.53
+2022,April,Siolim,Vegetables,2.93,2.9,-0.03
+2022,April,Baga,Bakery,1.14,1.1,-0.04
+2022,April,Baga,Beverages,1.98,1.81,-0.17
+2022,April,Baga,Fruits,1.98,1.75,-0.23
+2022,April,Baga,Groceries,11.02,10.91,-0.11
+2022,April,Baga,Milk Products,2.66,2.98,0.32
+2022,April,Baga,Ready to eat,1.76,1.74,-0.02
+2022,April,Baga,Spices,5.85,5.91,0.06
+2022,April,Baga,Vegetables,2.88,2.99,0.11
+2022,April,Porvorim,Bakery,1.07,1.1,0.03
+2022,April,Porvorim,Beverages,1.96,1.75,-0.21
+2022,April,Porvorim,Fruits,1.96,1.82,-0.14
+2022,April,Porvorim,Groceries,11.83,11.56,-0.27
+2022,April,Porvorim,Milk Products,2.79,2.64,-0.15
+2022,April,Porvorim,Ready to eat,1.76,1.77,0.01
+2022,April,Porvorim,Spices,5.26,5.7,0.44
+2022,April,Porvorim,Vegetables,2.77,2.88,0.11
+2022,May,Panaji,Bakery,1.11,1.04,-0.07
+2022,May,Panaji,Beverages,1.94,1.88,-0.06
+2022,May,Panaji,Fruits,2,1.89,-0.11
+2022,May,Panaji,Groceries,11.83,11.57,-0.26
+2022,May,Panaji,Milk Products,2.66,2.8,0.14
+2022,May,Panaji,Ready to eat,1.97,1.97,0
+2022,May,Panaji,Spices,5.87,5.74,-0.13
+2022,May,Panaji,Vegetables,2.69,2.64,-0.05
+2022,May,Khorlim,Bakery,1.1,1.11,0.01
+2022,May,Khorlim,Beverages,1.96,2,0.04
+2022,May,Khorlim,Fruits,1.9,1.78,-0.12
+2022,May,Khorlim,Groceries,11.43,11.93,0.5
+2022,May,Khorlim,Milk Products,2.92,2.67,-0.25
+2022,May,Khorlim,Ready to eat,1.73,1.98,0.25
+2022,May,Khorlim,Spices,5.67,5.47,-0.2
+2022,May,Khorlim,Vegetables,2.64,2.82,0.18
+2022,May,KTC,Bakery,1.18,1.07,-0.11
+2022,May,KTC,Beverages,1.99,1.85,-0.14
+2022,May,KTC,Fruits,1.85,1.74,-0.11
+2022,May,KTC,Groceries,11.4,11.71,0.31
+2022,May,KTC,Milk Products,2.61,2.93,0.32
+2022,May,KTC,Ready to eat,1.8,1.86,0.06
+2022,May,KTC,Spices,5.89,5.93,0.04
+2022,May,KTC,Vegetables,2.93,2.65,-0.28
+2022,May,Margao,Bakery,1.04,1.18,0.14
+2022,May,Margao,Beverages,1.89,1.82,-0.07
+2022,May,Margao,Fruits,1.99,1.99,0
+2022,May,Margao,Groceries,11.77,11.69,-0.08
+2022,May,Margao,Milk Products,2.8,2.68,-0.12
+2022,May,Margao,Ready to eat,1.76,1.79,0.03
+2022,May,Margao,Spices,5.26,5.89,0.63
+2022,May,Margao,Vegetables,2.83,2.76,-0.07
+2022,May,Siolim,Bakery,1.15,1.08,-0.07
+2022,May,Siolim,Beverages,1.94,1.92,-0.02
+2022,May,Siolim,Fruits,1.96,1.94,-0.02
+2022,May,Siolim,Groceries,11.42,10.49,-0.93
+2022,May,Siolim,Milk Products,2.67,2.76,0.09
+2022,May,Siolim,Ready to eat,1.98,1.86,-0.12
+2022,May,Siolim,Spices,5.72,5.25,-0.47
+2022,May,Siolim,Vegetables,2.91,2.88,-0.03
+2022,May,Baga,Bakery,1.07,1.1,0.03
+2022,May,Baga,Beverages,1.75,1.77,0.02
+2022,May,Baga,Fruits,1.86,2,0.14
+2022,May,Baga,Groceries,11.73,10.94,-0.79
+2022,May,Baga,Milk Products,2.88,2.91,0.03
+2022,May,Baga,Ready to eat,1.83,1.75,-0.08
+2022,May,Baga,Spices,5.87,5.34,-0.53
+2022,May,Baga,Vegetables,2.65,2.64,-0.01
+2022,May,Porvorim,Bakery,1.12,1.08,-0.04
+2022,May,Porvorim,Beverages,1.75,1.89,0.14
+2022,May,Porvorim,Fruits,1.93,1.93,0
+2022,May,Porvorim,Groceries,10.57,11.93,1.36
+2022,May,Porvorim,Milk Products,2.9,2.92,0.02
+2022,May,Porvorim,Ready to eat,1.9,1.94,0.04
+2022,May,Porvorim,Spices,5.45,5.73,0.28
+2022,May,Porvorim,Vegetables,2.94,2.91,-0.03
+2022,June,Panaji,Bakery,1.04,1.1,0.06
+2022,June,Panaji,Beverages,1.83,1.76,-0.07
+2022,June,Panaji,Fruits,1.86,1.77,-0.09
+2022,June,Panaji,Groceries,10.56,11.19,0.63
+2022,June,Panaji,Milk Products,2.81,2.73,-0.08
+2022,June,Panaji,Ready to eat,1.85,1.92,0.07
+2022,June,Panaji,Spices,5.33,5.35,0.02
+2022,June,Panaji,Vegetables,2.97,2.95,-0.02
+2022,June,Khorlim,Bakery,1.1,1.16,0.06
+2022,June,Khorlim,Beverages,1.99,1.8,-0.19
+2022,June,Khorlim,Fruits,1.9,1.96,0.06
+2022,June,Khorlim,Groceries,10.84,10.6,-0.24
+2022,June,Khorlim,Milk Products,2.84,2.84,0
+2022,June,Khorlim,Ready to eat,1.82,1.99,0.17
+2022,June,Khorlim,Spices,5.24,5.8,0.56
+2022,June,Khorlim,Vegetables,2.99,2.83,-0.16
+2022,June,KTC,Bakery,1.07,1.15,0.08
+2022,June,KTC,Beverages,1.88,1.86,-0.02
+2022,June,KTC,Fruits,1.83,1.74,-0.09
+2022,June,KTC,Groceries,11.75,11.33,-0.42
+2022,June,KTC,Milk Products,2.84,2.9,0.06
+2022,June,KTC,Ready to eat,1.96,1.79,-0.17
+2022,June,KTC,Spices,6,5.73,-0.27
+2022,June,KTC,Vegetables,2.75,2.69,-0.06
+2022,June,Margao,Bakery,1.12,1.09,-0.03
+2022,June,Margao,Beverages,1.74,1.79,0.05
+2022,June,Margao,Fruits,1.99,1.98,-0.01
+2022,June,Margao,Groceries,10.39,11.85,1.46
+2022,June,Margao,Milk Products,2.75,2.85,0.1
+2022,June,Margao,Ready to eat,1.79,1.76,-0.03
+2022,June,Margao,Spices,5.34,5.61,0.27
+2022,June,Margao,Vegetables,2.7,2.65,-0.05
+2022,June,Siolim,Bakery,1.06,1.19,0.13
+2022,June,Siolim,Beverages,1.93,1.98,0.05
+2022,June,Siolim,Fruits,1.95,1.97,0.02
+2022,June,Siolim,Groceries,11.81,11.24,-0.57
+2022,June,Siolim,Milk Products,2.62,2.69,0.07
+2022,June,Siolim,Ready to eat,1.89,1.81,-0.08
+2022,June,Siolim,Spices,5.39,5.3,-0.09
+2022,June,Siolim,Vegetables,2.77,2.87,0.1
+2022,June,Baga,Bakery,1.13,1.09,-0.04
+2022,June,Baga,Beverages,1.87,1.76,-0.11
+2022,June,Baga,Fruits,1.78,1.95,0.17
+2022,June,Baga,Groceries,11.08,10.6,-0.48
+2022,June,Baga,Milk Products,2.96,2.73,-0.23
+2022,June,Baga,Ready to eat,1.79,1.93,0.14
+2022,June,Baga,Spices,5.64,5.46,-0.18
+2022,June,Baga,Vegetables,2.8,2.76,-0.04
+2022,June,Porvorim,Bakery,1.05,1.19,0.14
+2022,June,Porvorim,Beverages,1.77,1.96,0.19
+2022,June,Porvorim,Fruits,1.89,1.78,-0.11
+2022,June,Porvorim,Groceries,10.76,10.42,-0.34
+2022,June,Porvorim,Milk Products,2.78,2.83,0.05
+2022,June,Porvorim,Ready to eat,1.74,1.97,0.23
+2022,June,Porvorim,Spices,5.52,5.71,0.19
+2022,June,Porvorim,Vegetables,2.9,2.92,0.02
+2022,July,Panaji,Bakery,1.16,1.16,0
+2022,July,Panaji,Beverages,1.87,1.78,-0.09
+2022,July,Panaji,Fruits,1.85,1.78,-0.07
+2022,July,Panaji,Groceries,11.65,10.88,-0.77
+2022,July,Panaji,Milk Products,2.87,2.7,-0.17
+2022,July,Panaji,Ready to eat,1.89,1.92,0.03
+2022,July,Panaji,Spices,5.91,5.72,-0.19
+2022,July,Panaji,Vegetables,2.88,2.78,-0.1
+2022,July,Khorlim,Bakery,1.14,1.17,0.03
+2022,July,Khorlim,Beverages,1.79,1.84,0.05
+2022,July,Khorlim,Fruits,1.91,1.83,-0.08
+2022,July,Khorlim,Groceries,11.3,11.09,-0.21
+2022,July,Khorlim,Milk Products,2.66,2.64,-0.02
+2022,July,Khorlim,Ready to eat,1.75,1.86,0.11
+2022,July,Khorlim,Spices,5.3,5.22,-0.08
+2022,July,Khorlim,Vegetables,2.92,2.62,-0.3
+2022,July,KTC,Bakery,1.18,1.17,-0.01
+2022,July,KTC,Beverages,1.91,1.92,0.01
+2022,July,KTC,Fruits,1.83,1.96,0.13
+2022,July,KTC,Groceries,10.4,11.53,1.13
+2022,July,KTC,Milk Products,2.71,2.61,-0.1
+2022,July,KTC,Ready to eat,1.96,1.91,-0.05
+2022,July,KTC,Spices,5.5,5.82,0.32
+2022,July,KTC,Vegetables,2.61,2.97,0.36
+2022,July,Margao,Bakery,1.05,1.13,0.08
+2022,July,Margao,Beverages,1.79,2,0.21
+2022,July,Margao,Fruits,1.75,1.81,0.06
+2022,July,Margao,Groceries,10.66,10.54,-0.12
+2022,July,Margao,Milk Products,2.9,2.64,-0.26
+2022,July,Margao,Ready to eat,1.97,1.86,-0.11
+2022,July,Margao,Spices,5.99,5.9,-0.09
+2022,July,Margao,Vegetables,2.99,2.83,-0.16
+2022,July,Siolim,Bakery,1.08,1.08,0
+2022,July,Siolim,Beverages,1.9,1.83,-0.07
+2022,July,Siolim,Fruits,2,1.83,-0.17
+2022,July,Siolim,Groceries,10.8,11.8,1
+2022,July,Siolim,Milk Products,2.67,2.73,0.06
+2022,July,Siolim,Ready to eat,1.76,1.86,0.1
+2022,July,Siolim,Spices,5.33,5.67,0.34
+2022,July,Siolim,Vegetables,2.67,2.63,-0.04
+2022,July,Baga,Bakery,1.13,1.04,-0.09
+2022,July,Baga,Beverages,1.81,1.75,-0.06
+2022,July,Baga,Fruits,1.77,1.82,0.05
+2022,July,Baga,Groceries,10.43,11.91,1.48
+2022,July,Baga,Milk Products,2.9,2.9,0
+2022,July,Baga,Ready to eat,1.94,1.74,-0.2
+2022,July,Baga,Spices,5.2,5.43,0.23
+2022,July,Baga,Vegetables,3,2.91,-0.09
+2022,July,Porvorim,Bakery,1.09,1.11,0.02
+2022,July,Porvorim,Beverages,1.76,1.97,0.21
+2022,July,Porvorim,Fruits,1.92,1.87,-0.05
+2022,July,Porvorim,Groceries,11.16,11.08,-0.08
+2022,July,Porvorim,Milk Products,2.81,2.75,-0.06
+2022,July,Porvorim,Ready to eat,1.75,1.99,0.24
+2022,July,Porvorim,Spices,5.28,5.93,0.65
+2022,July,Porvorim,Vegetables,2.99,2.83,-0.16
+2022,August,Panaji,Bakery,1.06,1.05,-0.01
+2022,August,Panaji,Beverages,1.74,1.99,0.25
+2022,August,Panaji,Fruits,1.96,1.91,-0.05
+2022,August,Panaji,Groceries,11.38,11.75,0.37
+2022,August,Panaji,Milk Products,2.73,2.78,0.05
+2022,August,Panaji,Ready to eat,1.8,1.96,0.16
+2022,August,Panaji,Spices,5.3,5.73,0.43
+2022,August,Panaji,Vegetables,2.62,2.74,0.12
+2022,August,Khorlim,Bakery,1.06,1.11,0.05
+2022,August,Khorlim,Beverages,1.85,1.99,0.14
+2022,August,Khorlim,Fruits,1.85,1.91,0.06
+2022,August,Khorlim,Groceries,11.1,11.16,0.06
+2022,August,Khorlim,Milk Products,2.98,2.83,-0.15
+2022,August,Khorlim,Ready to eat,1.87,1.87,0
+2022,August,Khorlim,Spices,5.35,5.42,0.07
+2022,August,Khorlim,Vegetables,2.97,2.7,-0.27
+2022,August,KTC,Bakery,1.15,1.14,-0.01
+2022,August,KTC,Beverages,1.9,1.77,-0.13
+2022,August,KTC,Fruits,1.92,1.85,-0.07
+2022,August,KTC,Groceries,11.88,11.48,-0.4
+2022,August,KTC,Milk Products,2.68,2.63,-0.05
+2022,August,KTC,Ready to eat,1.76,1.78,0.02
+2022,August,KTC,Spices,5.57,5.57,0
+2022,August,KTC,Vegetables,2.7,2.63,-0.07
+2022,August,Margao,Bakery,1.11,1.1,-0.01
+2022,August,Margao,Beverages,1.8,1.89,0.09
+2022,August,Margao,Fruits,1.81,1.84,0.03
+2022,August,Margao,Groceries,11.06,11.42,0.36
+2022,August,Margao,Milk Products,2.63,2.65,0.02
+2022,August,Margao,Ready to eat,1.96,2,0.04
+2022,August,Margao,Spices,5.67,5.89,0.22
+2022,August,Margao,Vegetables,2.69,2.61,-0.08
+2022,August,Siolim,Bakery,1.16,1.1,-0.06
+2022,August,Siolim,Beverages,1.74,1.84,0.1
+2022,August,Siolim,Fruits,1.99,1.83,-0.16
+2022,August,Siolim,Groceries,10.72,10.46,-0.26
+2022,August,Siolim,Milk Products,2.95,2.71,-0.24
+2022,August,Siolim,Ready to eat,1.92,1.99,0.07
+2022,August,Siolim,Spices,5.62,5.47,-0.15
+2022,August,Siolim,Vegetables,2.76,2.72,-0.04
+2022,August,Baga,Bakery,1.07,1.06,-0.01
+2022,August,Baga,Beverages,1.96,1.98,0.02
+2022,August,Baga,Fruits,1.79,1.95,0.16
+2022,August,Baga,Groceries,11.2,11.27,0.07
+2022,August,Baga,Milk Products,2.98,2.64,-0.34
+2022,August,Baga,Ready to eat,1.89,1.85,-0.04
+2022,August,Baga,Spices,5.51,5.73,0.22
+2022,August,Baga,Vegetables,2.94,2.93,-0.01
+2022,August,Porvorim,Bakery,1.14,1.14,0
+2022,August,Porvorim,Beverages,1.86,1.9,0.04
+2022,August,Porvorim,Fruits,1.75,1.95,0.2
+2022,August,Porvorim,Groceries,10.77,10.63,-0.14
+2022,August,Porvorim,Milk Products,2.89,2.73,-0.16
+2022,August,Porvorim,Ready to eat,1.76,1.78,0.02
+2022,August,Porvorim,Spices,5.86,5.94,0.08
+2022,August,Porvorim,Vegetables,2.7,2.68,-0.02
+2022,September,Panaji,Bakery,1.07,1.13,0.06
+2022,September,Panaji,Beverages,1.92,1.93,0.01
+2022,September,Panaji,Fruits,1.98,1.75,-0.23
+2022,September,Panaji,Groceries,10.54,11.58,1.04
+2022,September,Panaji,Milk Products,2.74,2.85,0.11
+2022,September,Panaji,Ready to eat,1.97,1.75,-0.22
+2022,September,Panaji,Spices,5.63,5.65,0.02
+2022,September,Panaji,Vegetables,2.62,2.77,0.15
+2022,September,Khorlim,Bakery,1.1,1.16,0.06
+2022,September,Khorlim,Beverages,1.82,1.93,0.11
+2022,September,Khorlim,Fruits,1.85,1.97,0.12
+2022,September,Khorlim,Groceries,10.79,10.95,0.16
+2022,September,Khorlim,Milk Products,2.66,2.84,0.18
+2022,September,Khorlim,Ready to eat,1.79,1.78,-0.01
+2022,September,Khorlim,Spices,5.77,5.97,0.2
+2022,September,Khorlim,Vegetables,2.89,2.8,-0.09
+2022,September,KTC,Bakery,1.12,1.08,-0.04
+2022,September,KTC,Beverages,1.74,1.94,0.2
+2022,September,KTC,Fruits,1.87,1.94,0.07
+2022,September,KTC,Groceries,10.66,11.44,0.78
+2022,September,KTC,Milk Products,2.85,2.66,-0.19
+2022,September,KTC,Ready to eat,1.97,1.73,-0.24
+2022,September,KTC,Spices,5.68,5.42,-0.26
+2022,September,KTC,Vegetables,2.84,2.71,-0.13
+2022,September,Margao,Bakery,1.2,1.09,-0.11
+2022,September,Margao,Beverages,1.83,1.82,-0.01
+2022,September,Margao,Fruits,1.79,1.77,-0.02
+2022,September,Margao,Groceries,10.64,10.66,0.02
+2022,September,Margao,Milk Products,2.88,2.99,0.11
+2022,September,Margao,Ready to eat,1.98,1.96,-0.02
+2022,September,Margao,Spices,5.3,5.98,0.68
+2022,September,Margao,Vegetables,2.82,2.79,-0.03
+2022,September,Siolim,Bakery,1.08,1.13,0.05
+2022,September,Siolim,Beverages,1.95,1.87,-0.08
+2022,September,Siolim,Fruits,1.91,1.86,-0.05
+2022,September,Siolim,Groceries,10.4,10.51,0.11
+2022,September,Siolim,Milk Products,2.87,2.98,0.11
+2022,September,Siolim,Ready to eat,1.74,1.95,0.21
+2022,September,Siolim,Spices,5.36,5.36,0
+2022,September,Siolim,Vegetables,2.96,2.78,-0.18
+2022,September,Baga,Bakery,1.11,1.17,0.06
+2022,September,Baga,Beverages,1.77,1.86,0.09
+2022,September,Baga,Fruits,1.82,1.89,0.07
+2022,September,Baga,Groceries,11.17,11.77,0.6
+2022,September,Baga,Milk Products,2.98,2.8,-0.18
+2022,September,Baga,Ready to eat,1.85,1.86,0.01
+2022,September,Baga,Spices,5.34,5.72,0.38
+2022,September,Baga,Vegetables,2.91,2.83,-0.08
+2022,September,Porvorim,Bakery,1.17,1.07,-0.1
+2022,September,Porvorim,Beverages,1.86,1.91,0.05
+2022,September,Porvorim,Fruits,1.94,1.87,-0.07
+2022,September,Porvorim,Groceries,10.66,10.4,-0.26
+2022,September,Porvorim,Milk Products,2.85,2.64,-0.21
+2022,September,Porvorim,Ready to eat,1.74,1.79,0.05
+2022,September,Porvorim,Spices,5.53,5.19,-0.34
+2022,September,Porvorim,Vegetables,2.64,2.61,-0.03
+2022,October,Panaji,Bakery,1.07,1.16,0.09
+2022,October,Panaji,Beverages,1.73,1.91,0.18
+2022,October,Panaji,Fruits,1.87,1.95,0.08
+2022,October,Panaji,Groceries,11.96,10.66,-1.3
+2022,October,Panaji,Milk Products,2.68,2.62,-0.06
+2022,October,Panaji,Ready to eat,1.76,1.91,0.15
+2022,October,Panaji,Spices,5.47,5.86,0.39
+2022,October,Panaji,Vegetables,2.82,2.65,-0.17
+2022,October,Khorlim,Bakery,1.1,1.17,0.07
+2022,October,Khorlim,Beverages,1.75,1.96,0.21
+2022,October,Khorlim,Fruits,1.8,1.97,0.17
+2022,October,Khorlim,Groceries,11.72,10.93,-0.79
+2022,October,Khorlim,Milk Products,2.7,2.85,0.15
+2022,October,Khorlim,Ready to eat,1.75,1.81,0.06
+2022,October,Khorlim,Spices,5.3,5.68,0.38
+2022,October,Khorlim,Vegetables,2.63,2.8,0.17
+2022,October,KTC,Bakery,1.07,1.19,0.12
+2022,October,KTC,Beverages,1.74,1.99,0.25
+2022,October,KTC,Fruits,1.95,1.97,0.02
+2022,October,KTC,Groceries,10.5,11.14,0.64
+2022,October,KTC,Milk Products,2.88,2.78,-0.1
+2022,October,KTC,Ready to eat,1.81,1.8,-0.01
+2022,October,KTC,Spices,5.23,5.41,0.18
+2022,October,KTC,Vegetables,2.77,2.74,-0.03
+2022,October,Margao,Bakery,1.12,1.2,0.08
+2022,October,Margao,Beverages,1.73,1.88,0.15
+2022,October,Margao,Fruits,1.76,1.79,0.03
+2022,October,Margao,Groceries,11.07,10.57,-0.5
+2022,October,Margao,Milk Products,2.65,2.6,-0.05
+2022,October,Margao,Ready to eat,1.76,1.9,0.14
+2022,October,Margao,Spices,5.2,5.38,0.18
+2022,October,Margao,Vegetables,2.77,2.67,-0.1
+2022,October,Siolim,Bakery,1.15,1.1,-0.05
+2022,October,Siolim,Beverages,1.8,1.8,0
+2022,October,Siolim,Fruits,1.86,1.82,-0.04
+2022,October,Siolim,Groceries,11.71,11.89,0.18
+2022,October,Siolim,Milk Products,2.9,2.98,0.08
+2022,October,Siolim,Ready to eat,1.9,1.98,0.08
+2022,October,Siolim,Spices,5.22,5.3,0.08
+2022,October,Siolim,Vegetables,2.96,2.87,-0.09
+2022,October,Baga,Bakery,1.12,1.05,-0.07
+2022,October,Baga,Beverages,1.76,1.91,0.15
+2022,October,Baga,Fruits,1.94,1.9,-0.04
+2022,October,Baga,Groceries,10.73,10.49,-0.24
+2022,October,Baga,Milk Products,2.71,2.67,-0.04
+2022,October,Baga,Ready to eat,1.81,1.75,-0.06
+2022,October,Baga,Spices,5.7,5.59,-0.11
+2022,October,Baga,Vegetables,2.93,2.65,-0.28
+2022,October,Porvorim,Bakery,1.19,1.19,0
+2022,October,Porvorim,Beverages,1.73,1.85,0.12
+2022,October,Porvorim,Fruits,1.79,1.89,0.1
+2022,October,Porvorim,Groceries,11.62,11.64,0.02
+2022,October,Porvorim,Milk Products,2.67,2.66,-0.01
+2022,October,Porvorim,Ready to eat,1.87,2,0.13
+2022,October,Porvorim,Spices,5.87,5.83,-0.04
+2022,October,Porvorim,Vegetables,2.89,2.98,0.09
+2022,November,Panaji,Bakery,1.07,1.15,0.08
+2022,November,Panaji,Beverages,1.97,1.73,-0.24
+2022,November,Panaji,Fruits,1.93,1.96,0.03
+2022,November,Panaji,Groceries,10.54,11.91,1.37
+2022,November,Panaji,Milk Products,2.67,2.87,0.2
+2022,November,Panaji,Ready to eat,2,1.73,-0.27
+2022,November,Panaji,Spices,5.68,5.87,0.19
+2022,November,Panaji,Vegetables,2.67,2.64,-0.03
+2022,November,Khorlim,Bakery,1.08,1.15,0.07
+2022,November,Khorlim,Beverages,1.84,1.86,0.02
+2022,November,Khorlim,Fruits,1.97,1.92,-0.05
+2022,November,Khorlim,Groceries,11.92,11.42,-0.5
+2022,November,Khorlim,Milk Products,2.92,2.83,-0.09
+2022,November,Khorlim,Ready to eat,1.99,1.8,-0.19
+2022,November,Khorlim,Spices,5.4,5.51,0.11
+2022,November,Khorlim,Vegetables,2.94,2.71,-0.23
+2022,November,KTC,Bakery,1.08,1.05,-0.03
+2022,November,KTC,Beverages,1.73,1.82,0.09
+2022,November,KTC,Fruits,1.83,1.91,0.08
+2022,November,KTC,Groceries,10.42,10.67,0.25
+2022,November,KTC,Milk Products,2.71,2.61,-0.1
+2022,November,KTC,Ready to eat,1.8,1.91,0.11
+2022,November,KTC,Spices,5.48,5.75,0.27
+2022,November,KTC,Vegetables,2.73,2.78,0.05
+2022,November,Margao,Bakery,1.05,1.14,0.09
+2022,November,Margao,Beverages,1.89,1.76,-0.13
+2022,November,Margao,Fruits,1.99,1.83,-0.16
+2022,November,Margao,Groceries,11.94,10.39,-1.55
+2022,November,Margao,Milk Products,2.97,2.68,-0.29
+2022,November,Margao,Ready to eat,1.93,1.75,-0.18
+2022,November,Margao,Spices,5.8,5.85,0.05
+2022,November,Margao,Vegetables,2.81,2.98,0.17
+2022,November,Siolim,Bakery,1.16,1.04,-0.12
+2022,November,Siolim,Beverages,1.94,1.8,-0.14
+2022,November,Siolim,Fruits,1.86,1.78,-0.08
+2022,November,Siolim,Groceries,10.51,11.6,1.09
+2022,November,Siolim,Milk Products,2.92,2.93,0.01
+2022,November,Siolim,Ready to eat,1.83,1.86,0.03
+2022,November,Siolim,Spices,5.38,5.96,0.58
+2022,November,Siolim,Vegetables,2.85,2.79,-0.06
+2022,November,Baga,Bakery,1.11,1.04,-0.07
+2022,November,Baga,Beverages,1.93,1.93,0
+2022,November,Baga,Fruits,1.98,1.79,-0.19
+2022,November,Baga,Groceries,10.4,11.08,0.68
+2022,November,Baga,Milk Products,2.98,2.99,0.01
+2022,November,Baga,Ready to eat,1.88,1.97,0.09
+2022,November,Baga,Spices,5.92,5.48,-0.44
+2022,November,Baga,Vegetables,2.92,2.73,-0.19
+2022,November,Porvorim,Bakery,1.07,1.05,-0.02
+2022,November,Porvorim,Beverages,1.96,1.83,-0.13
+2022,November,Porvorim,Fruits,1.8,1.82,0.02
+2022,November,Porvorim,Groceries,11.67,11.05,-0.62
+2022,November,Porvorim,Milk Products,2.73,2.71,-0.02
+2022,November,Porvorim,Ready to eat,1.86,1.81,-0.05
+2022,November,Porvorim,Spices,5.49,5.93,0.44
+2022,November,Porvorim,Vegetables,2.99,2.7,-0.29
+2022,December,Panaji,Bakery,1.05,1.05,0
+2022,December,Panaji,Beverages,1.81,1.98,0.17
+2022,December,Panaji,Fruits,1.81,1.8,-0.01
+2022,December,Panaji,Groceries,11.24,11.55,0.31
+2022,December,Panaji,Milk Products,2.97,2.69,-0.28
+2022,December,Panaji,Ready to eat,1.76,1.8,0.04
+2022,December,Panaji,Spices,5.52,5.26,-0.26
+2022,December,Panaji,Vegetables,2.69,2.62,-0.07
+2022,December,Khorlim,Bakery,1.12,1.08,-0.04
+2022,December,Khorlim,Beverages,1.76,1.92,0.16
+2022,December,Khorlim,Fruits,1.76,1.9,0.14
+2022,December,Khorlim,Groceries,10.49,10.85,0.36
+2022,December,Khorlim,Milk Products,2.61,2.89,0.28
+2022,December,Khorlim,Ready to eat,1.83,1.79,-0.04
+2022,December,Khorlim,Spices,5.79,5.92,0.13
+2022,December,Khorlim,Vegetables,2.86,2.8,-0.06
+2022,December,KTC,Bakery,1.06,1.1,0.04
+2022,December,KTC,Beverages,1.98,1.87,-0.11
+2022,December,KTC,Fruits,1.95,1.8,-0.15
+2022,December,KTC,Groceries,11.48,11.79,0.31
+2022,December,KTC,Milk Products,2.99,2.92,-0.07
+2022,December,KTC,Ready to eat,1.82,1.98,0.16
+2022,December,KTC,Spices,5.61,5.34,-0.27
+2022,December,KTC,Vegetables,2.93,2.81,-0.12
+2022,December,Margao,Bakery,1.14,1.12,-0.02
+2022,December,Margao,Beverages,1.82,1.79,-0.03
+2022,December,Margao,Fruits,2,1.74,-0.26
+2022,December,Margao,Groceries,10.54,11.1,0.56
+2022,December,Margao,Milk Products,2.9,2.73,-0.17
+2022,December,Margao,Ready to eat,1.81,1.9,0.09
+2022,December,Margao,Spices,5.68,5.85,0.17
+2022,December,Margao,Vegetables,2.75,2.97,0.22
+2022,December,Siolim,Bakery,1.07,1.16,0.09
+2022,December,Siolim,Beverages,1.94,1.95,0.01
+2022,December,Siolim,Fruits,1.98,1.74,-0.24
+2022,December,Siolim,Groceries,11.38,11.03,-0.35
+2022,December,Siolim,Milk Products,2.71,2.61,-0.1
+2022,December,Siolim,Ready to eat,1.98,1.84,-0.14
+2022,December,Siolim,Spices,5.92,5.23,-0.69
+2022,December,Siolim,Vegetables,2.8,2.65,-0.15
+2022,December,Baga,Bakery,1.12,1.17,0.05
+2022,December,Baga,Beverages,1.87,1.76,-0.11
+2022,December,Baga,Fruits,1.85,1.84,-0.01
+2022,December,Baga,Groceries,10.47,10.85,0.38
+2022,December,Baga,Milk Products,2.81,2.81,0
+2022,December,Baga,Ready to eat,1.78,1.74,-0.04
+2022,December,Baga,Spices,5.48,5.77,0.29
+2022,December,Baga,Vegetables,2.85,2.6,-0.25
+2022,December,Porvorim,Bakery,1.04,1.17,0.13
+2022,December,Porvorim,Beverages,1.97,1.78,-0.19
+2022,December,Porvorim,Fruits,1.86,1.98,0.12
+2022,December,Porvorim,Groceries,10.92,11.13,0.21
+2022,December,Porvorim,Milk Products,2.75,2.95,0.2
+2022,December,Porvorim,Ready to eat,1.77,1.91,0.14
+2022,December,Porvorim,Spices,5.96,5.87,-0.09
+2022,December,Porvorim,Vegetables,2.85,2.68,-0.17
+2023,January,Panaji,Bakery,1.2,1.09,-0.11
+2023,January,Panaji,Beverages,1.97,1.93,-0.04
+2023,January,Panaji,Fruits,1.82,2,0.18
+2023,January,Panaji,Groceries,11.32,10.82,-0.5
+2023,January,Panaji,Milk Products,3,2.93,-0.07
+2023,January,Panaji,Ready to eat,1.99,1.8,-0.19
+2023,January,Panaji,Spices,5.87,5.26,-0.61
+2023,January,Panaji,Vegetables,2.64,2.78,0.14
+2023,January,Khorlim,Bakery,1.12,1.12,0
+2023,January,Khorlim,Beverages,1.75,1.96,0.21
+2023,January,Khorlim,Fruits,1.83,1.86,0.03
+2023,January,Khorlim,Groceries,10.81,10.68,-0.13
+2023,January,Khorlim,Milk Products,2.95,2.88,-0.07
+2023,January,Khorlim,Ready to eat,1.94,1.88,-0.06
+2023,January,Khorlim,Spices,5.55,6,0.45
+2023,January,Khorlim,Vegetables,2.81,2.81,0
+2023,January,KTC,Bakery,1.12,1.16,0.04
+2023,January,KTC,Beverages,1.89,1.97,0.08
+2023,January,KTC,Fruits,1.75,1.78,0.03
+2023,January,KTC,Groceries,10.96,10.58,-0.38
+2023,January,KTC,Milk Products,2.77,2.6,-0.17
+2023,January,KTC,Ready to eat,1.94,1.84,-0.1
+2023,January,KTC,Spices,5.83,5.19,-0.64
+2023,January,KTC,Vegetables,2.99,2.87,-0.12
+2023,January,Margao,Bakery,1.14,1.16,0.02
+2023,January,Margao,Beverages,1.8,1.84,0.04
+2023,January,Margao,Fruits,1.93,2,0.07
+2023,January,Margao,Groceries,11.43,11.49,0.06
+2023,January,Margao,Milk Products,2.87,2.61,-0.26
+2023,January,Margao,Ready to eat,1.83,1.98,0.15
+2023,January,Margao,Spices,5.88,5.63,-0.25
+2023,January,Margao,Vegetables,2.86,2.81,-0.05
+2023,January,Siolim,Bakery,1.17,1.06,-0.11
+2023,January,Siolim,Beverages,1.78,1.78,0
+2023,January,Siolim,Fruits,1.89,1.92,0.03
+2023,January,Siolim,Groceries,11.43,10.73,-0.7
+2023,January,Siolim,Milk Products,2.79,2.64,-0.15
+2023,January,Siolim,Ready to eat,1.93,1.96,0.03
+2023,January,Siolim,Spices,5.73,5.31,-0.42
+2023,January,Siolim,Vegetables,2.7,2.72,0.02
+2023,January,Baga,Bakery,1.06,1.15,0.09
+2023,January,Baga,Beverages,1.8,1.91,0.11
+2023,January,Baga,Fruits,1.92,2,0.08
+2023,January,Baga,Groceries,11.5,10.94,-0.56
+2023,January,Baga,Milk Products,2.66,2.94,0.28
+2023,January,Baga,Ready to eat,1.88,1.83,-0.05
+2023,January,Baga,Spices,5.98,5.89,-0.09
+2023,January,Baga,Vegetables,2.87,2.83,-0.04
+2023,January,Porvorim,Bakery,1.19,1.15,-0.04
+2023,January,Porvorim,Beverages,1.82,1.93,0.11
+2023,January,Porvorim,Fruits,1.97,1.81,-0.16
+2023,January,Porvorim,Groceries,11.11,10.76,-0.35
+2023,January,Porvorim,Milk Products,2.91,2.78,-0.13
+2023,January,Porvorim,Ready to eat,1.73,1.83,0.1
+2023,January,Porvorim,Spices,5.74,5.38,-0.36
+2023,January,Porvorim,Vegetables,2.61,2.61,0
+2023,February,Panaji,Bakery,1.06,1.16,0.1
+2023,February,Panaji,Beverages,1.97,1.78,-0.19
+2023,February,Panaji,Fruits,1.88,1.89,0.01
+2023,February,Panaji,Groceries,10.79,10.97,0.18
+2023,February,Panaji,Milk Products,2.63,2.95,0.32
+2023,February,Panaji,Ready to eat,1.86,1.96,0.1
+2023,February,Panaji,Spices,5.6,5.22,-0.38
+2023,February,Panaji,Vegetables,2.88,2.64,-0.24
+2023,February,Khorlim,Bakery,1.09,1.09,0
+2023,February,Khorlim,Beverages,1.82,1.77,-0.05
+2023,February,Khorlim,Fruits,1.88,1.74,-0.14
+2023,February,Khorlim,Groceries,10.95,11.48,0.53
+2023,February,Khorlim,Milk Products,2.85,2.71,-0.14
+2023,February,Khorlim,Ready to eat,1.79,1.85,0.06
+2023,February,Khorlim,Spices,5.64,5.42,-0.22
+2023,February,Khorlim,Vegetables,2.61,2.91,0.3
+2023,February,KTC,Bakery,1.15,1.06,-0.09
+2023,February,KTC,Beverages,1.96,1.91,-0.05
+2023,February,KTC,Fruits,1.89,1.76,-0.13
+2023,February,KTC,Groceries,11.6,11.6,0
+2023,February,KTC,Milk Products,2.99,2.83,-0.16
+2023,February,KTC,Ready to eat,1.84,1.75,-0.09
+2023,February,KTC,Spices,5.66,5.76,0.1
+2023,February,KTC,Vegetables,2.82,2.75,-0.07
+2023,February,Margao,Bakery,1.08,1.11,0.03
+2023,February,Margao,Beverages,1.88,1.75,-0.13
+2023,February,Margao,Fruits,2,1.96,-0.04
+2023,February,Margao,Groceries,11.13,10.39,-0.74
+2023,February,Margao,Milk Products,2.69,2.86,0.17
+2023,February,Margao,Ready to eat,1.83,1.87,0.04
+2023,February,Margao,Spices,5.63,5.76,0.13
+2023,February,Margao,Vegetables,3,2.81,-0.19
+2023,February,Siolim,Bakery,1.19,1.19,0
+2023,February,Siolim,Beverages,1.81,1.93,0.12
+2023,February,Siolim,Fruits,1.84,1.73,-0.11
+2023,February,Siolim,Groceries,11.56,11.05,-0.51
+2023,February,Siolim,Milk Products,2.63,2.92,0.29
+2023,February,Siolim,Ready to eat,1.96,1.89,-0.07
+2023,February,Siolim,Spices,5.34,5.64,0.3
+2023,February,Siolim,Vegetables,2.85,2.98,0.13
+2023,February,Baga,Bakery,1.13,1.09,-0.04
+2023,February,Baga,Beverages,1.77,1.87,0.1
+2023,February,Baga,Fruits,1.82,1.84,0.02
+2023,February,Baga,Groceries,11.96,11.58,-0.38
+2023,February,Baga,Milk Products,2.86,2.85,-0.01
+2023,February,Baga,Ready to eat,1.87,1.77,-0.1
+2023,February,Baga,Spices,5.98,5.65,-0.33
+2023,February,Baga,Vegetables,2.79,2.87,0.08
+2023,February,Porvorim,Bakery,1.19,1.17,-0.02
+2023,February,Porvorim,Beverages,1.8,1.74,-0.06
+2023,February,Porvorim,Fruits,1.75,1.84,0.09
+2023,February,Porvorim,Groceries,10.59,10.68,0.09
+2023,February,Porvorim,Milk Products,2.89,2.96,0.07
+2023,February,Porvorim,Ready to eat,1.9,1.9,0
+2023,February,Porvorim,Spices,5.98,5.55,-0.43
+2023,February,Porvorim,Vegetables,2.62,2.61,-0.01
+2023,March,Panaji,Bakery,1.07,1.06,-0.01
+2023,March,Panaji,Beverages,1.74,1.73,-0.01
+2023,March,Panaji,Fruits,1.88,1.74,-0.14
+2023,March,Panaji,Groceries,10.52,11.32,0.8
+2023,March,Panaji,Milk Products,2.76,2.8,0.04
+2023,March,Panaji,Ready to eat,1.91,1.98,0.07
+2023,March,Panaji,Spices,5.4,5.96,0.56
+2023,March,Panaji,Vegetables,2.94,2.94,0
+2023,March,Khorlim,Bakery,1.17,1.08,-0.09
+2023,March,Khorlim,Beverages,1.83,1.93,0.1
+2023,March,Khorlim,Fruits,1.89,1.78,-0.11
+2023,March,Khorlim,Groceries,10.38,10.77,0.39
+2023,March,Khorlim,Milk Products,2.63,2.83,0.2
+2023,March,Khorlim,Ready to eat,1.91,1.81,-0.1
+2023,March,Khorlim,Spices,5.39,5.62,0.23
+2023,March,Khorlim,Vegetables,2.67,2.85,0.18
+2023,March,KTC,Bakery,1.18,1.11,-0.07
+2023,March,KTC,Beverages,1.89,1.78,-0.11
+2023,March,KTC,Fruits,1.95,1.88,-0.07
+2023,March,KTC,Groceries,10.79,11.05,0.26
+2023,March,KTC,Milk Products,2.83,2.88,0.05
+2023,March,KTC,Ready to eat,1.88,1.9,0.02
+2023,March,KTC,Spices,5.94,5.29,-0.65
+2023,March,KTC,Vegetables,2.91,2.67,-0.24
+2023,March,Margao,Bakery,1.08,1.12,0.04
+2023,March,Margao,Beverages,1.84,1.85,0.01
+2023,March,Margao,Fruits,1.91,1.84,-0.07
+2023,March,Margao,Groceries,11.54,11.08,-0.46
+2023,March,Margao,Milk Products,2.9,2.68,-0.22
+2023,March,Margao,Ready to eat,1.96,1.77,-0.19
+2023,March,Margao,Spices,5.83,5.28,-0.55
+2023,March,Margao,Vegetables,2.89,2.67,-0.22
+2023,March,Siolim,Bakery,1.16,1.13,-0.03
+2023,March,Siolim,Beverages,1.85,2,0.15
+2023,March,Siolim,Fruits,1.91,1.79,-0.12
+2023,March,Siolim,Groceries,11.88,10.91,-0.97
+2023,March,Siolim,Milk Products,2.66,2.83,0.17
+2023,March,Siolim,Ready to eat,1.94,1.83,-0.11
+2023,March,Siolim,Spices,5.98,5.99,0.01
+2023,March,Siolim,Vegetables,2.6,2.95,0.35
+2023,March,Baga,Bakery,1.05,1.1,0.05
+2023,March,Baga,Beverages,1.91,1.85,-0.06
+2023,March,Baga,Fruits,1.87,2,0.13
+2023,March,Baga,Groceries,11.72,11.06,-0.66
+2023,March,Baga,Milk Products,2.91,2.85,-0.06
+2023,March,Baga,Ready to eat,1.82,1.81,-0.01
+2023,March,Baga,Spices,5.7,5.22,-0.48
+2023,March,Baga,Vegetables,2.75,2.82,0.07
+2023,March,Porvorim,Bakery,1.17,1.06,-0.11
+2023,March,Porvorim,Beverages,1.92,1.81,-0.11
+2023,March,Porvorim,Fruits,1.89,1.74,-0.15
+2023,March,Porvorim,Groceries,11.75,10.39,-1.36
+2023,March,Porvorim,Milk Products,2.69,2.92,0.23
+2023,March,Porvorim,Ready to eat,1.95,1.9,-0.05
+2023,March,Porvorim,Spices,5.31,5.67,0.36
+2023,March,Porvorim,Vegetables,2.79,2.79,0
+2023,April,Panaji,Bakery,1.06,1.17,0.11
+2023,April,Panaji,Beverages,1.84,1.76,-0.08
+2023,April,Panaji,Fruits,1.94,1.84,-0.1
+2023,April,Panaji,Groceries,10.63,11.67,1.04
+2023,April,Panaji,Milk Products,2.69,2.99,0.3
+2023,April,Panaji,Ready to eat,1.97,1.89,-0.08
+2023,April,Panaji,Spices,5.78,5.7,-0.08
+2023,April,Panaji,Vegetables,2.8,2.96,0.16
+2023,April,Khorlim,Bakery,1.18,1.09,-0.09
+2023,April,Khorlim,Beverages,1.95,1.97,0.02
+2023,April,Khorlim,Fruits,1.77,1.92,0.15
+2023,April,Khorlim,Groceries,11.11,10.99,-0.12
+2023,April,Khorlim,Milk Products,2.61,2.7,0.09
+2023,April,Khorlim,Ready to eat,1.92,1.77,-0.15
+2023,April,Khorlim,Spices,5.22,5.69,0.47
+2023,April,Khorlim,Vegetables,2.76,2.63,-0.13
+2023,April,KTC,Bakery,1.2,1.18,-0.02
+2023,April,KTC,Beverages,1.98,1.76,-0.22
+2023,April,KTC,Fruits,1.92,1.95,0.03
+2023,April,KTC,Groceries,10.83,10.67,-0.16
+2023,April,KTC,Milk Products,2.79,2.98,0.19
+2023,April,KTC,Ready to eat,1.98,1.96,-0.02
+2023,April,KTC,Spices,5.37,5.9,0.53
+2023,April,KTC,Vegetables,2.74,2.99,0.25
+2023,April,Margao,Bakery,1.09,1.05,-0.04
+2023,April,Margao,Beverages,1.84,2,0.16
+2023,April,Margao,Fruits,1.97,1.92,-0.05
+2023,April,Margao,Groceries,11.41,11.69,0.28
+2023,April,Margao,Milk Products,2.64,2.76,0.12
+2023,April,Margao,Ready to eat,1.73,1.83,0.1
+2023,April,Margao,Spices,5.61,5.24,-0.37
+2023,April,Margao,Vegetables,2.84,2.75,-0.09
+2023,April,Siolim,Bakery,1.17,1.1,-0.07
+2023,April,Siolim,Beverages,1.86,1.74,-0.12
+2023,April,Siolim,Fruits,1.73,1.8,0.07
+2023,April,Siolim,Groceries,10.67,10.68,0.01
+2023,April,Siolim,Milk Products,2.8,2.79,-0.01
+2023,April,Siolim,Ready to eat,1.92,1.82,-0.1
+2023,April,Siolim,Spices,5.76,5.35,-0.41
+2023,April,Siolim,Vegetables,2.69,2.96,0.27
+2023,April,Baga,Bakery,1.18,1.19,0.01
+2023,April,Baga,Beverages,1.77,1.79,0.02
+2023,April,Baga,Fruits,1.94,1.74,-0.2
+2023,April,Baga,Groceries,11.1,10.9,-0.2
+2023,April,Baga,Milk Products,2.93,2.64,-0.29
+2023,April,Baga,Ready to eat,1.89,1.79,-0.1
+2023,April,Baga,Spices,5.59,5.54,-0.05
+2023,April,Baga,Vegetables,2.7,2.71,0.01
+2023,April,Porvorim,Bakery,1.18,1.14,-0.04
+2023,April,Porvorim,Beverages,1.91,1.73,-0.18
+2023,April,Porvorim,Fruits,1.88,1.93,0.05
+2023,April,Porvorim,Groceries,11.88,10.8,-1.08
+2023,April,Porvorim,Milk Products,2.8,2.87,0.07
+2023,April,Porvorim,Ready to eat,1.97,1.79,-0.18
+2023,April,Porvorim,Spices,5.47,5.47,0
+2023,April,Porvorim,Vegetables,2.82,2.84,0.02
+2023,May,Panaji,Bakery,1.1,1.13,0.03
+2023,May,Panaji,Beverages,1.82,1.88,0.06
+2023,May,Panaji,Fruits,1.97,1.98,0.01
+2023,May,Panaji,Groceries,11.27,11.52,0.25
+2023,May,Panaji,Milk Products,2.92,3,0.08
+2023,May,Panaji,Ready to eat,1.8,1.97,0.17
+2023,May,Panaji,Spices,5.48,5.85,0.37
+2023,May,Panaji,Vegetables,2.64,2.91,0.27
+2023,May,Khorlim,Bakery,1.19,1.04,-0.15
+2023,May,Khorlim,Beverages,1.98,1.85,-0.13
+2023,May,Khorlim,Fruits,1.75,1.83,0.08
+2023,May,Khorlim,Groceries,10.72,11.13,0.41
+2023,May,Khorlim,Milk Products,2.69,2.92,0.23
+2023,May,Khorlim,Ready to eat,1.9,1.88,-0.02
+2023,May,Khorlim,Spices,5.88,5.72,-0.16
+2023,May,Khorlim,Vegetables,2.98,2.78,-0.2
+2023,May,KTC,Bakery,1.16,1.1,-0.06
+2023,May,KTC,Beverages,1.91,1.86,-0.05
+2023,May,KTC,Fruits,1.93,1.94,0.01
+2023,May,KTC,Groceries,11.99,11.76,-0.23
+2023,May,KTC,Milk Products,2.89,2.93,0.04
+2023,May,KTC,Ready to eat,1.97,1.84,-0.13
+2023,May,KTC,Spices,5.74,5.75,0.01
+2023,May,KTC,Vegetables,2.78,2.75,-0.03
+2023,May,Margao,Bakery,1.1,1.15,0.05
+2023,May,Margao,Beverages,1.89,1.83,-0.06
+2023,May,Margao,Fruits,1.93,1.84,-0.09
+2023,May,Margao,Groceries,11.26,10.71,-0.55
+2023,May,Margao,Milk Products,2.83,2.81,-0.02
+2023,May,Margao,Ready to eat,1.91,1.99,0.08
+2023,May,Margao,Spices,5.86,5.8,-0.06
+2023,May,Margao,Vegetables,2.74,2.92,0.18
+2023,May,Siolim,Bakery,1.17,1.11,-0.06
+2023,May,Siolim,Beverages,1.87,1.75,-0.12
+2023,May,Siolim,Fruits,1.78,1.95,0.17
+2023,May,Siolim,Groceries,11.01,11.66,0.65
+2023,May,Siolim,Milk Products,2.61,2.87,0.26
+2023,May,Siolim,Ready to eat,1.96,1.85,-0.11
+2023,May,Siolim,Spices,5.2,5.33,0.13
+2023,May,Siolim,Vegetables,2.88,2.89,0.01
+2023,May,Baga,Bakery,1.1,1.13,0.03
+2023,May,Baga,Beverages,1.96,1.88,-0.08
+2023,May,Baga,Fruits,1.96,1.97,0.01
+2023,May,Baga,Groceries,10.85,10.95,0.1
+2023,May,Baga,Milk Products,2.95,3,0.05
+2023,May,Baga,Ready to eat,1.73,1.88,0.15
+2023,May,Baga,Spices,5.26,5.68,0.42
+2023,May,Baga,Vegetables,2.91,3,0.09
+2023,May,Porvorim,Bakery,1.14,1.04,-0.1
+2023,May,Porvorim,Beverages,1.96,1.76,-0.2
+2023,May,Porvorim,Fruits,1.74,1.74,0
+2023,May,Porvorim,Groceries,11.34,11.42,0.08
+2023,May,Porvorim,Milk Products,2.66,2.87,0.21
+2023,May,Porvorim,Ready to eat,1.81,1.76,-0.05
+2023,May,Porvorim,Spices,5.22,5.53,0.31
+2023,May,Porvorim,Vegetables,2.89,2.74,-0.15
+2023,June,Panaji,Bakery,1.04,1.2,0.16
+2023,June,Panaji,Beverages,1.78,1.73,-0.05
+2023,June,Panaji,Fruits,1.74,2,0.26
+2023,June,Panaji,Groceries,11.15,10.76,-0.39
+2023,June,Panaji,Milk Products,2.77,2.84,0.07
+2023,June,Panaji,Ready to eat,1.98,1.83,-0.15
+2023,June,Panaji,Spices,5.2,5.81,0.61
+2023,June,Panaji,Vegetables,2.66,2.86,0.2
+2023,June,Khorlim,Bakery,1.12,1.08,-0.04
+2023,June,Khorlim,Beverages,1.88,1.89,0.01
+2023,June,Khorlim,Fruits,1.88,1.79,-0.09
+2023,June,Khorlim,Groceries,11.31,10.51,-0.8
+2023,June,Khorlim,Milk Products,2.64,2.82,0.18
+2023,June,Khorlim,Ready to eat,1.79,1.76,-0.03
+2023,June,Khorlim,Spices,5.3,5.94,0.64
+2023,June,Khorlim,Vegetables,2.63,2.72,0.09
+2023,June,KTC,Bakery,1.11,1.07,-0.04
+2023,June,KTC,Beverages,1.95,1.92,-0.03
+2023,June,KTC,Fruits,1.79,1.91,0.12
+2023,June,KTC,Groceries,11.82,11.57,-0.25
+2023,June,KTC,Milk Products,2.61,2.94,0.33
+2023,June,KTC,Ready to eat,1.83,1.86,0.03
+2023,June,KTC,Spices,5.24,5.51,0.27
+2023,June,KTC,Vegetables,2.82,2.65,-0.17
+2023,June,Margao,Bakery,1.2,1.11,-0.09
+2023,June,Margao,Beverages,1.96,1.85,-0.11
+2023,June,Margao,Fruits,1.94,1.85,-0.09
+2023,June,Margao,Groceries,11.18,10.43,-0.75
+2023,June,Margao,Milk Products,2.97,2.63,-0.34
+2023,June,Margao,Ready to eat,1.84,1.75,-0.09
+2023,June,Margao,Spices,5.87,5.34,-0.53
+2023,June,Margao,Vegetables,2.86,2.95,0.09
+2023,June,Siolim,Bakery,1.17,1.12,-0.05
+2023,June,Siolim,Beverages,1.73,1.91,0.18
+2023,June,Siolim,Fruits,1.85,1.75,-0.1
+2023,June,Siolim,Groceries,11.35,11.87,0.52
+2023,June,Siolim,Milk Products,2.68,2.76,0.08
+2023,June,Siolim,Ready to eat,1.9,1.9,0
+2023,June,Siolim,Spices,5.71,5.93,0.22
+2023,June,Siolim,Vegetables,2.92,2.74,-0.18
+2023,June,Baga,Bakery,1.19,1.08,-0.11
+2023,June,Baga,Beverages,1.83,1.74,-0.09
+2023,June,Baga,Fruits,1.86,1.74,-0.12
+2023,June,Baga,Groceries,10.43,10.56,0.13
+2023,June,Baga,Milk Products,2.77,2.81,0.04
+2023,June,Baga,Ready to eat,1.77,1.98,0.21
+2023,June,Baga,Spices,5.27,5.29,0.02
+2023,June,Baga,Vegetables,2.68,2.88,0.2
+2023,June,Porvorim,Bakery,1.04,1.18,0.14
+2023,June,Porvorim,Beverages,1.98,1.86,-0.12
+2023,June,Porvorim,Fruits,1.94,1.98,0.04
+2023,June,Porvorim,Groceries,11.47,10.83,-0.64
+2023,June,Porvorim,Milk Products,2.78,2.91,0.13
+2023,June,Porvorim,Ready to eat,1.83,1.94,0.11
+2023,June,Porvorim,Spices,5.36,5.68,0.32
+2023,June,Porvorim,Vegetables,2.79,2.93,0.14
+2023,July,Panaji,Bakery,1.19,1.19,0
+2023,July,Panaji,Beverages,1.76,1.76,0
+2023,July,Panaji,Fruits,1.92,1.89,-0.03
+2023,July,Panaji,Groceries,11.07,11.36,0.29
+2023,July,Panaji,Milk Products,2.98,2.97,-0.01
+2023,July,Panaji,Ready to eat,1.94,1.99,0.05
+2023,July,Panaji,Spices,5.26,5.95,0.69
+2023,July,Panaji,Vegetables,2.72,2.95,0.23
+2023,July,Khorlim,Bakery,1.2,1.13,-0.07
+2023,July,Khorlim,Beverages,1.86,1.93,0.07
+2023,July,Khorlim,Fruits,1.9,1.75,-0.15
+2023,July,Khorlim,Groceries,11.83,11.94,0.11
+2023,July,Khorlim,Milk Products,2.75,2.89,0.14
+2023,July,Khorlim,Ready to eat,1.92,1.95,0.03
+2023,July,Khorlim,Spices,5.26,5.39,0.13
+2023,July,Khorlim,Vegetables,2.67,2.61,-0.06
+2023,July,KTC,Bakery,1.15,1.17,0.02
+2023,July,KTC,Beverages,1.82,1.99,0.17
+2023,July,KTC,Fruits,2,1.91,-0.09
+2023,July,KTC,Groceries,10.75,11.63,0.88
+2023,July,KTC,Milk Products,2.73,2.96,0.23
+2023,July,KTC,Ready to eat,1.79,1.8,0.01
+2023,July,KTC,Spices,5.53,5.62,0.09
+2023,July,KTC,Vegetables,2.65,2.91,0.26
+2023,July,Margao,Bakery,1.1,1.15,0.05
+2023,July,Margao,Beverages,1.86,1.8,-0.06
+2023,July,Margao,Fruits,1.83,1.74,-0.09
+2023,July,Margao,Groceries,10.67,11.11,0.44
+2023,July,Margao,Milk Products,2.81,2.81,0
+2023,July,Margao,Ready to eat,1.88,1.99,0.11
+2023,July,Margao,Spices,5.67,5.99,0.32
+2023,July,Margao,Vegetables,2.99,2.94,-0.05
+2023,July,Siolim,Bakery,1.08,1.12,0.04
+2023,July,Siolim,Beverages,1.76,1.87,0.11
+2023,July,Siolim,Fruits,1.79,1.85,0.06
+2023,July,Siolim,Groceries,10.6,11.47,0.87
+2023,July,Siolim,Milk Products,2.88,2.94,0.06
+2023,July,Siolim,Ready to eat,1.84,1.96,0.12
+2023,July,Siolim,Spices,5.78,5.36,-0.42
+2023,July,Siolim,Vegetables,2.79,2.74,-0.05
+2023,July,Baga,Bakery,1.07,1.1,0.03
+2023,July,Baga,Beverages,1.76,1.94,0.18
+2023,July,Baga,Fruits,1.77,1.83,0.06
+2023,July,Baga,Groceries,11.28,11.57,0.29
+2023,July,Baga,Milk Products,2.97,2.68,-0.29
+2023,July,Baga,Ready to eat,1.9,1.83,-0.07
+2023,July,Baga,Spices,5.91,5.54,-0.37
+2023,July,Baga,Vegetables,2.78,2.98,0.2
+2023,July,Porvorim,Bakery,1.19,1.11,-0.08
+2023,July,Porvorim,Beverages,1.94,1.98,0.04
+2023,July,Porvorim,Fruits,1.83,1.94,0.11
+2023,July,Porvorim,Groceries,10.99,11.75,0.76
+2023,July,Porvorim,Milk Products,2.72,2.92,0.2
+2023,July,Porvorim,Ready to eat,1.92,1.81,-0.11
+2023,July,Porvorim,Spices,5.51,5.56,0.05
+2023,July,Porvorim,Vegetables,2.62,2.8,0.18
+2023,August,Panaji,Bakery,1.08,1.17,0.09
+2023,August,Panaji,Beverages,1.99,1.83,-0.16
+2023,August,Panaji,Fruits,1.93,1.74,-0.19
+2023,August,Panaji,Groceries,11.67,11.93,0.26
+2023,August,Panaji,Milk Products,2.97,2.65,-0.32
+2023,August,Panaji,Ready to eat,1.75,1.9,0.15
+2023,August,Panaji,Spices,5.79,5.86,0.07
+2023,August,Panaji,Vegetables,2.89,2.66,-0.23
+2023,August,Khorlim,Bakery,1.15,1.18,0.03
+2023,August,Khorlim,Beverages,1.97,1.98,0.01
+2023,August,Khorlim,Fruits,1.81,1.92,0.11
+2023,August,Khorlim,Groceries,11.76,10.55,-1.21
+2023,August,Khorlim,Milk Products,2.76,2.87,0.11
+2023,August,Khorlim,Ready to eat,1.74,1.77,0.03
+2023,August,Khorlim,Spices,5.24,5.34,0.1
+2023,August,Khorlim,Vegetables,2.72,2.9,0.18
+2023,August,KTC,Bakery,1.08,1.17,0.09
+2023,August,KTC,Beverages,1.92,1.93,0.01
+2023,August,KTC,Fruits,1.96,1.86,-0.1
+2023,August,KTC,Groceries,11.11,10.54,-0.57
+2023,August,KTC,Milk Products,2.93,2.63,-0.3
+2023,August,KTC,Ready to eat,1.79,1.79,0
+2023,August,KTC,Spices,5.38,5.59,0.21
+2023,August,KTC,Vegetables,2.61,2.9,0.29
+2023,August,Margao,Bakery,1.19,1.06,-0.13
+2023,August,Margao,Beverages,1.83,1.82,-0.01
+2023,August,Margao,Fruits,1.92,1.8,-0.12
+2023,August,Margao,Groceries,11.04,11.31,0.27
+2023,August,Margao,Milk Products,2.99,2.71,-0.28
+2023,August,Margao,Ready to eat,1.81,1.87,0.06
+2023,August,Margao,Spices,5.59,5.7,0.11
+2023,August,Margao,Vegetables,2.67,2.95,0.28
+2023,August,Siolim,Bakery,1.2,1.05,-0.15
+2023,August,Siolim,Beverages,1.95,1.82,-0.13
+2023,August,Siolim,Fruits,1.99,1.92,-0.07
+2023,August,Siolim,Groceries,10.4,11.63,1.23
+2023,August,Siolim,Milk Products,2.65,2.7,0.05
+2023,August,Siolim,Ready to eat,1.93,1.85,-0.08
+2023,August,Siolim,Spices,5.43,5.43,0
+2023,August,Siolim,Vegetables,2.72,2.71,-0.01
+2023,August,Baga,Bakery,1.14,1.19,0.05
+2023,August,Baga,Beverages,1.84,1.79,-0.05
+2023,August,Baga,Fruits,1.93,1.77,-0.16
+2023,August,Baga,Groceries,10.79,11.31,0.52
+2023,August,Baga,Milk Products,2.91,2.95,0.04
+2023,August,Baga,Ready to eat,1.84,1.87,0.03
+2023,August,Baga,Spices,5.84,5.67,-0.17
+2023,August,Baga,Vegetables,2.63,2.82,0.19
+2023,August,Porvorim,Bakery,1.18,1.05,-0.13
+2023,August,Porvorim,Beverages,1.78,1.97,0.19
+2023,August,Porvorim,Fruits,1.85,1.99,0.14
+2023,August,Porvorim,Groceries,11.56,11.66,0.1
+2023,August,Porvorim,Milk Products,2.76,2.78,0.02
+2023,August,Porvorim,Ready to eat,1.83,1.9,0.07
+2023,August,Porvorim,Spices,5.49,5.9,0.41
+2023,August,Porvorim,Vegetables,2.74,2.73,-0.01
+2023,September,Panaji,Bakery,1.09,1.05,-0.04
+2023,September,Panaji,Beverages,1.9,1.75,-0.15
+2023,September,Panaji,Fruits,1.74,1.82,0.08
+2023,September,Panaji,Groceries,10.5,11.33,0.83
+2023,September,Panaji,Milk Products,2.9,2.75,-0.15
+2023,September,Panaji,Ready to eat,1.82,1.79,-0.03
+2023,September,Panaji,Spices,5.45,5.74,0.29
+2023,September,Panaji,Vegetables,2.94,3,0.06
+2023,September,Khorlim,Bakery,1.19,1.09,-0.1
+2023,September,Khorlim,Beverages,1.83,1.89,0.06
+2023,September,Khorlim,Fruits,1.85,1.96,0.11
+2023,September,Khorlim,Groceries,11.42,10.54,-0.88
+2023,September,Khorlim,Milk Products,2.85,2.71,-0.14
+2023,September,Khorlim,Ready to eat,1.92,1.86,-0.06
+2023,September,Khorlim,Spices,5.32,5.96,0.64
+2023,September,Khorlim,Vegetables,2.8,2.63,-0.17
+2023,September,KTC,Bakery,1.14,1.05,-0.09
+2023,September,KTC,Beverages,1.99,1.85,-0.14
+2023,September,KTC,Fruits,1.81,1.96,0.15
+2023,September,KTC,Groceries,10.62,11.2,0.58
+2023,September,KTC,Milk Products,2.99,3,0.01
+2023,September,KTC,Ready to eat,1.93,1.81,-0.12
+2023,September,KTC,Spices,5.88,5.33,-0.55
+2023,September,KTC,Vegetables,2.99,2.61,-0.38
+2023,September,Margao,Bakery,1.11,1.07,-0.04
+2023,September,Margao,Beverages,1.91,1.78,-0.13
+2023,September,Margao,Fruits,1.75,1.99,0.24
+2023,September,Margao,Groceries,11.72,11.63,-0.09
+2023,September,Margao,Milk Products,2.81,2.96,0.15
+2023,September,Margao,Ready to eat,1.81,1.99,0.18
+2023,September,Margao,Spices,5.43,5.52,0.09
+2023,September,Margao,Vegetables,2.6,2.94,0.34
+2023,September,Siolim,Bakery,1.05,1.15,0.1
+2023,September,Siolim,Beverages,1.93,1.94,0.01
+2023,September,Siolim,Fruits,1.98,1.93,-0.05
+2023,September,Siolim,Groceries,11.57,11.21,-0.36
+2023,September,Siolim,Milk Products,2.9,2.75,-0.15
+2023,September,Siolim,Ready to eat,1.78,1.82,0.04
+2023,September,Siolim,Spices,5.88,5.55,-0.33
+2023,September,Siolim,Vegetables,2.61,2.69,0.08
+2023,September,Baga,Bakery,1.13,1.14,0.01
+2023,September,Baga,Beverages,1.9,1.94,0.04
+2023,September,Baga,Fruits,1.86,1.93,0.07
+2023,September,Baga,Groceries,11.17,11.17,0
+2023,September,Baga,Milk Products,2.9,2.91,0.01
+2023,September,Baga,Ready to eat,1.99,1.84,-0.15
+2023,September,Baga,Spices,5.59,5.4,-0.19
+2023,September,Baga,Vegetables,2.82,2.82,0
+2023,September,Porvorim,Bakery,1.06,1.16,0.1
+2023,September,Porvorim,Beverages,1.94,1.93,-0.01
+2023,September,Porvorim,Fruits,1.78,1.97,0.19
+2023,September,Porvorim,Groceries,11.06,11.7,0.64
+2023,September,Porvorim,Milk Products,2.97,2.64,-0.33
+2023,September,Porvorim,Ready to eat,1.88,1.8,-0.08
+2023,September,Porvorim,Spices,5.83,5.57,-0.26
+2023,September,Porvorim,Vegetables,2.77,2.94,0.17
+2023,October,Panaji,Bakery,1.09,1.06,-0.03
+2023,October,Panaji,Beverages,1.97,1.84,-0.13
+2023,October,Panaji,Fruits,1.91,1.73,-0.18
+2023,October,Panaji,Groceries,10.53,11.21,0.68
+2023,October,Panaji,Milk Products,2.83,2.79,-0.04
+2023,October,Panaji,Ready to eat,1.93,1.97,0.04
+2023,October,Panaji,Spices,5.46,5.35,-0.11
+2023,October,Panaji,Vegetables,2.78,2.76,-0.02
+2023,October,Khorlim,Bakery,1.08,1.12,0.04
+2023,October,Khorlim,Beverages,1.82,1.9,0.08
+2023,October,Khorlim,Fruits,1.86,1.76,-0.1
+2023,October,Khorlim,Groceries,10.56,10.89,0.33
+2023,October,Khorlim,Milk Products,2.89,2.76,-0.13
+2023,October,Khorlim,Ready to eat,1.94,1.87,-0.07
+2023,October,Khorlim,Spices,5.53,5.68,0.15
+2023,October,Khorlim,Vegetables,2.75,2.68,-0.07
+2023,October,KTC,Bakery,1.18,1.09,-0.09
+2023,October,KTC,Beverages,1.88,1.91,0.03
+2023,October,KTC,Fruits,1.89,1.73,-0.16
+2023,October,KTC,Groceries,11.7,11.52,-0.18
+2023,October,KTC,Milk Products,2.66,2.92,0.26
+2023,October,KTC,Ready to eat,1.88,1.96,0.08
+2023,October,KTC,Spices,5.94,5.2,-0.74
+2023,October,KTC,Vegetables,2.75,2.71,-0.04
+2023,October,Margao,Bakery,1.11,1.04,-0.07
+2023,October,Margao,Beverages,1.96,1.92,-0.04
+2023,October,Margao,Fruits,1.98,1.81,-0.17
+2023,October,Margao,Groceries,11,11.67,0.67
+2023,October,Margao,Milk Products,2.9,2.81,-0.09
+2023,October,Margao,Ready to eat,1.75,1.83,0.08
+2023,October,Margao,Spices,5.39,5.21,-0.18
+2023,October,Margao,Vegetables,2.98,2.74,-0.24
+2023,October,Siolim,Bakery,1.15,1.13,-0.02
+2023,October,Siolim,Beverages,1.91,1.9,-0.01
+2023,October,Siolim,Fruits,1.89,1.78,-0.11
+2023,October,Siolim,Groceries,10.99,11.2,0.21
+2023,October,Siolim,Milk Products,2.83,2.76,-0.07
+2023,October,Siolim,Ready to eat,1.94,1.95,0.01
+2023,October,Siolim,Spices,5.75,5.57,-0.18
+2023,October,Siolim,Vegetables,2.6,2.79,0.19
+2023,October,Baga,Bakery,1.11,1.15,0.04
+2023,October,Baga,Beverages,1.78,1.89,0.11
+2023,October,Baga,Fruits,1.75,1.93,0.18
+2023,October,Baga,Groceries,11.07,11.64,0.57
+2023,October,Baga,Milk Products,2.74,2.82,0.08
+2023,October,Baga,Ready to eat,1.8,1.94,0.14
+2023,October,Baga,Spices,5.41,5.37,-0.04
+2023,October,Baga,Vegetables,2.74,2.63,-0.11
+2023,October,Porvorim,Bakery,1.18,1.12,-0.06
+2023,October,Porvorim,Beverages,1.85,1.97,0.12
+2023,October,Porvorim,Fruits,1.97,1.8,-0.17
+2023,October,Porvorim,Groceries,11.97,11.89,-0.08
+2023,October,Porvorim,Milk Products,2.84,2.84,0
+2023,October,Porvorim,Ready to eat,1.96,1.98,0.02
+2023,October,Porvorim,Spices,5.32,5.2,-0.12
+2023,October,Porvorim,Vegetables,2.7,2.73,0.03
+2023,November,Panaji,Bakery,1.08,1.19,0.11
+2023,November,Panaji,Beverages,1.84,1.8,-0.04
+2023,November,Panaji,Fruits,1.98,1.96,-0.02
+2023,November,Panaji,Groceries,11.73,11.28,-0.45
+2023,November,Panaji,Milk Products,2.9,2.69,-0.21
+2023,November,Panaji,Ready to eat,1.93,1.91,-0.02
+2023,November,Panaji,Spices,5.36,5.51,0.15
+2023,November,Panaji,Vegetables,2.82,2.97,0.15
+2023,November,Khorlim,Bakery,1.12,1.08,-0.04
+2023,November,Khorlim,Beverages,1.87,1.86,-0.01
+2023,November,Khorlim,Fruits,1.85,1.73,-0.12
+2023,November,Khorlim,Groceries,10.43,10.71,0.28
+2023,November,Khorlim,Milk Products,2.71,2.74,0.03
+2023,November,Khorlim,Ready to eat,1.87,1.94,0.07
+2023,November,Khorlim,Spices,5.78,5.27,-0.51
+2023,November,Khorlim,Vegetables,2.73,2.91,0.18
+2023,November,KTC,Bakery,1.09,1.08,-0.01
+2023,November,KTC,Beverages,1.95,1.93,-0.02
+2023,November,KTC,Fruits,1.79,1.96,0.17
+2023,November,KTC,Groceries,10.78,10.77,-0.01
+2023,November,KTC,Milk Products,2.72,2.82,0.1
+2023,November,KTC,Ready to eat,1.74,1.98,0.24
+2023,November,KTC,Spices,5.58,5.84,0.26
+2023,November,KTC,Vegetables,2.76,2.67,-0.09
+2023,November,Margao,Bakery,1.1,1.12,0.02
+2023,November,Margao,Beverages,1.79,1.98,0.19
+2023,November,Margao,Fruits,1.94,1.93,-0.01
+2023,November,Margao,Groceries,11.21,11.98,0.77
+2023,November,Margao,Milk Products,2.66,2.85,0.19
+2023,November,Margao,Ready to eat,1.86,1.79,-0.07
+2023,November,Margao,Spices,5.25,5.22,-0.03
+2023,November,Margao,Vegetables,2.87,2.99,0.12
+2023,November,Siolim,Bakery,1.13,1.17,0.04
+2023,November,Siolim,Beverages,1.78,1.78,0
+2023,November,Siolim,Fruits,1.84,1.77,-0.07
+2023,November,Siolim,Groceries,11.03,10.56,-0.47
+2023,November,Siolim,Milk Products,2.94,2.85,-0.09
+2023,November,Siolim,Ready to eat,1.86,1.81,-0.05
+2023,November,Siolim,Spices,5.21,5.89,0.68
+2023,November,Siolim,Vegetables,2.82,2.75,-0.07
+2023,November,Baga,Bakery,1.1,1.16,0.06
+2023,November,Baga,Beverages,2,1.8,-0.2
+2023,November,Baga,Fruits,1.78,1.79,0.01
+2023,November,Baga,Groceries,11.36,10.62,-0.74
+2023,November,Baga,Milk Products,2.76,2.61,-0.15
+2023,November,Baga,Ready to eat,1.94,1.83,-0.11
+2023,November,Baga,Spices,5.7,5.46,-0.24
+2023,November,Baga,Vegetables,2.71,2.66,-0.05
+2023,November,Porvorim,Bakery,1.16,1.05,-0.11
+2023,November,Porvorim,Beverages,1.9,1.94,0.04
+2023,November,Porvorim,Fruits,1.94,1.8,-0.14
+2023,November,Porvorim,Groceries,10.85,11.99,1.14
+2023,November,Porvorim,Milk Products,2.97,2.65,-0.32
+2023,November,Porvorim,Ready to eat,1.91,1.97,0.06
+2023,November,Porvorim,Spices,5.88,5.6,-0.28
+2023,November,Porvorim,Vegetables,2.94,2.76,-0.18
+2023,December,Panaji,Bakery,1.14,1.09,-0.05
+2023,December,Panaji,Beverages,1.89,1.75,-0.14
+2023,December,Panaji,Fruits,1.92,1.89,-0.03
+2023,December,Panaji,Groceries,11.27,10.87,-0.4
+2023,December,Panaji,Milk Products,2.79,2.66,-0.13
+2023,December,Panaji,Ready to eat,1.97,2,0.03
+2023,December,Panaji,Spices,5.38,5.54,0.16
+2023,December,Panaji,Vegetables,2.94,2.93,-0.01
+2023,December,Khorlim,Bakery,1.07,1.07,0
+2023,December,Khorlim,Beverages,1.79,2,0.21
+2023,December,Khorlim,Fruits,1.83,1.83,0
+2023,December,Khorlim,Groceries,11.86,11.63,-0.23
+2023,December,Khorlim,Milk Products,2.94,2.9,-0.04
+2023,December,Khorlim,Ready to eat,1.92,1.84,-0.08
+2023,December,Khorlim,Spices,5.8,5.63,-0.17
+2023,December,Khorlim,Vegetables,2.78,2.78,0
+2023,December,KTC,Bakery,1.1,1.04,-0.06
+2023,December,KTC,Beverages,1.96,1.82,-0.14
+2023,December,KTC,Fruits,1.85,1.89,0.04
+2023,December,KTC,Groceries,11.04,11.39,0.35
+2023,December,KTC,Milk Products,2.9,2.97,0.07
+2023,December,KTC,Ready to eat,1.86,1.73,-0.13
+2023,December,KTC,Spices,5.32,5.99,0.67
+2023,December,KTC,Vegetables,2.68,2.83,0.15
+2023,December,Margao,Bakery,1.13,1.12,-0.01
+2023,December,Margao,Beverages,1.82,1.92,0.1
+2023,December,Margao,Fruits,1.9,1.74,-0.16
+2023,December,Margao,Groceries,11.22,11.29,0.07
+2023,December,Margao,Milk Products,2.72,2.64,-0.08
+2023,December,Margao,Ready to eat,1.93,1.97,0.04
+2023,December,Margao,Spices,5.57,5.28,-0.29
+2023,December,Margao,Vegetables,2.6,2.7,0.1
+2023,December,Siolim,Bakery,1.09,1.05,-0.04
+2023,December,Siolim,Beverages,1.79,1.93,0.14
+2023,December,Siolim,Fruits,1.76,1.79,0.03
+2023,December,Siolim,Groceries,11.37,10.96,-0.41
+2023,December,Siolim,Milk Products,2.64,2.88,0.24
+2023,December,Siolim,Ready to eat,1.96,1.94,-0.02
+2023,December,Siolim,Spices,5.8,5.31,-0.49
+2023,December,Siolim,Vegetables,2.88,2.68,-0.2
+2023,December,Baga,Bakery,1.16,1.13,-0.03
+2023,December,Baga,Beverages,1.79,1.76,-0.03
+2023,December,Baga,Fruits,1.88,2,0.12
+2023,December,Baga,Groceries,11.34,10.79,-0.55
+2023,December,Baga,Milk Products,2.98,2.62,-0.36
+2023,December,Baga,Ready to eat,1.86,1.93,0.07
+2023,December,Baga,Spices,5.23,5.43,0.2
+2023,December,Baga,Vegetables,2.69,2.92,0.23
+2023,December,Porvorim,Bakery,1.18,1.09,-0.09
+2023,December,Porvorim,Beverages,1.93,1.85,-0.08
+2023,December,Porvorim,Fruits,1.75,1.75,0
+2023,December,Porvorim,Groceries,11.39,11.05,-0.34
+2023,December,Porvorim,Milk Products,2.91,2.7,-0.21
+2023,December,Porvorim,Ready to eat,1.87,1.74,-0.13
+2023,December,Porvorim,Spices,5.71,5.26,-0.45
+2023,December,Porvorim,Vegetables,2.82,2.63,-0.19
+2024,January,Panaji,Bakery,1.16,1.14,-0.02
+2024,January,Panaji,Beverages,1.89,1.86,-0.03
+2024,January,Panaji,Fruits,1.99,1.83,-0.16
+2024,January,Panaji,Groceries,10.67,11.83,1.16
+2024,January,Panaji,Milk Products,2.85,2.72,-0.13
+2024,January,Panaji,Ready to eat,1.84,1.91,0.07
+2024,January,Panaji,Spices,5.72,5.69,-0.03
+2024,January,Panaji,Vegetables,2.63,2.73,0.1
+2024,January,Khorlim,Bakery,1.12,1.1,-0.02
+2024,January,Khorlim,Beverages,1.91,1.9,-0.01
+2024,January,Khorlim,Fruits,1.79,1.83,0.04
+2024,January,Khorlim,Groceries,11.31,10.62,-0.69
+2024,January,Khorlim,Milk Products,2.98,2.82,-0.16
+2024,January,Khorlim,Ready to eat,2,1.85,-0.15
+2024,January,Khorlim,Spices,5.42,5.8,0.38
+2024,January,Khorlim,Vegetables,2.89,2.77,-0.12
+2024,January,KTC,Bakery,1.08,1.09,0.01
+2024,January,KTC,Beverages,1.96,1.77,-0.19
+2024,January,KTC,Fruits,1.93,1.79,-0.14
+2024,January,KTC,Groceries,11.24,11.89,0.65
+2024,January,KTC,Milk Products,2.83,2.91,0.08
+2024,January,KTC,Ready to eat,1.97,1.92,-0.05
+2024,January,KTC,Spices,5.63,5.92,0.29
+2024,January,KTC,Vegetables,2.75,2.79,0.04
+2024,January,Margao,Bakery,1.18,1.06,-0.12
+2024,January,Margao,Beverages,1.76,1.97,0.21
+2024,January,Margao,Fruits,1.92,1.9,-0.02
+2024,January,Margao,Groceries,11.88,10.79,-1.09
+2024,January,Margao,Milk Products,2.64,2.77,0.13
+2024,January,Margao,Ready to eat,1.8,1.98,0.18
+2024,January,Margao,Spices,5.79,5.47,-0.32
+2024,January,Margao,Vegetables,2.87,2.76,-0.11
+2024,January,Siolim,Bakery,1.08,1.05,-0.03
+2024,January,Siolim,Beverages,1.75,1.77,0.02
+2024,January,Siolim,Fruits,1.89,1.9,0.01
+2024,January,Siolim,Groceries,10.81,11.91,1.1
+2024,January,Siolim,Milk Products,2.66,2.96,0.3
+2024,January,Siolim,Ready to eat,1.77,1.8,0.03
+2024,January,Siolim,Spices,5.62,5.33,-0.29
+2024,January,Siolim,Vegetables,2.92,2.64,-0.28
+2024,January,Baga,Bakery,1.09,1.09,0
+2024,January,Baga,Beverages,1.84,1.86,0.02
+2024,January,Baga,Fruits,1.93,1.92,-0.01
+2024,January,Baga,Groceries,10.42,10.38,-0.04
+2024,January,Baga,Milk Products,2.72,2.76,0.04
+2024,January,Baga,Ready to eat,1.84,1.73,-0.11
+2024,January,Baga,Spices,5.39,5.62,0.23
+2024,January,Baga,Vegetables,2.72,2.97,0.25
+2024,January,Porvorim,Bakery,1.08,1.19,0.11
+2024,January,Porvorim,Beverages,1.77,1.89,0.12
+2024,January,Porvorim,Fruits,1.81,1.78,-0.03
+2024,January,Porvorim,Groceries,10.66,11.1,0.44
+2024,January,Porvorim,Milk Products,2.61,2.67,0.06
+2024,January,Porvorim,Ready to eat,1.9,1.9,0
+2024,January,Porvorim,Spices,5.6,5.91,0.31
+2024,January,Porvorim,Vegetables,2.82,2.68,-0.14
+2024,February,Panaji,Bakery,1.19,1.2,0.01
+2024,February,Panaji,Beverages,1.8,1.98,0.18
+2024,February,Panaji,Fruits,1.96,1.9,-0.06
+2024,February,Panaji,Groceries,10.58,11.01,0.43
+2024,February,Panaji,Milk Products,2.83,2.77,-0.06
+2024,February,Panaji,Ready to eat,1.9,1.74,-0.16
+2024,February,Panaji,Spices,5.84,5.65,-0.19
+2024,February,Panaji,Vegetables,2.96,2.97,0.01
+2024,February,Khorlim,Bakery,1.15,1.05,-0.1
+2024,February,Khorlim,Beverages,1.95,1.83,-0.12
+2024,February,Khorlim,Fruits,1.76,1.84,0.08
+2024,February,Khorlim,Groceries,10.51,11.6,1.09
+2024,February,Khorlim,Milk Products,2.95,2.98,0.03
+2024,February,Khorlim,Ready to eat,1.76,1.91,0.15
+2024,February,Khorlim,Spices,5.95,5.67,-0.28
+2024,February,Khorlim,Vegetables,2.86,2.75,-0.11
+2024,February,KTC,Bakery,1.11,1.19,0.08
+2024,February,KTC,Beverages,1.82,1.79,-0.03
+2024,February,KTC,Fruits,1.76,1.94,0.18
+2024,February,KTC,Groceries,11.66,10.73,-0.93
+2024,February,KTC,Milk Products,2.83,2.89,0.06
+2024,February,KTC,Ready to eat,1.98,1.9,-0.08
+2024,February,KTC,Spices,5.94,5.71,-0.23
+2024,February,KTC,Vegetables,2.82,2.63,-0.19
+2024,February,Margao,Bakery,1.08,1.1,0.02
+2024,February,Margao,Beverages,1.93,1.96,0.03
+2024,February,Margao,Fruits,1.81,1.9,0.09
+2024,February,Margao,Groceries,10.85,10.83,-0.02
+2024,February,Margao,Milk Products,2.72,2.67,-0.05
+2024,February,Margao,Ready to eat,1.98,1.94,-0.04
+2024,February,Margao,Spices,5.55,5.46,-0.09
+2024,February,Margao,Vegetables,2.7,2.97,0.27
+2024,February,Siolim,Bakery,1.16,1.18,0.02
+2024,February,Siolim,Beverages,1.74,2,0.26
+2024,February,Siolim,Fruits,1.9,1.94,0.04
+2024,February,Siolim,Groceries,11.84,10.97,-0.87
+2024,February,Siolim,Milk Products,2.65,2.94,0.29
+2024,February,Siolim,Ready to eat,1.92,1.75,-0.17
+2024,February,Siolim,Spices,5.29,5.58,0.29
+2024,February,Siolim,Vegetables,2.93,2.71,-0.22
+2024,February,Baga,Bakery,1.09,1.15,0.06
+2024,February,Baga,Beverages,1.99,1.97,-0.02
+2024,February,Baga,Fruits,1.86,1.83,-0.03
+2024,February,Baga,Groceries,11.67,10.63,-1.04
+2024,February,Baga,Milk Products,2.73,2.75,0.02
+2024,February,Baga,Ready to eat,1.81,1.77,-0.04
+2024,February,Baga,Spices,5.23,5.32,0.09
+2024,February,Baga,Vegetables,2.71,2.92,0.21
+2024,February,Porvorim,Bakery,1.1,1.18,0.08
+2024,February,Porvorim,Beverages,1.8,1.99,0.19
+2024,February,Porvorim,Fruits,1.91,1.84,-0.07
+2024,February,Porvorim,Groceries,11.21,11.76,0.55
+2024,February,Porvorim,Milk Products,2.87,2.79,-0.08
+2024,February,Porvorim,Ready to eat,1.95,1.87,-0.08
+2024,February,Porvorim,Spices,5.74,5.47,-0.27
+2024,February,Porvorim,Vegetables,2.97,2.92,-0.05
+2024,March,Panaji,Bakery,1.15,1.13,-0.02
+2024,March,Panaji,Beverages,1.75,1.99,0.24
+2024,March,Panaji,Fruits,1.74,1.98,0.24
+2024,March,Panaji,Groceries,10.43,10.9,0.47
+2024,March,Panaji,Milk Products,2.7,2.77,0.07
+2024,March,Panaji,Ready to eat,1.8,1.86,0.06
+2024,March,Panaji,Spices,5.49,5.64,0.15
+2024,March,Panaji,Vegetables,2.78,2.88,0.1
+2024,March,Khorlim,Bakery,1.19,1.14,-0.05
+2024,March,Khorlim,Beverages,1.96,1.91,-0.05
+2024,March,Khorlim,Fruits,1.86,1.89,0.03
+2024,March,Khorlim,Groceries,10.45,11.58,1.13
+2024,March,Khorlim,Milk Products,2.75,2.85,0.1
+2024,March,Khorlim,Ready to eat,1.82,1.83,0.01
+2024,March,Khorlim,Spices,5.29,5.27,-0.02
+2024,March,Khorlim,Vegetables,2.97,2.97,0
+2024,March,KTC,Bakery,1.13,1.12,-0.01
+2024,March,KTC,Beverages,1.92,1.98,0.06
+2024,March,KTC,Fruits,1.75,1.93,0.18
+2024,March,KTC,Groceries,11.69,11.12,-0.57
+2024,March,KTC,Milk Products,2.88,2.7,-0.18
+2024,March,KTC,Ready to eat,1.97,1.98,0.01
+2024,March,KTC,Spices,5.68,5.47,-0.21
+2024,March,KTC,Vegetables,2.75,2.7,-0.05
+2024,March,Margao,Bakery,1.2,1.11,-0.09
+2024,March,Margao,Beverages,1.95,1.84,-0.11
+2024,March,Margao,Fruits,1.76,1.83,0.07
+2024,March,Margao,Groceries,10.65,11.68,1.03
+2024,March,Margao,Milk Products,2.69,2.85,0.16
+2024,March,Margao,Ready to eat,1.95,1.96,0.01
+2024,March,Margao,Spices,5.36,5.38,0.02
+2024,March,Margao,Vegetables,2.88,2.62,-0.26
+2024,March,Siolim,Bakery,1.19,1.09,-0.1
+2024,March,Siolim,Beverages,1.94,1.81,-0.13
+2024,March,Siolim,Fruits,1.99,1.85,-0.14
+2024,March,Siolim,Groceries,11.96,11.66,-0.3
+2024,March,Siolim,Milk Products,2.7,2.84,0.14
+2024,March,Siolim,Ready to eat,1.85,1.82,-0.03
+2024,March,Siolim,Spices,5.33,5.79,0.46
+2024,March,Siolim,Vegetables,2.74,2.61,-0.13
+2024,March,Baga,Bakery,1.18,1.05,-0.13
+2024,March,Baga,Beverages,1.96,1.99,0.03
+2024,March,Baga,Fruits,1.87,1.94,0.07
+2024,March,Baga,Groceries,11.33,11.69,0.36
+2024,March,Baga,Milk Products,2.93,2.7,-0.23
+2024,March,Baga,Ready to eat,1.96,1.97,0.01
+2024,March,Baga,Spices,5.59,5.26,-0.33
+2024,March,Baga,Vegetables,2.82,2.68,-0.14
+2024,March,Porvorim,Bakery,1.07,1.09,0.02
+2024,March,Porvorim,Beverages,1.99,1.77,-0.22
+2024,March,Porvorim,Fruits,1.74,1.83,0.09
+2024,March,Porvorim,Groceries,11.53,11.93,0.4
+2024,March,Porvorim,Milk Products,2.92,2.87,-0.05
+2024,March,Porvorim,Ready to eat,1.98,1.75,-0.23
+2024,March,Porvorim,Spices,5.76,5.96,0.2
+2024,March,Porvorim,Vegetables,2.84,2.81,-0.03
+2024,April,Panaji,Bakery,1.08,1.11,0.03
+2024,April,Panaji,Beverages,1.78,1.76,-0.02
+2024,April,Panaji,Fruits,1.75,1.89,0.14
+2024,April,Panaji,Groceries,10.87,11.93,1.06
+2024,April,Panaji,Milk Products,2.76,2.79,0.03
+2024,April,Panaji,Ready to eat,1.93,1.85,-0.08
+2024,April,Panaji,Spices,5.45,5.82,0.37
+2024,April,Panaji,Vegetables,2.87,2.89,0.02
+2024,April,Khorlim,Bakery,1.18,1.14,-0.04
+2024,April,Khorlim,Beverages,1.82,1.82,0
+2024,April,Khorlim,Fruits,1.85,1.75,-0.1
+2024,April,Khorlim,Groceries,10.49,11,0.51
+2024,April,Khorlim,Milk Products,2.85,2.71,-0.14
+2024,April,Khorlim,Ready to eat,1.85,1.85,0
+2024,April,Khorlim,Spices,5.47,5.25,-0.22
+2024,April,Khorlim,Vegetables,2.87,2.85,-0.02
+2024,April,KTC,Bakery,1.17,1.13,-0.04
+2024,April,KTC,Beverages,1.76,1.82,0.06
+2024,April,KTC,Fruits,1.79,1.82,0.03
+2024,April,KTC,Groceries,10.43,10.64,0.21
+2024,April,KTC,Milk Products,2.61,2.89,0.28
+2024,April,KTC,Ready to eat,1.89,1.75,-0.14
+2024,April,KTC,Spices,5.95,5.87,-0.08
+2024,April,KTC,Vegetables,2.67,2.67,0
+2024,April,Margao,Bakery,1.15,1.04,-0.11
+2024,April,Margao,Beverages,1.74,1.86,0.12
+2024,April,Margao,Fruits,1.73,1.94,0.21
+2024,April,Margao,Groceries,10.48,11.1,0.62
+2024,April,Margao,Milk Products,2.97,2.87,-0.1
+2024,April,Margao,Ready to eat,1.76,1.96,0.2
+2024,April,Margao,Spices,5.61,5.97,0.36
+2024,April,Margao,Vegetables,2.83,3,0.17
+2024,April,Siolim,Bakery,1.11,1.17,0.06
+2024,April,Siolim,Beverages,1.94,1.74,-0.2
+2024,April,Siolim,Fruits,1.92,1.83,-0.09
+2024,April,Siolim,Groceries,11.47,11.2,-0.27
+2024,April,Siolim,Milk Products,2.79,2.84,0.05
+2024,April,Siolim,Ready to eat,1.92,1.96,0.04
+2024,April,Siolim,Spices,5.5,5.34,-0.16
+2024,April,Siolim,Vegetables,2.97,2.67,-0.3
+2024,April,Baga,Bakery,1.13,1.14,0.01
+2024,April,Baga,Beverages,1.85,1.89,0.04
+2024,April,Baga,Fruits,1.99,1.81,-0.18
+2024,April,Baga,Groceries,11.82,11.28,-0.54
+2024,April,Baga,Milk Products,2.73,2.92,0.19
+2024,April,Baga,Ready to eat,1.82,1.74,-0.08
+2024,April,Baga,Spices,5.81,5.61,-0.2
+2024,April,Baga,Vegetables,2.99,2.79,-0.2
+2024,April,Porvorim,Bakery,1.08,1.05,-0.03
+2024,April,Porvorim,Beverages,1.98,1.95,-0.03
+2024,April,Porvorim,Fruits,1.85,1.82,-0.03
+2024,April,Porvorim,Groceries,11.05,11.66,0.61
+2024,April,Porvorim,Milk Products,2.92,2.75,-0.17
+2024,April,Porvorim,Ready to eat,1.84,1.98,0.14
+2024,April,Porvorim,Spices,5.48,5.29,-0.19
+2024,April,Porvorim,Vegetables,2.86,2.72,-0.14
+2024,May,Panaji,Bakery,1.13,1.14,0.01
+2024,May,Panaji,Beverages,1.92,1.98,0.06
+2024,May,Panaji,Fruits,1.75,1.98,0.23
+2024,May,Panaji,Groceries,11.4,11.56,0.16
+2024,May,Panaji,Milk Products,2.69,2.83,0.14
+2024,May,Panaji,Ready to eat,1.81,1.93,0.12
+2024,May,Panaji,Spices,5.37,5.62,0.25
+2024,May,Panaji,Vegetables,2.96,2.83,-0.13
+2024,May,Khorlim,Bakery,1.08,1.09,0.01
+2024,May,Khorlim,Beverages,1.99,1.75,-0.24
+2024,May,Khorlim,Fruits,1.98,1.94,-0.04
+2024,May,Khorlim,Groceries,10.99,11.3,0.31
+2024,May,Khorlim,Milk Products,2.97,2.63,-0.34
+2024,May,Khorlim,Ready to eat,1.95,1.77,-0.18
+2024,May,Khorlim,Spices,5.87,5.34,-0.53
+2024,May,Khorlim,Vegetables,2.77,2.87,0.1
+2024,May,KTC,Bakery,1.1,1.1,0
+2024,May,KTC,Beverages,1.99,1.91,-0.08
+2024,May,KTC,Fruits,1.93,1.88,-0.05
+2024,May,KTC,Groceries,11.34,10.48,-0.86
+2024,May,KTC,Milk Products,2.99,2.67,-0.32
+2024,May,KTC,Ready to eat,1.75,1.91,0.16
+2024,May,KTC,Spices,5.38,5.46,0.08
+2024,May,KTC,Vegetables,2.88,2.86,-0.02
+2024,May,Margao,Bakery,1.19,1.19,0
+2024,May,Margao,Beverages,1.96,1.86,-0.1
+2024,May,Margao,Fruits,1.95,1.73,-0.22
+2024,May,Margao,Groceries,11.34,10.62,-0.72
+2024,May,Margao,Milk Products,2.81,2.95,0.14
+2024,May,Margao,Ready to eat,1.85,1.87,0.02
+2024,May,Margao,Spices,5.73,5.64,-0.09
+2024,May,Margao,Vegetables,2.66,2.93,0.27
+2024,May,Siolim,Bakery,1.16,1.08,-0.08
+2024,May,Siolim,Beverages,1.75,1.75,0
+2024,May,Siolim,Fruits,1.75,1.89,0.14
+2024,May,Siolim,Groceries,10.6,10.57,-0.03
+2024,May,Siolim,Milk Products,2.92,2.63,-0.29
+2024,May,Siolim,Ready to eat,1.98,1.92,-0.06
+2024,May,Siolim,Spices,5.37,5.62,0.25
+2024,May,Siolim,Vegetables,2.63,2.91,0.28
+2024,May,Baga,Bakery,1.14,1.18,0.04
+2024,May,Baga,Beverages,1.87,1.79,-0.08
+2024,May,Baga,Fruits,1.87,1.93,0.06
+2024,May,Baga,Groceries,11.12,11.6,0.48
+2024,May,Baga,Milk Products,2.68,2.79,0.11
+2024,May,Baga,Ready to eat,1.9,1.79,-0.11
+2024,May,Baga,Spices,5.32,5.45,0.13
+2024,May,Baga,Vegetables,2.9,2.73,-0.17
+2024,May,Porvorim,Bakery,1.09,1.2,0.11
+2024,May,Porvorim,Beverages,1.76,1.97,0.21
+2024,May,Porvorim,Fruits,1.98,1.89,-0.09
+2024,May,Porvorim,Groceries,11.72,10.53,-1.19
+2024,May,Porvorim,Milk Products,2.76,2.63,-0.13
+2024,May,Porvorim,Ready to eat,1.81,1.99,0.18
+2024,May,Porvorim,Spices,5.91,5.42,-0.49
+2024,May,Porvorim,Vegetables,2.62,2.87,0.25
+2024,June,Panaji,Bakery,1.16,1.17,0.01
+2024,June,Panaji,Beverages,1.8,1.99,0.19
+2024,June,Panaji,Fruits,1.99,1.81,-0.18
+2024,June,Panaji,Groceries,11.01,11.7,0.69
+2024,June,Panaji,Milk Products,2.69,2.84,0.15
+2024,June,Panaji,Ready to eat,1.78,1.85,0.07
+2024,June,Panaji,Spices,5.73,5.72,-0.01
+2024,June,Panaji,Vegetables,2.91,2.69,-0.22
+2024,June,Khorlim,Bakery,1.17,1.15,-0.02
+2024,June,Khorlim,Beverages,1.83,1.84,0.01
+2024,June,Khorlim,Fruits,1.76,1.97,0.21
+2024,June,Khorlim,Groceries,11.84,10.47,-1.37
+2024,June,Khorlim,Milk Products,2.84,2.75,-0.09
+2024,June,Khorlim,Ready to eat,1.8,1.93,0.13
+2024,June,Khorlim,Spices,5.87,5.41,-0.46
+2024,June,Khorlim,Vegetables,2.83,2.75,-0.08
+2024,June,KTC,Bakery,1.16,1.14,-0.02
+2024,June,KTC,Beverages,1.95,1.88,-0.07
+2024,June,KTC,Fruits,1.78,1.81,0.03
+2024,June,KTC,Groceries,10.51,11.52,1.01
+2024,June,KTC,Milk Products,2.72,2.95,0.23
+2024,June,KTC,Ready to eat,1.99,1.73,-0.26
+2024,June,KTC,Spices,5.84,5.42,-0.42
+2024,June,KTC,Vegetables,2.97,2.96,-0.01
+2024,June,Margao,Bakery,1.17,1.11,-0.06
+2024,June,Margao,Beverages,1.94,1.9,-0.04
+2024,June,Margao,Fruits,1.77,1.97,0.2
+2024,June,Margao,Groceries,11.2,10.83,-0.37
+2024,June,Margao,Milk Products,2.88,2.65,-0.23
+2024,June,Margao,Ready to eat,1.84,1.86,0.02
+2024,June,Margao,Spices,5.25,5.6,0.35
+2024,June,Margao,Vegetables,2.83,2.83,0
+2024,June,Siolim,Bakery,1.05,1.1,0.05
+2024,June,Siolim,Beverages,1.87,1.98,0.11
+2024,June,Siolim,Fruits,1.74,1.78,0.04
+2024,June,Siolim,Groceries,11.51,11.86,0.35
+2024,June,Siolim,Milk Products,2.87,2.93,0.06
+2024,June,Siolim,Ready to eat,1.8,1.86,0.06
+2024,June,Siolim,Spices,5.95,5.44,-0.51
+2024,June,Siolim,Vegetables,2.93,2.64,-0.29
+2024,June,Baga,Bakery,1.05,1.18,0.13
+2024,June,Baga,Beverages,1.88,1.97,0.09
+2024,June,Baga,Fruits,1.88,1.87,-0.01
+2024,June,Baga,Groceries,11.24,11.81,0.57
+2024,June,Baga,Milk Products,2.77,2.74,-0.03
+2024,June,Baga,Ready to eat,1.93,1.84,-0.09
+2024,June,Baga,Spices,5.38,5.79,0.41
+2024,June,Baga,Vegetables,2.99,2.88,-0.11
+2024,June,Porvorim,Bakery,1.12,1.11,-0.01
+2024,June,Porvorim,Beverages,1.91,1.91,0
+2024,June,Porvorim,Fruits,1.9,1.77,-0.13
+2024,June,Porvorim,Groceries,10.39,11.91,1.52
+2024,June,Porvorim,Milk Products,2.94,2.73,-0.21
+2024,June,Porvorim,Ready to eat,1.86,1.87,0.01
+2024,June,Porvorim,Spices,5.88,5.89,0.01
+2024,June,Porvorim,Vegetables,2.75,2.79,0.04
+2024,July,Panaji,Bakery,1.09,1.12,0.03
+2024,July,Panaji,Beverages,1.84,1.93,0.09
+2024,July,Panaji,Fruits,1.81,1.9,0.09
+2024,July,Panaji,Groceries,11.39,10.74,-0.65
+2024,July,Panaji,Milk Products,2.88,2.94,0.06
+2024,July,Panaji,Ready to eat,1.95,1.76,-0.19
+2024,July,Panaji,Spices,5.96,5.62,-0.34
+2024,July,Panaji,Vegetables,2.63,2.89,0.26
+2024,July,Khorlim,Bakery,1.18,1.13,-0.05
+2024,July,Khorlim,Beverages,1.87,1.9,0.03
+2024,July,Khorlim,Fruits,2,1.97,-0.03
+2024,July,Khorlim,Groceries,11.97,11.47,-0.5
+2024,July,Khorlim,Milk Products,2.86,2.95,0.09
+2024,July,Khorlim,Ready to eat,1.83,1.82,-0.01
+2024,July,Khorlim,Spices,5.22,5.44,0.22
+2024,July,Khorlim,Vegetables,2.65,2.74,0.09
+2024,July,KTC,Bakery,1.13,1.11,-0.02
+2024,July,KTC,Beverages,1.77,1.84,0.07
+2024,July,KTC,Fruits,1.85,1.92,0.07
+2024,July,KTC,Groceries,11.14,11.06,-0.08
+2024,July,KTC,Milk Products,2.95,2.7,-0.25
+2024,July,KTC,Ready to eat,1.91,1.99,0.08
+2024,July,KTC,Spices,5.68,5.23,-0.45
+2024,July,KTC,Vegetables,2.67,2.83,0.16
+2024,July,Margao,Bakery,1.12,1.09,-0.03
+2024,July,Margao,Beverages,1.84,1.86,0.02
+2024,July,Margao,Fruits,1.76,1.76,0
+2024,July,Margao,Groceries,11.85,10.69,-1.16
+2024,July,Margao,Milk Products,2.95,2.66,-0.29
+2024,July,Margao,Ready to eat,1.91,1.94,0.03
+2024,July,Margao,Spices,5.29,5.49,0.2
+2024,July,Margao,Vegetables,2.61,2.88,0.27
+2024,July,Siolim,Bakery,1.12,1.19,0.07
+2024,July,Siolim,Beverages,1.85,1.77,-0.08
+2024,July,Siolim,Fruits,1.95,1.88,-0.07
+2024,July,Siolim,Groceries,11.28,11.19,-0.09
+2024,July,Siolim,Milk Products,2.79,2.69,-0.1
+2024,July,Siolim,Ready to eat,1.96,1.79,-0.17
+2024,July,Siolim,Spices,5.62,5.48,-0.14
+2024,July,Siolim,Vegetables,2.76,2.78,0.02
+2024,July,Baga,Bakery,1.08,1.17,0.09
+2024,July,Baga,Beverages,1.81,1.78,-0.03
+2024,July,Baga,Fruits,1.92,1.84,-0.08
+2024,July,Baga,Groceries,11.7,10.74,-0.96
+2024,July,Baga,Milk Products,2.82,2.85,0.03
+2024,July,Baga,Ready to eat,1.97,1.74,-0.23
+2024,July,Baga,Spices,5.97,5.87,-0.1
+2024,July,Baga,Vegetables,2.61,2.72,0.11
+2024,July,Porvorim,Bakery,1.17,1.19,0.02
+2024,July,Porvorim,Beverages,1.88,1.99,0.11
+2024,July,Porvorim,Fruits,1.87,1.89,0.02
+2024,July,Porvorim,Groceries,10.62,11.95,1.33
+2024,July,Porvorim,Milk Products,2.94,2.93,-0.01
+2024,July,Porvorim,Ready to eat,1.87,1.84,-0.03
+2024,July,Porvorim,Spices,5.8,5.99,0.19
+2024,July,Porvorim,Vegetables,2.99,2.88,-0.11
+2024,August,Panaji,Bakery,1.18,1.08,-0.1
+2024,August,Panaji,Beverages,2,1.83,-0.17
+2024,August,Panaji,Fruits,1.86,1.97,0.11
+2024,August,Panaji,Groceries,10.45,11.09,0.64
+2024,August,Panaji,Milk Products,2.9,2.65,-0.25
+2024,August,Panaji,Ready to eat,1.83,1.94,0.11
+2024,August,Panaji,Spices,5.71,5.45,-0.26
+2024,August,Panaji,Vegetables,2.91,2.62,-0.29
+2024,August,Khorlim,Bakery,1.14,1.09,-0.05
+2024,August,Khorlim,Beverages,1.97,1.85,-0.12
+2024,August,Khorlim,Fruits,1.92,1.79,-0.13
+2024,August,Khorlim,Groceries,11.53,11,-0.53
+2024,August,Khorlim,Milk Products,2.8,2.8,0
+2024,August,Khorlim,Ready to eat,1.99,1.94,-0.05
+2024,August,Khorlim,Spices,5.32,5.8,0.48
+2024,August,Khorlim,Vegetables,2.78,2.85,0.07
+2024,August,KTC,Bakery,1.08,1.15,0.07
+2024,August,KTC,Beverages,1.79,1.87,0.08
+2024,August,KTC,Fruits,1.86,1.96,0.1
+2024,August,KTC,Groceries,11.87,10.88,-0.99
+2024,August,KTC,Milk Products,2.96,3,0.04
+2024,August,KTC,Ready to eat,1.74,1.9,0.16
+2024,August,KTC,Spices,5.94,5.53,-0.41
+2024,August,KTC,Vegetables,2.72,2.72,0
+2024,August,Margao,Bakery,1.04,1.15,0.11
+2024,August,Margao,Beverages,1.8,1.73,-0.07
+2024,August,Margao,Fruits,1.99,1.88,-0.11
+2024,August,Margao,Groceries,11.46,11.99,0.53
+2024,August,Margao,Milk Products,2.77,2.72,-0.05
+2024,August,Margao,Ready to eat,1.96,1.88,-0.08
+2024,August,Margao,Spices,5.33,5.29,-0.04
+2024,August,Margao,Vegetables,2.82,2.97,0.15
+2024,August,Siolim,Bakery,1.06,1.16,0.1
+2024,August,Siolim,Beverages,1.78,1.92,0.14
+2024,August,Siolim,Fruits,1.97,1.99,0.02
+2024,August,Siolim,Groceries,11.93,11.4,-0.53
+2024,August,Siolim,Milk Products,2.65,2.88,0.23
+2024,August,Siolim,Ready to eat,1.98,1.78,-0.2
+2024,August,Siolim,Spices,5.63,5.99,0.36
+2024,August,Siolim,Vegetables,2.65,2.82,0.17
+2024,August,Baga,Bakery,1.07,1.13,0.06
+2024,August,Baga,Beverages,1.76,1.77,0.01
+2024,August,Baga,Fruits,1.81,1.81,0
+2024,August,Baga,Groceries,11.19,10.78,-0.41
+2024,August,Baga,Milk Products,2.97,2.81,-0.16
+2024,August,Baga,Ready to eat,1.9,1.94,0.04
+2024,August,Baga,Spices,5.27,5.92,0.65
+2024,August,Baga,Vegetables,2.75,2.65,-0.1
+2024,August,Porvorim,Bakery,1.13,1.15,0.02
+2024,August,Porvorim,Beverages,1.95,1.88,-0.07
+2024,August,Porvorim,Fruits,1.79,1.92,0.13
+2024,August,Porvorim,Groceries,10.62,10.42,-0.2
+2024,August,Porvorim,Milk Products,2.63,2.99,0.36
+2024,August,Porvorim,Ready to eat,1.9,1.86,-0.04
+2024,August,Porvorim,Spices,5.94,5.61,-0.33
+2024,August,Porvorim,Vegetables,2.6,2.9,0.3
+2024,September,Panaji,Bakery,1.07,1.13,0.06
+2024,September,Panaji,Beverages,1.79,1.94,0.15
+2024,September,Panaji,Fruits,1.87,1.91,0.04
+2024,September,Panaji,Groceries,10.99,10.97,-0.02
+2024,September,Panaji,Milk Products,2.71,2.96,0.25
+2024,September,Panaji,Ready to eat,1.9,1.98,0.08
+2024,September,Panaji,Spices,5.42,5.91,0.49
+2024,September,Panaji,Vegetables,2.76,2.95,0.19
+2024,September,Khorlim,Bakery,1.18,1.07,-0.11
+2024,September,Khorlim,Beverages,1.77,1.85,0.08
+2024,September,Khorlim,Fruits,1.79,1.77,-0.02
+2024,September,Khorlim,Groceries,11.54,10.62,-0.92
+2024,September,Khorlim,Milk Products,2.82,2.91,0.09
+2024,September,Khorlim,Ready to eat,1.98,1.96,-0.02
+2024,September,Khorlim,Spices,5.67,5.98,0.31
+2024,September,Khorlim,Vegetables,2.94,2.85,-0.09
+2024,September,KTC,Bakery,1.16,1.18,0.02
+2024,September,KTC,Beverages,2,1.85,-0.15
+2024,September,KTC,Fruits,1.87,1.88,0.01
+2024,September,KTC,Groceries,11.86,10.83,-1.03
+2024,September,KTC,Milk Products,2.81,2.77,-0.04
+2024,September,KTC,Ready to eat,1.92,1.86,-0.06
+2024,September,KTC,Spices,5.5,5.92,0.42
+2024,September,KTC,Vegetables,2.8,2.96,0.16
+2024,September,Margao,Bakery,1.04,1.13,0.09
+2024,September,Margao,Beverages,1.86,1.99,0.13
+2024,September,Margao,Fruits,1.78,1.99,0.21
+2024,September,Margao,Groceries,10.53,11.03,0.5
+2024,September,Margao,Milk Products,2.92,2.91,-0.01
+2024,September,Margao,Ready to eat,1.86,1.91,0.05
+2024,September,Margao,Spices,5.49,5.5,0.01
+2024,September,Margao,Vegetables,2.86,2.74,-0.12
+2024,September,Siolim,Bakery,1.13,1.07,-0.06
+2024,September,Siolim,Beverages,1.93,1.82,-0.11
+2024,September,Siolim,Fruits,1.99,1.78,-0.21
+2024,September,Siolim,Groceries,11.83,11.19,-0.64
+2024,September,Siolim,Milk Products,2.99,2.78,-0.21
+2024,September,Siolim,Ready to eat,1.85,1.84,-0.01
+2024,September,Siolim,Spices,5.42,5.44,0.02
+2024,September,Siolim,Vegetables,2.61,2.85,0.24
+2024,September,Baga,Bakery,1.08,1.08,0
+2024,September,Baga,Beverages,1.8,1.77,-0.03
+2024,September,Baga,Fruits,1.98,1.81,-0.17
+2024,September,Baga,Groceries,11.6,10.44,-1.16
+2024,September,Baga,Milk Products,2.66,2.77,0.11
+2024,September,Baga,Ready to eat,1.82,1.94,0.12
+2024,September,Baga,Spices,5.72,5.64,-0.08
+2024,September,Baga,Vegetables,2.74,2.63,-0.11
+2024,September,Porvorim,Bakery,1.16,1.12,-0.04
+2024,September,Porvorim,Beverages,1.99,1.99,0
+2024,September,Porvorim,Fruits,1.74,1.96,0.22
+2024,September,Porvorim,Groceries,11.08,11.9,0.82
+2024,September,Porvorim,Milk Products,3,2.89,-0.11
+2024,September,Porvorim,Ready to eat,1.93,1.94,0.01
+2024,September,Porvorim,Spices,5.73,5.72,-0.01
+2024,September,Porvorim,Vegetables,2.75,2.85,0.1
+2024,October,Panaji,Bakery,1.12,1.08,-0.04
+2024,October,Panaji,Beverages,1.94,1.98,0.04
+2024,October,Panaji,Fruits,1.93,1.94,0.01
+2024,October,Panaji,Groceries,10.99,11.27,0.28
+2024,October,Panaji,Milk Products,2.82,2.84,0.02
+2024,October,Panaji,Ready to eat,1.87,1.89,0.02
+2024,October,Panaji,Spices,5.91,5.74,-0.17
+2024,October,Panaji,Vegetables,2.8,2.85,0.05
+2024,October,Khorlim,Bakery,1.19,1.17,-0.02
+2024,October,Khorlim,Beverages,1.83,1.75,-0.08
+2024,October,Khorlim,Fruits,1.89,1.95,0.06
+2024,October,Khorlim,Groceries,11.37,11.42,0.05
+2024,October,Khorlim,Milk Products,2.68,2.94,0.26
+2024,October,Khorlim,Ready to eat,1.85,1.98,0.13
+2024,October,Khorlim,Spices,5.69,5.54,-0.15
+2024,October,Khorlim,Vegetables,2.99,2.68,-0.31
+2024,October,KTC,Bakery,1.11,1.13,0.02
+2024,October,KTC,Beverages,1.92,1.95,0.03
+2024,October,KTC,Fruits,1.74,1.99,0.25
+2024,October,KTC,Groceries,10.41,11.84,1.43
+2024,October,KTC,Milk Products,2.81,2.81,0
+2024,October,KTC,Ready to eat,1.74,1.83,0.09
+2024,October,KTC,Spices,5.44,5.24,-0.2
+2024,October,KTC,Vegetables,2.77,2.68,-0.09
+2024,October,Margao,Bakery,1.13,1.14,0.01
+2024,October,Margao,Beverages,1.84,1.98,0.14
+2024,October,Margao,Fruits,1.79,1.8,0.01
+2024,October,Margao,Groceries,11.09,10.97,-0.12
+2024,October,Margao,Milk Products,2.93,2.87,-0.06
+2024,October,Margao,Ready to eat,1.76,1.92,0.16
+2024,October,Margao,Spices,5.76,5.64,-0.12
+2024,October,Margao,Vegetables,2.8,2.95,0.15
+2024,October,Siolim,Bakery,1.19,1.1,-0.09
+2024,October,Siolim,Beverages,1.83,1.88,0.05
+2024,October,Siolim,Fruits,1.88,1.81,-0.07
+2024,October,Siolim,Groceries,11.99,11.36,-0.63
+2024,October,Siolim,Milk Products,2.7,2.85,0.15
+2024,October,Siolim,Ready to eat,1.93,1.8,-0.13
+2024,October,Siolim,Spices,6,5.31,-0.69
+2024,October,Siolim,Vegetables,2.66,2.82,0.16
+2024,October,Baga,Bakery,1.15,1.15,0
+2024,October,Baga,Beverages,1.75,1.88,0.13
+2024,October,Baga,Fruits,1.93,1.89,-0.04
+2024,October,Baga,Groceries,11.46,11.67,0.21
+2024,October,Baga,Milk Products,2.88,2.96,0.08
+2024,October,Baga,Ready to eat,1.99,1.8,-0.19
+2024,October,Baga,Spices,6,5.25,-0.75
+2024,October,Baga,Vegetables,2.9,2.78,-0.12
+2024,October,Porvorim,Bakery,1.16,1.12,-0.04
+2024,October,Porvorim,Beverages,1.8,1.96,0.16
+2024,October,Porvorim,Fruits,1.9,1.8,-0.1
+2024,October,Porvorim,Groceries,10.85,11.49,0.64
+2024,October,Porvorim,Milk Products,2.84,2.84,0
+2024,October,Porvorim,Ready to eat,1.93,1.95,0.02
+2024,October,Porvorim,Spices,5.53,5.44,-0.09
+2024,October,Porvorim,Vegetables,2.63,2.86,0.23
+2024,November,Panaji,Bakery,1.13,1.1,-0.03
+2024,November,Panaji,Beverages,1.73,1.75,0.02
+2024,November,Panaji,Fruits,1.95,1.87,-0.08
+2024,November,Panaji,Groceries,11.94,11.75,-0.19
+2024,November,Panaji,Milk Products,2.8,2.87,0.07
+2024,November,Panaji,Ready to eat,1.98,1.93,-0.05
+2024,November,Panaji,Spices,5.44,5.22,-0.22
+2024,November,Panaji,Vegetables,2.98,2.81,-0.17
+2024,November,Khorlim,Bakery,1.05,1.2,0.15
+2024,November,Khorlim,Beverages,1.82,1.94,0.12
+2024,November,Khorlim,Fruits,1.89,1.94,0.05
+2024,November,Khorlim,Groceries,11.73,10.64,-1.09
+2024,November,Khorlim,Milk Products,2.68,2.61,-0.07
+2024,November,Khorlim,Ready to eat,1.83,1.97,0.14
+2024,November,Khorlim,Spices,5.89,5.24,-0.65
+2024,November,Khorlim,Vegetables,2.72,2.87,0.15
+2024,November,KTC,Bakery,1.08,1.13,0.05
+2024,November,KTC,Beverages,1.83,1.98,0.15
+2024,November,KTC,Fruits,1.93,1.75,-0.18
+2024,November,KTC,Groceries,10.67,10.8,0.13
+2024,November,KTC,Milk Products,2.82,2.99,0.17
+2024,November,KTC,Ready to eat,1.93,1.88,-0.05
+2024,November,KTC,Spices,5.98,5.46,-0.52
+2024,November,KTC,Vegetables,2.74,2.68,-0.06
+2024,November,Margao,Bakery,1.11,1.07,-0.04
+2024,November,Margao,Beverages,1.86,1.74,-0.12
+2024,November,Margao,Fruits,1.76,2,0.24
+2024,November,Margao,Groceries,11.2,10.68,-0.52
+2024,November,Margao,Milk Products,2.85,2.71,-0.14
+2024,November,Margao,Ready to eat,1.85,1.84,-0.01
+2024,November,Margao,Spices,5.47,5.57,0.1
+2024,November,Margao,Vegetables,2.75,2.78,0.03
+2024,November,Siolim,Bakery,1.13,1.1,-0.03
+2024,November,Siolim,Beverages,1.93,1.94,0.01
+2024,November,Siolim,Fruits,1.87,1.84,-0.03
+2024,November,Siolim,Groceries,11.52,10.95,-0.57
+2024,November,Siolim,Milk Products,2.7,2.68,-0.02
+2024,November,Siolim,Ready to eat,1.89,1.81,-0.08
+2024,November,Siolim,Spices,5.7,5.35,-0.35
+2024,November,Siolim,Vegetables,2.91,2.8,-0.11
+2024,November,Baga,Bakery,1.15,1.13,-0.02
+2024,November,Baga,Beverages,1.97,1.75,-0.22
+2024,November,Baga,Fruits,1.91,1.9,-0.01
+2024,November,Baga,Groceries,10.89,11.88,0.99
+2024,November,Baga,Milk Products,2.61,2.83,0.22
+2024,November,Baga,Ready to eat,1.99,1.9,-0.09
+2024,November,Baga,Spices,5.28,5.76,0.48
+2024,November,Baga,Vegetables,2.88,2.78,-0.1
+2024,November,Porvorim,Bakery,1.07,1.16,0.09
+2024,November,Porvorim,Beverages,1.8,1.84,0.04
+2024,November,Porvorim,Fruits,1.79,1.9,0.11
+2024,November,Porvorim,Groceries,11.62,11.3,-0.32
+2024,November,Porvorim,Milk Products,2.76,2.99,0.23
+2024,November,Porvorim,Ready to eat,1.73,1.77,0.04
+2024,November,Porvorim,Spices,5.31,5.49,0.18
+2024,November,Porvorim,Vegetables,2.67,2.95,0.28
+2024,December,Panaji,Bakery,1.04,1.12,0.08
+2024,December,Panaji,Beverages,1.85,1.77,-0.08
+2024,December,Panaji,Fruits,1.92,1.91,-0.01
+2024,December,Panaji,Groceries,11.27,10.7,-0.57
+2024,December,Panaji,Milk Products,2.89,2.7,-0.19
+2024,December,Panaji,Ready to eat,1.8,1.93,0.13
+2024,December,Panaji,Spices,5.67,5.57,-0.1
+2024,December,Panaji,Vegetables,2.63,2.93,0.3
+2024,December,Khorlim,Bakery,1.11,1.11,0
+2024,December,Khorlim,Beverages,1.9,1.91,0.01
+2024,December,Khorlim,Fruits,1.91,1.81,-0.1
+2024,December,Khorlim,Groceries,10.39,10.99,0.6
+2024,December,Khorlim,Milk Products,2.8,2.78,-0.02
+2024,December,Khorlim,Ready to eat,1.87,1.95,0.08
+2024,December,Khorlim,Spices,5.6,5.36,-0.24
+2024,December,Khorlim,Vegetables,2.67,2.94,0.27
+2024,December,KTC,Bakery,1.05,1.05,0
+2024,December,KTC,Beverages,2,1.91,-0.09
+2024,December,KTC,Fruits,1.94,1.95,0.01
+2024,December,KTC,Groceries,11.98,11.87,-0.11
+2024,December,KTC,Milk Products,2.72,2.94,0.22
+2024,December,KTC,Ready to eat,1.8,1.9,0.1
+2024,December,KTC,Spices,5.68,5.91,0.23
+2024,December,KTC,Vegetables,2.9,2.94,0.04
+2024,December,Margao,Bakery,1.07,1.05,-0.02
+2024,December,Margao,Beverages,1.96,1.87,-0.09
+2024,December,Margao,Fruits,1.85,1.76,-0.09
+2024,December,Margao,Groceries,11.91,10.88,-1.03
+2024,December,Margao,Milk Products,2.96,2.84,-0.12
+2024,December,Margao,Ready to eat,1.82,1.91,0.09
+2024,December,Margao,Spices,5.39,5.95,0.56
+2024,December,Margao,Vegetables,2.91,2.66,-0.25
+2024,December,Siolim,Bakery,1.09,1.06,-0.03
+2024,December,Siolim,Beverages,1.8,1.9,0.1
+2024,December,Siolim,Fruits,1.89,1.75,-0.14
+2024,December,Siolim,Groceries,10.68,11.52,0.84
+2024,December,Siolim,Milk Products,2.71,2.84,0.13
+2024,December,Siolim,Ready to eat,1.93,1.97,0.04
+2024,December,Siolim,Spices,5.44,5.66,0.22
+2024,December,Siolim,Vegetables,2.83,2.7,-0.13
+2024,December,Baga,Bakery,1.12,1.11,-0.01
+2024,December,Baga,Beverages,1.84,1.92,0.08
+2024,December,Baga,Fruits,1.85,1.89,0.04
+2024,December,Baga,Groceries,10.89,10.68,-0.21
+2024,December,Baga,Milk Products,2.85,2.66,-0.19
+2024,December,Baga,Ready to eat,1.89,1.91,0.02
+2024,December,Baga,Spices,5.19,5.55,0.36
+2024,December,Baga,Vegetables,2.97,2.67,-0.3
+2024,December,Porvorim,Bakery,1.05,1.15,0.1
+2024,December,Porvorim,Beverages,1.81,1.97,0.16
+2024,December,Porvorim,Fruits,1.8,1.87,0.07
+2024,December,Porvorim,Groceries,11.17,11.38,0.21
+2024,December,Porvorim,Milk Products,2.68,2.94,0.26
+2024,December,Porvorim,Ready to eat,1.83,1.84,0.01
+2024,December,Porvorim,Spices,5.71,5.9,0.19
+2024,December,Porvorim,Vegetables,2.67,2.75,0.08
