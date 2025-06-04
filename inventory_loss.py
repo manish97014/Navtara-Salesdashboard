@@ -4,7 +4,7 @@ import pandas as pd
 def main():
     st.title("📦 Inventory Loss Analysis")
 
-    file_path = r"C:\Users\Navtara- Surya\OneDrive - Meal Metrix\Navtara\Python- Sales Performance analysis\Food cost analysis\foodcost_inputs\inventory_loss.csv"
+    file_path = r"inventory_loss.csv"
 
     try:
         df = pd.read_csv(file_path)
