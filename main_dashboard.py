@@ -8,12 +8,7 @@ st.set_page_config(page_title="Navtara Performance Dashboard", layout="wide")
 
 st.title("📈 Navtara Performance Dashboard")
 
-# === Add Swiggy reconciliation folder to sys.path ===
-swiggy_recon_path = r"C:\Users\Navtara- Surya\OneDrive - Meal Metrix\Navtara\Python- Sales Performance analysis\Reconciliations\Swiggy"
-if swiggy_recon_path not in sys.path:
-    sys.path.append(swiggy_recon_path)
-
-# Main section selection
+# === Main section selection ===
 main_section = st.sidebar.radio(
     "Select Section",
     ["Sales Performance Analysis", "Food Cost Analysis", "Financial Reporting"]
@@ -30,18 +25,13 @@ if main_section == "Sales Performance Analysis":
 
     if sub_option == "Sales Growth":
         try:
-            module = importlib.import_module("web_sales")  # No .py extension
-            module.main()
-        except ModuleNotFoundError:
-            st.error("❌ 'Web sales' module not found.")
-        except AttributeError:
-            st.error("❌ 'main' function not found in 'Web sales' module.")
+            import web_sales
+            web_sales.main()
         except Exception as e:
-            st.error(f"❌ Unexpected error: {e}")
+            st.error(f"❌ Error loading Sales Growth Report: {e}")
 
     elif sub_option == "Reconciliations":
         st.subheader("🔄 Reconciliations")
-
         platform_option = st.radio("Choose Platform", ["Swiggy", "Zomato"])
 
         if platform_option == "Swiggy":
@@ -49,31 +39,18 @@ if main_section == "Sales Performance Analysis":
                 "Select Swiggy Report",
                 ["Sales Reconciliation", "Order Level Reconciliation"]
             )
-
             if swiggy_report == "Sales Reconciliation":
-                st.subheader("🧾 Swiggy – Sales Reconciliation")
                 try:
-                    import swiggy_reconciliation  # Import your Swiggy reconciliation module
-                    swiggy_reconciliation.main()  # Call its main() function
-                except ModuleNotFoundError:
-                    st.error("❌ Swiggy Sales Reconciliation module not found.")
-                except AttributeError:
-                    st.error("❌ 'main' function not found in Swiggy Sales Reconciliation module.")
+                    sys.path.append(os.path.join(os.getcwd(), "Reconciliations", "Swiggy"))
+                    import swiggy_reconciliation
+                    swiggy_reconciliation.main()
                 except Exception as e:
-                    st.error(f"❌ Unexpected error: {e}")
-
+                    st.error(f"❌ Error loading Swiggy Sales Reconciliation: {e}")
             else:
-                st.subheader("🧾 Swiggy – Order Level Reconciliation")
                 st.info("Order Level Reconciliation – Coming Soon!")
 
         elif platform_option == "Zomato":
-            zomato_report = st.radio(
-                "Select Zomato Report",
-                ["Sales Reconciliation", "Order Level Reconciliation"]
-            )
-
-            st.subheader(f"🧾 Zomato – {zomato_report}")
-            st.info(f"{zomato_report} – Coming Soon!")
+            st.info("Zomato Reports – Coming Soon!")
 
     elif sub_option == "Cash Variance":
         st.subheader("💰 Cash Variance")
@@ -95,9 +72,7 @@ elif main_section == "Food Cost Analysis":
 
     if food_option == "Ideal Vs Actual Food Cost":
         try:
-            ideal_path = os.path.join("Food cost analysis", "ideal_vs_actual")
-            if ideal_path not in sys.path:
-                sys.path.append(ideal_path)
+            sys.path.append(os.path.join(os.getcwd(), "food_cost_analysis", "ideal_vs_actual"))
             import ideal_vs_actual
             ideal_vs_actual.main()
         except Exception as e:
@@ -105,9 +80,7 @@ elif main_section == "Food Cost Analysis":
 
     elif food_option == "Inventory Consumption Report":
         try:
-            inv_path = os.path.join("Food cost analysis", "inventory_consumption")
-            if inv_path not in sys.path:
-                sys.path.append(inv_path)
+            sys.path.append(os.path.join(os.getcwd(), "food_cost_analysis", "inventory_consumption"))
             import inventory_consumption
             inventory_consumption.main()
         except Exception as e:
@@ -115,16 +88,13 @@ elif main_section == "Food Cost Analysis":
 
     elif food_option == "Inventory Loss Report":
         try:
-            loss_path = os.path.join("Food cost analysis", "inventory_loss")
-            if loss_path not in sys.path:
-                sys.path.append(loss_path)
+            sys.path.append(os.path.join(os.getcwd(), "food_cost_analysis", "inventory_loss"))
             import inventory_loss
             inventory_loss.main()
         except Exception as e:
             st.error(f"❌ Error loading Inventory Loss Report: {e}")
 
     elif food_option == "Dish Level Costing Report":
-        st.subheader("📦 Dish Level Costing Report")
         st.info("Dish Level Costing Report – Coming Soon!")
 
 # === FINANCIAL REPORTING ===

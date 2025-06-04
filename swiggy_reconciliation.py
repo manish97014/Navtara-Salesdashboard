@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime, timedelta
 
 # === FILE PATHS ===
-input_path = r"C:\Users\Navtara- Surya\OneDrive - Meal Metrix\Navtara\Python- Sales Performance analysis\Reconciliations\Swiggy\output files"
+input_path = r"output files"
 pos_file = f"{input_path}\\swiggy_pos.xlsx"
 mapping_file = f"{input_path}\\swiggy_mapping_table.xlsx"
 
