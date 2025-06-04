@@ -93,8 +93,39 @@ elif main_section == "Food Cost Analysis":
         ]
     )
 
-    st.subheader(food_option)
-    st.info(f"{food_option} – Coming Soon!")
+    if food_option == "Ideal Vs Actual Food Cost":
+        try:
+            ideal_path = os.path.join("Food cost analysis", "ideal_vs_actual")
+            if ideal_path not in sys.path:
+                sys.path.append(ideal_path)
+            import ideal_vs_actual
+            ideal_vs_actual.main()
+        except Exception as e:
+            st.error(f"❌ Error loading Ideal Vs Actual Food Cost: {e}")
+
+    elif food_option == "Inventory Consumption Report":
+        try:
+            inv_path = os.path.join("Food cost analysis", "inventory_consumption")
+            if inv_path not in sys.path:
+                sys.path.append(inv_path)
+            import inventory_consumption
+            inventory_consumption.main()
+        except Exception as e:
+            st.error(f"❌ Error loading Inventory Consumption Report: {e}")
+
+    elif food_option == "Inventory Loss Report":
+        try:
+            loss_path = os.path.join("Food cost analysis", "inventory_loss")
+            if loss_path not in sys.path:
+                sys.path.append(loss_path)
+            import inventory_loss
+            inventory_loss.main()
+        except Exception as e:
+            st.error(f"❌ Error loading Inventory Loss Report: {e}")
+
+    elif food_option == "Dish Level Costing Report":
+        st.subheader("📦 Dish Level Costing Report")
+        st.info("Dish Level Costing Report – Coming Soon!")
 
 # === FINANCIAL REPORTING ===
 elif main_section == "Financial Reporting":
