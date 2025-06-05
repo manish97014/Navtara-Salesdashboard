@@ -55,6 +55,7 @@ def preprocess_data(df):
     df['Sales Value'] = df['Net Sale'] + df['Charges']
 
     df['Outlet Name'] = df['Outlet Name'].fillna('Unknown')
+    df['Outlet Name'] = df['Outlet Name'].str.replace(r'\bNavtara\b', '', case=False, regex=True).str.strip()
     df['Tabs'] = df['Tabs'].fillna('Unknown')
     return df
 
@@ -192,3 +193,7 @@ def main():
     outlet_sales = df_current.groupby('Outlet Name')['Sales Value'].sum().reset_index()
     fig_outlets = px.bar(outlet_sales, x='Outlet Name', y='Sales Value', title="Sales by Outlet", labels={'Outlet Name': 'Outlet'})
     st.plotly_chart(fig_outlets, use_container_width=True)
+
+# Run the app
+if __name__ == "__main__":
+    main()

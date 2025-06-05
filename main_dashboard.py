@@ -4,7 +4,7 @@ import sys
 import os
 
 # --- LOGIN SETUP ---
-st.set_page_config(page_title="Navtara Performance Dashboard", layout="wide")
+st.set_page_config(page_title="Client Performance Dashboard", layout="wide")
 
 # Hardcoded login credentials (store securely in real app)
 USERNAME = "admin"
@@ -16,7 +16,7 @@ if "logged_in" not in st.session_state:
 
 # Login form
 if not st.session_state.logged_in:
-    st.title("🔐 Login to Navtara Dashboard")
+    st.title("🔐 Login to Client Dashboard")
     with st.form("login_form"):
         username_input = st.text_input("Username")
         password_input = st.text_input("Password", type="password")
@@ -32,7 +32,7 @@ if not st.session_state.logged_in:
 
 # --- MAIN DASHBOARD ---
 if st.session_state.logged_in:
-    st.title("📈 Navtara Performance Dashboard")
+    st.title("📈 Client Performance Dashboard")
 
     # Sidebar navigation
     main_section = st.sidebar.radio(
