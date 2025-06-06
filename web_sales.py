@@ -75,6 +75,7 @@ def get_current_period(df, selected_years, selected_months, selected_weeks, sele
         return None, None
     return df_temp['Date'].min(), df_temp['Date'].max()
 
+# --- Main App ---
 def main():
     st.title("📈 Sales Trends")
 
@@ -95,23 +96,18 @@ def main():
     # --- Sidebar Filters ---
     st.sidebar.header("📂 Filter Data")
 
-    selected_years = st.sidebar.multiselect(
-        "Select Year(s):",
-        sorted(df['Year'].unique()),
-        default=sorted(df['Year'].unique())
-    )
+    years = sorted(df['Year'].unique())
+    months = list(df['Month'].unique())
+    outlets = sorted(df['Outlet Name'].unique())
 
-    selected_months = st.sidebar.multiselect(
-        "Select Month(s):",
-        df['Month'].unique(),
-        default=df['Month'].unique()
-    )
+    select_all_years = st.sidebar.checkbox("Select All Years")
+    selected_years = st.sidebar.multiselect("Select Year(s):", options=years, default=years if select_all_years else [])
 
-    selected_outlets = st.sidebar.multiselect(
-        "Select Outlet(s):",
-        sorted(df['Outlet Name'].unique()),
-        default=sorted(df['Outlet Name'].unique())
-    )
+    select_all_months = st.sidebar.checkbox("Select All Months")
+    selected_months = st.sidebar.multiselect("Select Month(s):", options=months, default=months if select_all_months else [])
+
+    select_all_outlets = st.sidebar.checkbox("Select All Outlets")
+    selected_outlets = st.sidebar.multiselect("Select Outlet(s):", options=outlets, default=outlets if select_all_outlets else [])
 
     df_month_filtered = df.copy()
     if selected_years:
@@ -159,31 +155,74 @@ def main():
     if selected_outlets:
         df_previous = df_previous[df_previous['Outlet Name'].isin(selected_outlets)]
 
-    # --- KPIs and Growth ---
-    col1, col2 = st.columns(2)
+    # --- KPI Cards ---
+    col1, col2, col3 = st.columns(3)
+
+    total_sales = df_current['Sales Value'].sum()
+    prev_sales = df_previous['Sales Value'].sum()
+    sply_start = start_date - pd.DateOffset(years=1)
+    sply_end = end_date - pd.DateOffset(years=1)
+    df_sply = df[(df['Date'] >= sply_start) & (df['Date'] <= sply_end)]
+    if selected_outlets:
+        df_sply = df_sply[df_sply['Outlet Name'].isin(selected_outlets)]
+    sply_sales = df_sply['Sales Value'].sum()
+
     with col1:
         st.markdown("### 🟢 Current Period Sales")
-        total_sales = df_current['Sales Value'].sum()
-        st.markdown(f"<h1 style='color:#008000;'>₹ {total_sales:,.0f}</h1>", unsafe_allow_html=True)
+        st.markdown(
+            f"""
+            <div style='padding:15px; border-radius:12px; background:#e6ffe6; text-align:center'>
+                <h2 style='color:#008000; font-size:2.2em; margin:0;'>₹ {total_sales:,.0f}</h2>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
 
-        prev_sales = df_previous['Sales Value'].sum()
+        # Calculate growth % vs previous
         if prev_sales > 0:
             growth = ((total_sales - prev_sales) / prev_sales) * 100
         else:
             growth = 0
+        growth_arrow = "&#9650;" if growth > 0 else "&#9660;" if growth < 0 else ""
+        growth_color = "green" if growth > 0 else "red" if growth < 0 else "gray"
 
-        if growth > 0:
-            growth_html = f"<p style='font-size:20px; color:green;'>&#9650; {growth:.2f}% Increase vs Previous Period</p>"
-        elif growth < 0:
-            growth_html = f"<p style='font-size:20px; color:red;'>&#9660; {abs(growth):.2f}% Decrease vs Previous Period</p>"
+        # Calculate growth % vs LY
+        if sply_sales > 0:
+            sply_growth = ((total_sales - sply_sales) / sply_sales) * 100
         else:
-            growth_html = f"<p style='font-size:20px; color:gray;'>No Change vs Previous Period</p>"
+            sply_growth = 0
+        sply_arrow = "&#9650;" if sply_growth > 0 else "&#9660;" if sply_growth < 0 else ""
+        sply_color = "green" if sply_growth > 0 else "red" if sply_growth < 0 else "gray"
 
-        st.markdown(growth_html, unsafe_allow_html=True)
+        st.markdown(
+            f"""
+            <p style='font-size:16px; color:{growth_color}; text-align:center'>{growth_arrow} {abs(growth):.2f}% vs Previous</p>
+            <p style='font-size:16px; color:{sply_color}; text-align:center'>{sply_arrow} {abs(sply_growth):.2f}% vs LY</p>
+            """,
+            unsafe_allow_html=True
+        )
 
     with col2:
         st.markdown("### 🔹 Previous Period Sales")
-        st.markdown(f"<h1 style='color:#0000CD;'>₹ {prev_sales:,.0f}</h1>", unsafe_allow_html=True)
+        st.markdown(
+            f"""
+            <div style='padding:15px; border-radius:12px; background:#e6f0ff; text-align:center'>
+                <h2 style='color:#0000CD; font-size:2.2em; margin:0;'>₹ {prev_sales:,.0f}</h2>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+
+    with col3:
+        st.markdown("### 🕓 Same Period LY Sales")
+        st.markdown(
+            f"""
+            <div style='padding:15px; border-radius:12px; background:#fff0e6; text-align:center'>
+                <h2 style='color:#FF8C00; font-size:2.2em; margin:0;'>₹ {sply_sales:,.0f}</h2>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
 
     # --- Charts ---
     tab_sales = df_current.groupby('Tabs')['Sales Value'].sum().reset_index()

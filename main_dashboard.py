@@ -26,7 +26,7 @@ if not st.session_state.logged_in:
             if username_input == USERNAME and password_input == PASSWORD:
                 st.session_state.logged_in = True
                 st.success("✅ Login successful!")
-                st.rerun()  # Use st.rerun() for latest Streamlit versions
+                st.rerun()  # <-- your original rerun line kept as is
             else:
                 st.error("❌ Invalid username or password.")
 
@@ -34,20 +34,42 @@ if not st.session_state.logged_in:
 if st.session_state.logged_in:
     st.title("📈 Client Performance Dashboard")
 
-    # Sidebar navigation
-    main_section = st.sidebar.radio(
-        "Select Section",
-        ["Sales Performance Analysis", "Food Cost Analysis", "Financial Reporting"]
-    )
+    # Sidebar navigation with logo
+    with st.sidebar:
+        st.image("logo.png", width=150)  # Add your logo image here
+        st.markdown("---")
+
+        main_section = st.radio(
+            "Select Section",
+            ["Sales Performance Analysis", "Food Cost Analysis", "Financial Reporting"]
+        )
+
+        if main_section == "Sales Performance Analysis":
+            sub_option = st.radio(
+                "Select a Report",
+                ["Sales Growth", "Reconciliations", "Cash Variance"]
+            )
+
+        elif main_section == "Food Cost Analysis":
+            food_option = st.radio(
+                "Select a Report",
+                [
+                    "Ideal Vs Actual Food Cost",
+                    "Inventory Consumption Report",
+                    "Inventory Loss Report",
+                    "Dish Level Costing Report"
+                ]
+            )
+
+        elif main_section == "Financial Reporting":
+            finance_option = st.radio(
+                "Select a Report",
+                ["P&L Report", "Cash Flow Statement"]
+            )
 
     # === SALES PERFORMANCE ANALYSIS ===
     if main_section == "Sales Performance Analysis":
         st.header("📊 Sales Performance Analysis")
-
-        sub_option = st.sidebar.radio(
-            "Select a Report",
-            ["Sales Growth", "Reconciliations", "Cash Variance"]
-        )
 
         if sub_option == "Sales Growth":
             try:
@@ -89,16 +111,6 @@ if st.session_state.logged_in:
     elif main_section == "Food Cost Analysis":
         st.header("🍽️ Food Cost Analysis")
 
-        food_option = st.sidebar.radio(
-            "Select a Report",
-            [
-                "Ideal Vs Actual Food Cost",
-                "Inventory Consumption Report",
-                "Inventory Loss Report",
-                "Dish Level Costing Report"
-            ]
-        )
-
         if food_option == "Ideal Vs Actual Food Cost":
             try:
                 ideal_path = os.path.join(os.getcwd(), "food_cost_analysis", "ideal_vs_actual")
@@ -130,16 +142,18 @@ if st.session_state.logged_in:
                 st.error(f"❌ Error loading Inventory Loss Report: {e}")
 
         elif food_option == "Dish Level Costing Report":
-            st.info("Dish Level Costing Report – Coming Soon!")
+            try:
+                dish_level_path = os.path.join(os.getcwd(), "food_cost_analysis", "dish_level")
+                if dish_level_path not in sys.path:
+                    sys.path.append(dish_level_path)
+                import dish_level
+                dish_level.main()
+            except Exception as e:
+                st.error(f"❌ Error loading Dish Level Costing Report: {e}")
 
     # === FINANCIAL REPORTING ===
     elif main_section == "Financial Reporting":
         st.header("📑 Financial Reporting")
-
-        finance_option = st.sidebar.radio(
-            "Select a Report",
-            ["P&L Report", "Cash Flow Statement"]
-        )
 
         st.subheader(finance_option)
         st.info(f"{finance_option} – Coming Soon!")

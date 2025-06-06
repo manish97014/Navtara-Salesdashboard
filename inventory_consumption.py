@@ -1,15 +1,16 @@
 import streamlit as st
 import pandas as pd
 
-def main():
-    st.title("📦 Inventory Consumption Analysis")
 
+def main():
+   
     file_path = r"inventory_loss.csv"
 
     try:
         df = pd.read_csv(file_path)
         df['Month'] = df['Month'].astype(str)
 
+        # --- Sidebar Filters ---
         years = sorted(df['Year'].dropna().unique())
         selected_year = st.sidebar.selectbox("Select Year", ['All'] + years)
 
@@ -35,35 +36,48 @@ def main():
         if selected_location != 'All':
             filtered_df = filtered_df[filtered_df['Location'] == selected_location]
 
+        # --- Table Calculation ---
         table_df = filtered_df.groupby(['Item', 'UOM']).agg({
             'Price': 'mean',
             'Opening Stock (Qty)': 'sum',
             'Purchases (Qty)': 'sum',
+            'Ideal Closing Stock': 'sum',
             'Consumption (Qty)': 'sum'
         }).reset_index()
 
         table_df['Consumption (Value)'] = table_df['Consumption (Qty)'] * table_df['Price']
 
-        table_df = table_df[['Item', 'UOM', 'Price', 'Opening Stock (Qty)', 'Purchases (Qty)', 'Consumption (Qty)', 'Consumption (Value)']]
+        # Rename Ideal Closing Stock as Closing Stock
+        table_df.rename(columns={'Ideal Closing Stock': 'Closing Stock'}, inplace=True)
 
+        # Rearranged Columns
+        table_df = table_df[
+            ['Item', 'UOM', 'Price', 'Opening Stock (Qty)', 'Purchases (Qty)',
+             'Closing Stock', 'Consumption (Qty)', 'Consumption (Value)']
+        ]
+
+        # --- Totals Row ---
         totals = {
             'Item': 'Total',
             'UOM': '',
             'Price': table_df['Price'].mean(),
             'Opening Stock (Qty)': table_df['Opening Stock (Qty)'].sum(),
             'Purchases (Qty)': table_df['Purchases (Qty)'].sum(),
+            'Closing Stock': table_df['Closing Stock'].sum(),
             'Consumption (Qty)': table_df['Consumption (Qty)'].sum(),
             'Consumption (Value)': table_df['Consumption (Value)'].sum()
         }
 
         table_df = pd.concat([table_df, pd.DataFrame([totals])], ignore_index=True)
 
+        # --- Display Table with Formatting ---
         st.subheader("📋 Inventory Consumption Details")
         st.dataframe(
             table_df.style.format({
                 'Price': '₹ {:,.2f}',
                 'Opening Stock (Qty)': '{:,.0f}',
                 'Purchases (Qty)': '{:,.0f}',
+                'Closing Stock': '{:,.0f}',
                 'Consumption (Qty)': '{:,.0f}',
                 'Consumption (Value)': '₹ {:,.2f}'
             }),

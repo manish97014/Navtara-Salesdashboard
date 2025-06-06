@@ -8,7 +8,12 @@ def main():
 
     try:
         df = pd.read_csv(file_path)
-        df['Month'] = df['Month'].astype(str)  # Ensure Month is string
+
+        # Remove ₹ symbol and commas, convert to float
+        for col in ['Ideal Cost', 'Actual Cost', 'Variance']:
+            df[col] = df[col].replace({'₹': '', ',': ''}, regex=True).astype(float)
+
+        df['Month'] = df['Month'].astype(str)
 
         # Sidebar Filters
         years = sorted(df['Year'].dropna().unique())
@@ -58,9 +63,9 @@ def main():
 
         # Display Cards
         col1, col2, col3 = st.columns(3)
-        col1.metric("Ideal Food Cost", f"₹ {ideal_cost:,.2f}")
-        col2.metric("Actual Food Cost", f"₹ {actual_cost:,.2f}")
-        col3.metric("Variance", f"₹ {variance:,.2f}")
+        col1.metric("Ideal Food Cost %", f"{ideal_cost:.2f}%")
+        col2.metric("Actual Food Cost %", f"{actual_cost:.2f}%")
+        col3.metric("Variance %", f"{variance:.2f}%")
 
         # Location-wise Table
         st.subheader("📍 Location-wise Food Cost")
@@ -80,6 +85,10 @@ def main():
             loc_table = filtered_df.groupby('Location').agg({
                 'Ideal Cost': 'sum', 'Actual Cost': 'sum', 'Variance': 'sum'
             }).reset_index()
+
+        # Format as % in table
+        for col in ['Ideal Cost', 'Actual Cost', 'Variance']:
+            loc_table[col] = loc_table[col].map(lambda x: f"{x:.2f}%")
         st.dataframe(loc_table)
 
         # Category-wise Table
@@ -98,7 +107,6 @@ def main():
                 'Ideal Cost': 'sum', 'Actual Cost': 'sum', 'Variance': 'sum'
             }).reset_index()
 
-            # Divide by number of locations for Year + Month
             location_count = df[(df['Year'] == selected_year) & (df['Month'] == selected_month)]['Location'].nunique()
             cat_table['Ideal Cost'] = cat_table['Ideal Cost'] / location_count
             cat_table['Actual Cost'] = cat_table['Actual Cost'] / location_count
@@ -107,9 +115,13 @@ def main():
             cat_table = filtered_df.groupby('Category').agg({
                 'Ideal Cost': 'sum', 'Actual Cost': 'sum', 'Variance': 'sum'
             }).reset_index()
+
+        # Format as % in table
+        for col in ['Ideal Cost', 'Actual Cost', 'Variance']:
+            cat_table[col] = cat_table[col].map(lambda x: f"{x:.2f}%")
         st.dataframe(cat_table)
 
-        # Download Buttons (Only CSV)
+        # Download Buttons
         def download_buttons(name, df_table):
             csv = df_table.to_csv(index=False).encode('utf-8')
             st.download_button(f"Download {name} CSV", csv, f"{name.lower().replace(' ', '_')}.csv", "text/csv")
