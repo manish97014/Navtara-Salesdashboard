@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import os
 
-FILE_PATH = r"Pnl.csv"
+FILE_PATH = r"PnL.csv"
 
 def main():
 
