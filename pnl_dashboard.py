@@ -4,8 +4,6 @@ import os
 
 def main():
     FILE_PATH = r"PnL.csv"
-
-
     st.title("📈 Profit & Loss Summary")
 
     # File check
