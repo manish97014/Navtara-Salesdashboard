@@ -2,13 +2,9 @@ import streamlit as st
 import pandas as pd
 import os
 
-<<<<<<< HEAD
-FILE_PATH = r"C:\Users\Navtara- Surya\OneDrive - Meal Metrix\Navtara\Python- Sales Performance analysis\PnL.csv"
-=======
-FILE_PATH = r"PnL.csv"
->>>>>>> 9666815f249fd33966b1048b6e2e041cb8a26124
-
 def main():
+    FILE_PATH = r"PnL.csv"
+
 
     st.title("📈 Profit & Loss Summary")
 
