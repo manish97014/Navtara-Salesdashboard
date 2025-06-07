@@ -2,10 +2,10 @@ import streamlit as st
 import pandas as pd
 import os
 
-FILE_PATH = r"C:\Users\Navtara- Surya\OneDrive - Meal Metrix\Navtara\Python- Sales Performance analysis\Pnl.csv"
+FILE_PATH = r"Pnl.csv"
 
 def main():
-    st.set_page_config(page_title="📊 P&L Dashboard", layout="wide")
+
     st.title("📈 Profit & Loss Summary")
 
     # File check

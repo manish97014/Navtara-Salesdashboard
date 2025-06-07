@@ -6,7 +6,7 @@ import os
 # --- LOGIN SETUP ---
 st.set_page_config(page_title="Client Performance Dashboard", layout="wide")
 
-# Hardcoded login credentials (store securely in real app)
+# Hardcoded login credentials
 USERNAME = "admin"
 PASSWORD = "9876"
 
@@ -26,7 +26,7 @@ if not st.session_state.logged_in:
             if username_input == USERNAME and password_input == PASSWORD:
                 st.session_state.logged_in = True
                 st.success("✅ Login successful!")
-                st.rerun()  # <-- your original rerun line kept as is
+                st.rerun()
             else:
                 st.error("❌ Invalid username or password.")
 
@@ -36,7 +36,7 @@ if st.session_state.logged_in:
 
     # Sidebar navigation with logo
     with st.sidebar:
-        st.image("logo.png", width=150)  # Add your logo image here
+        st.image("logo.png", width=150)
         st.markdown("---")
 
         main_section = st.radio(
@@ -155,5 +155,15 @@ if st.session_state.logged_in:
     elif main_section == "Financial Reporting":
         st.header("📑 Financial Reporting")
 
-        st.subheader(finance_option)
-        st.info(f"{finance_option} – Coming Soon!")
+        if finance_option == "P&L Report":
+            try:
+                pnl_path = os.path.join(os.getcwd(), "financial_reporting")
+                if pnl_path not in sys.path:
+                    sys.path.append(pnl_path)
+                import pnl_dashboard
+                pnl_dashboard.main()
+            except Exception as e:
+                st.error(f"❌ Error loading P&L Report: {e}")
+
+        elif finance_option == "Cash Flow Statement":
+            st.info("Cash Flow Statement – Coming Soon!")
