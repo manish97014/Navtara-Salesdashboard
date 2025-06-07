@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import os
 
-FILE_PATH = r"PnL.csv"
+FILE_PATH = r"C:\Users\Navtara- Surya\OneDrive - Meal Metrix\Navtara\Python- Sales Performance analysis\PnL.csv"
 
 def main():
 
