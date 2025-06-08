@@ -105,7 +105,14 @@ if st.session_state.logged_in:
 
         elif sub_option == "Cash Variance":
             st.subheader("💰 Cash Variance")
-            st.info("Cash Variance report will be added here.")
+            try:
+                cvr_path = os.path.join(os.getcwd(), "Reconciliations", "CashVariance")
+                if cvr_path not in sys.path:
+                    sys.path.append(cvr_path)
+                import CVR
+                CVR.main()
+            except Exception as e:
+                st.error(f"❌ Error loading Cash Variance Report: {e}")
 
     # === FOOD COST ANALYSIS ===
     elif main_section == "Food Cost Analysis":
